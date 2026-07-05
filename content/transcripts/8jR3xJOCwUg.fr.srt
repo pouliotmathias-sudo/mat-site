@@ -1,0 +1,2315 @@
+1
+00:00:01,920 --> 00:00:05,829
+
+Euh je faisais euh je cherchais des des
+
+2
+00:00:05,829 --> 00:00:05,839
+Euh je faisais euh je cherchais des des
+ 
+
+3
+00:00:05,839 --> 00:00:08,150
+Euh je faisais euh je cherchais des des
+choses à à
+
+4
+00:00:08,150 --> 00:00:08,160
+choses à à
+ 
+
+5
+00:00:08,160 --> 00:00:10,830
+choses à à
+discussion en vidéo puis je me suis
+
+6
+00:00:10,830 --> 00:00:10,840
+discussion en vidéo puis je me suis
+ 
+
+7
+00:00:10,840 --> 00:00:13,190
+discussion en vidéo puis je me suis
+arrêté au
+
+8
+00:00:13,190 --> 00:00:13,200
+arrêté au
+ 
+
+9
+00:00:13,200 --> 00:00:17,750
+arrêté au
+comment Claud C en ce moment
+
+10
+00:00:17,750 --> 00:00:17,760
+
+ 
+
+11
+00:00:17,760 --> 00:00:20,189
+
+comment que en ce moment Claud C il
+
+12
+00:00:20,189 --> 00:00:20,199
+comment que en ce moment Claud C il
+ 
+
+13
+00:00:20,199 --> 00:00:23,830
+comment que en ce moment Claud C il
+prend tout le le du marché tout le monde
+
+14
+00:00:23,830 --> 00:00:23,840
+prend tout le le du marché tout le monde
+ 
+
+15
+00:00:23,840 --> 00:00:27,029
+prend tout le le du marché tout le monde
+parle de CL tout le monde parle de
+
+16
+00:00:27,029 --> 00:00:27,039
+parle de CL tout le monde parle de
+ 
+
+17
+00:00:27,039 --> 00:00:29,830
+parle de CL tout le monde parle de
+c'est quoi comment c'est révolutionnaire
+
+18
+00:00:29,830 --> 00:00:29,840
+c'est quoi comment c'est révolutionnaire
+ 
+
+19
+00:00:29,840 --> 00:00:31,230
+c'est quoi comment c'est révolutionnaire
+Mais qu'il y a pas beaucoup de monde qui
+
+20
+00:00:31,230 --> 00:00:31,240
+Mais qu'il y a pas beaucoup de monde qui
+ 
+
+21
+00:00:31,240 --> 00:00:35,389
+Mais qu'il y a pas beaucoup de monde qui
+parle vraiment de comment l'utiliser,
+
+22
+00:00:35,389 --> 00:00:35,399
+parle vraiment de comment l'utiliser,
+ 
+
+23
+00:00:35,399 --> 00:00:37,350
+parle vraiment de comment l'utiliser,
+comment l'utiliser pour que ça soit le
+
+24
+00:00:37,350 --> 00:00:37,360
+comment l'utiliser pour que ça soit le
+ 
+
+25
+00:00:37,360 --> 00:00:40,029
+comment l'utiliser pour que ça soit le
+plus optimal possible. Puis je me suis
+
+26
+00:00:40,029 --> 00:00:40,039
+plus optimal possible. Puis je me suis
+ 
+
+27
+00:00:40,039 --> 00:00:42,229
+plus optimal possible. Puis je me suis
+fait une petite liste de choses que je
+
+28
+00:00:42,229 --> 00:00:42,239
+fait une petite liste de choses que je
+ 
+
+29
+00:00:42,239 --> 00:00:46,270
+fait une petite liste de choses que je
+voulais aborder concernant euh Cloud
+
+30
+00:00:46,270 --> 00:00:46,280
+voulais aborder concernant euh Cloud
+ 
+
+31
+00:00:46,280 --> 00:00:48,510
+voulais aborder concernant euh Cloud
+Code
+
+32
+00:00:48,510 --> 00:00:48,520
+Code
+ 
+
+33
+00:00:48,520 --> 00:00:50,510
+Code
+puis comment l'optimiser. J'étais encore
+
+34
+00:00:50,510 --> 00:00:50,520
+puis comment l'optimiser. J'étais encore
+ 
+
+35
+00:00:50,520 --> 00:00:54,310
+puis comment l'optimiser. J'étais encore
+au début début de Cloud Code mais euh
+
+36
+00:00:54,310 --> 00:00:54,320
+au début début de Cloud Code mais euh
+ 
+
+37
+00:00:54,320 --> 00:00:56,029
+au début début de Cloud Code mais euh
+j'ai écouté énorm énormément de vidéos
+
+38
+00:00:56,029 --> 00:00:56,039
+j'ai écouté énorm énormément de vidéos
+ 
+
+39
+00:00:56,039 --> 00:00:58,189
+j'ai écouté énorm énormément de vidéos
+là-dessus. J'ai essayé au maximum de
+
+40
+00:00:58,189 --> 00:00:58,199
+là-dessus. J'ai essayé au maximum de
+ 
+
+41
+00:00:58,199 --> 00:01:00,069
+là-dessus. J'ai essayé au maximum de
+l'améliorer
+
+42
+00:01:00,069 --> 00:01:00,079
+l'améliorer
+ 
+
+43
+00:01:00,079 --> 00:01:02,709
+l'améliorer
+puis je continue à apprendre dessus.
+
+44
+00:01:02,709 --> 00:01:02,719
+puis je continue à apprendre dessus.
+ 
+
+45
+00:01:02,719 --> 00:01:06,429
+puis je continue à apprendre dessus.
+Mais si euh
+
+46
+00:01:06,429 --> 00:01:06,439
+Mais si euh
+ 
+
+47
+00:01:06,439 --> 00:01:08,149
+Mais si euh
+tu continues à écrire des notes dessus.
+
+48
+00:01:08,149 --> 00:01:08,159
+tu continues à écrire des notes dessus.
+ 
+
+49
+00:01:08,159 --> 00:01:12,270
+tu continues à écrire des notes dessus.
+Bon euh bon premier point le second
+
+50
+00:01:12,270 --> 00:01:12,280
+Bon euh bon premier point le second
+ 
+
+51
+00:01:12,280 --> 00:01:13,590
+Bon euh bon premier point le second
+cerveau fait c'est le contexte que tu
+
+52
+00:01:13,590 --> 00:01:13,600
+cerveau fait c'est le contexte que tu
+ 
+
+53
+00:01:13,600 --> 00:01:17,109
+cerveau fait c'est le contexte que tu
+donnes à ton euh à Claude Code.
+
+54
+00:01:17,109 --> 00:01:17,119
+donnes à ton euh à Claude Code.
+ 
+
+55
+00:01:17,119 --> 00:01:20,109
+donnes à ton euh à Claude Code.
+Cloud C first
+
+56
+00:01:20,109 --> 00:01:20,119
+Cloud C first
+ 
+
+57
+00:01:20,119 --> 00:01:22,590
+Cloud C first
+utilise est-ce que ça dépend ? Tu
+
+58
+00:01:22,590 --> 00:01:22,600
+utilise est-ce que ça dépend ? Tu
+ 
+
+59
+00:01:22,600 --> 00:01:24,710
+utilise est-ce que ça dépend ? Tu
+l'utilises
+
+60
+00:01:24,710 --> 00:01:24,720
+l'utilises
+ 
+
+61
+00:01:24,720 --> 00:01:26,950
+l'utilises
+de différentes manières fait qu' a
+
+62
+00:01:26,950 --> 00:01:26,960
+de différentes manières fait qu' a
+ 
+
+63
+00:01:26,960 --> 00:01:29,069
+de différentes manières fait qu' a
+cloud.ai AI lui que tout le monde
+
+64
+00:01:29,069 --> 00:01:29,079
+cloud.ai AI lui que tout le monde
+ 
+
+65
+00:01:29,079 --> 00:01:31,149
+cloud.ai AI lui que tout le monde
+connaît, Cloud Cowork qui commence de
+
+66
+00:01:31,149 --> 00:01:31,159
+connaît, Cloud Cowork qui commence de
+ 
+
+67
+00:01:31,159 --> 00:01:33,230
+connaît, Cloud Cowork qui commence de
+plus en plus à ça parler de lui puis son
+
+68
+00:01:33,230 --> 00:01:33,240
+plus en plus à ça parler de lui puis son
+ 
+
+69
+00:01:33,240 --> 00:01:35,230
+plus en plus à ça parler de lui puis son
+CL code
+
+70
+00:01:35,230 --> 00:01:35,240
+CL code
+ 
+
+71
+00:01:35,240 --> 00:01:40,030
+CL code
+euh Cloud, tu l'utilises plus pour
+
+72
+00:01:40,030 --> 00:01:40,040
+euh Cloud, tu l'utilises plus pour
+ 
+
+73
+00:01:40,040 --> 00:01:41,149
+euh Cloud, tu l'utilises plus pour
+peut-être pour t'aider à faire des
+
+74
+00:01:41,149 --> 00:01:41,159
+peut-être pour t'aider à faire des
+ 
+
+75
+00:01:41,159 --> 00:01:46,429
+peut-être pour t'aider à faire des
+prompts, faire des recherches, faire euh
+
+76
+00:01:46,429 --> 00:01:46,439
+prompts, faire des recherches, faire euh
+ 
+
+77
+00:01:46,439 --> 00:01:47,709
+prompts, faire des recherches, faire euh
+moi c'est principal pour ça je l'utilise
+
+78
+00:01:47,709 --> 00:01:47,719
+moi c'est principal pour ça je l'utilise
+ 
+
+79
+00:01:47,719 --> 00:01:50,230
+moi c'est principal pour ça je l'utilise
+Claud de AI des fois des choses qui sont
+
+80
+00:01:50,230 --> 00:01:50,240
+Claud de AI des fois des choses qui sont
+ 
+
+81
+00:01:50,240 --> 00:01:52,469
+Claud de AI des fois des choses qui sont
+plus faciles de l'écriture l'écriture de
+
+82
+00:01:52,469 --> 00:01:52,479
+plus faciles de l'écriture l'écriture de
+ 
+
+83
+00:01:52,479 --> 00:01:55,350
+plus faciles de l'écriture l'écriture de
+pause tout ça. Mais même à ça, Claude
+
+84
+00:01:55,350 --> 00:01:55,360
+pause tout ça. Mais même à ça, Claude
+ 
+
+85
+00:01:55,360 --> 00:01:58,510
+pause tout ça. Mais même à ça, Claude
+COD est meilleur habituellement. Cowork,
+
+86
+00:01:58,510 --> 00:01:58,520
+COD est meilleur habituellement. Cowork,
+ 
+
+87
+00:01:58,520 --> 00:02:00,510
+COD est meilleur habituellement. Cowork,
+je l'utilise plus ou moins. Je te dirais
+
+88
+00:02:00,510 --> 00:02:00,520
+je l'utilise plus ou moins. Je te dirais
+ 
+
+89
+00:02:00,520 --> 00:02:03,069
+je l'utilise plus ou moins. Je te dirais
+en ce moment, c'est principalement Claud
+
+90
+00:02:03,069 --> 00:02:03,079
+en ce moment, c'est principalement Claud
+ 
+
+91
+00:02:03,079 --> 00:02:04,630
+en ce moment, c'est principalement Claud
+code Claud code, la force c'est qu'il
+
+92
+00:02:04,630 --> 00:02:04,640
+code Claud code, la force c'est qu'il
+ 
+
+93
+00:02:04,640 --> 00:02:07,550
+code Claud code, la force c'est qu'il
+rentre dans ton terminal dans ton ordi,
+
+94
+00:02:07,550 --> 00:02:07,560
+rentre dans ton terminal dans ton ordi,
+ 
+
+95
+00:02:07,560 --> 00:02:09,469
+rentre dans ton terminal dans ton ordi,
+puis il peut
+
+96
+00:02:09,469 --> 00:02:09,479
+puis il peut
+ 
+
+97
+00:02:09,479 --> 00:02:12,070
+puis il peut
+se connecter à toutes tes documents.
+
+98
+00:02:12,070 --> 00:02:12,080
+se connecter à toutes tes documents.
+ 
+
+99
+00:02:12,080 --> 00:02:13,030
+se connecter à toutes tes documents.
+Toutes tes documents, qu'est-ce que ça
+
+100
+00:02:13,030 --> 00:02:13,040
+Toutes tes documents, qu'est-ce que ça
+ 
+
+101
+00:02:13,040 --> 00:02:14,869
+Toutes tes documents, qu'est-ce que ça
+fait ? Ça fait qu'il y a un il y a un
+
+102
+00:02:14,869 --> 00:02:14,879
+fait ? Ça fait qu'il y a un il y a un
+ 
+
+103
+00:02:14,879 --> 00:02:18,550
+fait ? Ça fait qu'il y a un il y a un
+contexte qui est le meilleur possible.
+
+104
+00:02:18,550 --> 00:02:18,560
+contexte qui est le meilleur possible.
+ 
+
+105
+00:02:18,560 --> 00:02:20,710
+contexte qui est le meilleur possible.
+Je vous explique. Et par exemple, moi
+
+106
+00:02:20,710 --> 00:02:20,720
+Je vous explique. Et par exemple, moi
+ 
+
+107
+00:02:20,720 --> 00:02:24,030
+Je vous explique. Et par exemple, moi
+j'utilise Obsidian. Obsidian
+
+108
+00:02:24,030 --> 00:02:24,040
+j'utilise Obsidian. Obsidian
+ 
+
+109
+00:02:24,040 --> 00:02:25,990
+j'utilise Obsidian. Obsidian
+qui est une application qui est open
+
+110
+00:02:25,990 --> 00:02:26,000
+qui est une application qui est open
+ 
+
+111
+00:02:26,000 --> 00:02:30,589
+qui est une application qui est open
+source que il est sur ton dit. Après ça,
+
+112
+00:02:30,589 --> 00:02:30,599
+source que il est sur ton dit. Après ça,
+ 
+
+113
+00:02:30,599 --> 00:02:34,390
+source que il est sur ton dit. Après ça,
+tu peux structurer ton
+
+114
+00:02:34,390 --> 00:02:34,400
+tu peux structurer ton
+ 
+
+115
+00:02:34,400 --> 00:02:36,630
+tu peux structurer ton
+obsidienne pour avoir toutes tes
+
+116
+00:02:36,630 --> 00:02:36,640
+obsidienne pour avoir toutes tes
+ 
+
+117
+00:02:36,640 --> 00:02:40,190
+obsidienne pour avoir toutes tes
+documents dedans puis tu peux au final
+
+118
+00:02:40,190 --> 00:02:40,200
+documents dedans puis tu peux au final
+ 
+
+119
+00:02:40,200 --> 00:02:41,550
+documents dedans puis tu peux au final
+expliquer toute ta vie, toutes tes
+
+120
+00:02:41,550 --> 00:02:41,560
+expliquer toute ta vie, toutes tes
+ 
+
+121
+00:02:41,560 --> 00:02:43,790
+expliquer toute ta vie, toutes tes
+connaissances pour prendre ton cerveau
+
+122
+00:02:43,790 --> 00:02:43,800
+connaissances pour prendre ton cerveau
+ 
+
+123
+00:02:43,800 --> 00:02:47,270
+connaissances pour prendre ton cerveau
+puis le dupliquer, avoir ton cerveau sur
+
+124
+00:02:47,270 --> 00:02:47,280
+puis le dupliquer, avoir ton cerveau sur
+ 
+
+125
+00:02:47,280 --> 00:02:49,910
+puis le dupliquer, avoir ton cerveau sur
+ton en gros là là c'est expliquer
+
+126
+00:02:49,910 --> 00:02:49,920
+ton en gros là là c'est expliquer
+ 
+
+127
+00:02:49,920 --> 00:02:53,550
+ton en gros là là c'est expliquer
+rapidement là mais c'est ça l'objectif
+
+128
+00:02:53,550 --> 00:02:53,560
+rapidement là mais c'est ça l'objectif
+ 
+
+129
+00:02:53,560 --> 00:02:55,390
+rapidement là mais c'est ça l'objectif
+d'avoir
+
+130
+00:02:55,390 --> 00:02:55,400
+d'avoir
+ 
+
+131
+00:02:55,400 --> 00:02:57,790
+d'avoir
+cloud code
+
+132
+00:02:57,790 --> 00:02:57,800
+cloud code
+ 
+
+133
+00:02:57,800 --> 00:03:00,030
+cloud code
+sur ton terminal c'est qu'il y a accès à
+
+134
+00:03:00,030 --> 00:03:00,040
+sur ton terminal c'est qu'il y a accès à
+ 
+
+135
+00:03:00,040 --> 00:03:02,149
+sur ton terminal c'est qu'il y a accès à
+toutes tes connaissances. Donc il y a le
+
+136
+00:03:02,149 --> 00:03:02,159
+toutes tes connaissances. Donc il y a le
+ 
+
+137
+00:03:02,159 --> 00:03:05,390
+toutes tes connaissances. Donc il y a le
+meilleur contexte que tu peux avoir.
+
+138
+00:03:05,390 --> 00:03:05,400
+meilleur contexte que tu peux avoir.
+ 
+
+139
+00:03:05,400 --> 00:03:08,990
+meilleur contexte que tu peux avoir.
+Puis en fonction de ça, connaissant ça
+
+140
+00:03:08,990 --> 00:03:09,000
+Puis en fonction de ça, connaissant ça
+ 
+
+141
+00:03:09,000 --> 00:03:10,390
+Puis en fonction de ça, connaissant ça
+que tu as le meilleur contexte possible
+
+142
+00:03:10,390 --> 00:03:10,400
+que tu as le meilleur contexte possible
+ 
+
+143
+00:03:10,400 --> 00:03:13,630
+que tu as le meilleur contexte possible
+avec Claude C, c'est de faire un second
+
+144
+00:03:13,630 --> 00:03:13,640
+avec Claude C, c'est de faire un second
+ 
+
+145
+00:03:13,640 --> 00:03:15,190
+avec Claude C, c'est de faire un second
+cerveau.
+
+146
+00:03:15,190 --> 00:03:15,200
+cerveau.
+ 
+
+147
+00:03:15,200 --> 00:03:19,149
+cerveau.
+Le concept de son cerveau, c'est
+
+148
+00:03:19,149 --> 00:03:19,159
+Le concept de son cerveau, c'est
+ 
+
+149
+00:03:19,159 --> 00:03:21,509
+Le concept de son cerveau, c'est
+de que toutes tes connaissances soient
+
+150
+00:03:21,509 --> 00:03:21,519
+de que toutes tes connaissances soient
+ 
+
+151
+00:03:21,519 --> 00:03:24,270
+de que toutes tes connaissances soient
+relié dans une base de données. Puis que
+
+152
+00:03:24,270 --> 00:03:24,280
+relié dans une base de données. Puis que
+ 
+
+153
+00:03:24,280 --> 00:03:25,670
+relié dans une base de données. Puis que
+toutes tes connaissances, toutes tes
+
+154
+00:03:25,670 --> 00:03:25,680
+toutes tes connaissances, toutes tes
+ 
+
+155
+00:03:25,680 --> 00:03:28,470
+toutes tes connaissances, toutes tes
+concepts que tu connais soi interrelié
+
+156
+00:03:28,470 --> 00:03:28,480
+concepts que tu connais soi interrelié
+ 
+
+157
+00:03:28,480 --> 00:03:30,030
+concepts que tu connais soi interrelié
+entre eux.
+
+158
+00:03:30,030 --> 00:03:30,040
+entre eux.
+ 
+
+159
+00:03:30,040 --> 00:03:31,990
+entre eux.
+fait tuas vraiment un cerveau qui est
+
+160
+00:03:31,990 --> 00:03:32,000
+fait tuas vraiment un cerveau qui est
+ 
+
+161
+00:03:32,000 --> 00:03:33,509
+fait tuas vraiment un cerveau qui est
+dupliqué
+
+162
+00:03:33,509 --> 00:03:33,519
+dupliqué
+ 
+
+163
+00:03:33,519 --> 00:03:35,229
+dupliqué
+fait ça te permet après ça de faire un
+
+164
+00:03:35,229 --> 00:03:35,239
+fait ça te permet après ça de faire un
+ 
+
+165
+00:03:35,239 --> 00:03:38,949
+fait ça te permet après ça de faire un
+prompt rapide à Claud en mode je sais
+
+166
+00:03:38,949 --> 00:03:38,959
+prompt rapide à Claud en mode je sais
+ 
+
+167
+00:03:38,959 --> 00:03:40,789
+prompt rapide à Claud en mode je sais
+pas moi
+
+168
+00:03:40,789 --> 00:03:40,799
+pas moi
+ 
+
+169
+00:03:40,799 --> 00:03:42,270
+pas moi
+quelle pause que je pourrais faire sur
+
+170
+00:03:42,270 --> 00:03:42,280
+quelle pause que je pourrais faire sur
+ 
+
+171
+00:03:42,280 --> 00:03:44,270
+quelle pause que je pourrais faire sur
+LinkedIn
+
+172
+00:03:44,270 --> 00:03:44,280
+LinkedIn
+ 
+
+173
+00:03:44,280 --> 00:03:46,030
+LinkedIn
+cette semaine
+
+174
+00:03:46,030 --> 00:03:46,040
+cette semaine
+ 
+
+175
+00:03:46,040 --> 00:03:49,270
+cette semaine
+en lien avec je sais pas moi
+
+176
+00:03:49,270 --> 00:03:49,280
+en lien avec je sais pas moi
+ 
+
+177
+00:03:49,280 --> 00:03:52,350
+en lien avec je sais pas moi
+la psychologie puis les vent il va aller
+
+178
+00:03:52,350 --> 00:03:52,360
+la psychologie puis les vent il va aller
+ 
+
+179
+00:03:52,360 --> 00:03:54,589
+la psychologie puis les vent il va aller
+voir dans tes dans ton cerveau, il va
+
+180
+00:03:54,589 --> 00:03:54,599
+voir dans tes dans ton cerveau, il va
+ 
+
+181
+00:03:54,599 --> 00:03:56,350
+voir dans tes dans ton cerveau, il va
+aller voir les documents qui sont en
+
+182
+00:03:56,350 --> 00:03:56,360
+aller voir les documents qui sont en
+ 
+
+183
+00:03:56,360 --> 00:03:59,509
+aller voir les documents qui sont en
+lien avec les ventes, il va aller voir
+
+184
+00:03:59,509 --> 00:03:59,519
+lien avec les ventes, il va aller voir
+ 
+
+185
+00:03:59,519 --> 00:04:00,550
+lien avec les ventes, il va aller voir
+d'autres documents qui sont en lien avec
+
+186
+00:04:00,550 --> 00:04:00,560
+d'autres documents qui sont en lien avec
+ 
+
+187
+00:04:00,560 --> 00:04:02,350
+d'autres documents qui sont en lien avec
+la psychologie
+
+188
+00:04:02,350 --> 00:04:02,360
+la psychologie
+ 
+
+189
+00:04:02,360 --> 00:04:04,670
+la psychologie
+puis il va aller voir les liens que la
+
+190
+00:04:04,670 --> 00:04:04,680
+puis il va aller voir les liens que la
+ 
+
+191
+00:04:04,680 --> 00:04:06,509
+puis il va aller voir les liens que la
+psychologie est reliée à quoi, les
+
+192
+00:04:06,509 --> 00:04:06,519
+psychologie est reliée à quoi, les
+ 
+
+193
+00:04:06,519 --> 00:04:07,949
+psychologie est reliée à quoi, les
+ventes sont reliés à quoi, qu'est-ce qui
+
+194
+00:04:07,949 --> 00:04:07,959
+ventes sont reliés à quoi, qu'est-ce qui
+ 
+
+195
+00:04:07,959 --> 00:04:10,149
+ventes sont reliés à quoi, qu'est-ce qui
+est interrelié
+
+196
+00:04:10,149 --> 00:04:10,159
+est interrelié
+ 
+
+197
+00:04:10,159 --> 00:04:13,149
+est interrelié
+pour faire justement des un réseau de
+
+198
+00:04:13,149 --> 00:04:13,159
+pour faire justement des un réseau de
+ 
+
+199
+00:04:13,159 --> 00:04:16,110
+pour faire justement des un réseau de
+concept qui s'entremide puis qui crée
+
+200
+00:04:16,110 --> 00:04:16,120
+concept qui s'entremide puis qui crée
+ 
+
+201
+00:04:16,120 --> 00:04:18,310
+concept qui s'entremide puis qui crée
+des idées qui sont plus complètes puis
+
+202
+00:04:18,310 --> 00:04:18,320
+des idées qui sont plus complètes puis
+ 
+
+203
+00:04:18,320 --> 00:04:20,349
+des idées qui sont plus complètes puis
+avec une nouvelle
+
+204
+00:04:20,349 --> 00:04:20,359
+avec une nouvelle
+ 
+
+205
+00:04:20,359 --> 00:04:22,510
+avec une nouvelle
+approche qui est plus intéressante. fait
+
+206
+00:04:22,510 --> 00:04:22,520
+approche qui est plus intéressante. fait
+ 
+
+207
+00:04:22,520 --> 00:04:26,189
+approche qui est plus intéressante. fait
+que là ça post ils sont mieux sont mieux
+
+208
+00:04:26,189 --> 00:04:26,199
+que là ça post ils sont mieux sont mieux
+ 
+
+209
+00:04:26,199 --> 00:04:28,070
+que là ça post ils sont mieux sont mieux
+recherchés sont plus recherchés donc tu
+
+210
+00:04:28,070 --> 00:04:28,080
+recherchés sont plus recherchés donc tu
+ 
+
+211
+00:04:28,080 --> 00:04:29,629
+recherchés sont plus recherchés donc tu
+as plus de valeurs qui sont retirés
+
+212
+00:04:29,629 --> 00:04:29,639
+as plus de valeurs qui sont retirés
+ 
+
+213
+00:04:29,639 --> 00:04:32,310
+as plus de valeurs qui sont retirés
+làdessus
+
+214
+00:04:32,310 --> 00:04:32,320
+làdessus
+ 
+
+215
+00:04:32,320 --> 00:04:34,510
+làdessus
+puis
+
+216
+00:04:34,510 --> 00:04:34,520
+puis
+ 
+
+217
+00:04:34,520 --> 00:04:36,230
+puis
+c'est ça qui fait la valeur de ton cloud
+
+218
+00:04:36,230 --> 00:04:36,240
+c'est ça qui fait la valeur de ton cloud
+ 
+
+219
+00:04:36,240 --> 00:04:38,350
+c'est ça qui fait la valeur de ton cloud
+code. Quand tu es rendu à avoir un son
+
+220
+00:04:38,350 --> 00:04:38,360
+code. Quand tu es rendu à avoir un son
+ 
+
+221
+00:04:38,360 --> 00:04:42,749
+code. Quand tu es rendu à avoir un son
+cerveau qui est hyper rempli le contexte
+
+222
+00:04:42,749 --> 00:04:42,759
+cerveau qui est hyper rempli le contexte
+ 
+
+223
+00:04:42,759 --> 00:04:46,270
+cerveau qui est hyper rempli le contexte
+que tu donnes à Claude Code est toujours
+
+224
+00:04:46,270 --> 00:04:46,280
+que tu donnes à Claude Code est toujours
+ 
+
+225
+00:04:46,280 --> 00:04:51,390
+que tu donnes à Claude Code est toujours
+le meilleur. Puis là quand tu peux
+
+226
+00:04:51,390 --> 00:04:51,400
+le meilleur. Puis là quand tu peux
+ 
+
+227
+00:04:51,400 --> 00:04:55,029
+le meilleur. Puis là quand tu peux
+ajouter ça, ajoutant à ton gros cerveau
+
+228
+00:04:55,029 --> 00:04:55,039
+ajouter ça, ajoutant à ton gros cerveau
+ 
+
+229
+00:04:55,039 --> 00:04:58,230
+ajouter ça, ajoutant à ton gros cerveau
+que Claude Code se auto rééitère,
+
+230
+00:04:58,230 --> 00:04:58,240
+que Claude Code se auto rééitère,
+ 
+
+231
+00:04:58,240 --> 00:05:00,189
+que Claude Code se auto rééitère,
+ce qui veut dire qu'il s'autocorrige et
+
+232
+00:05:00,189 --> 00:05:00,199
+ce qui veut dire qu'il s'autocorrige et
+ 
+
+233
+00:05:00,199 --> 00:05:01,749
+ce qui veut dire qu'il s'autocorrige et
+s'autoaméliore
+
+234
+00:05:01,749 --> 00:05:01,759
+s'autoaméliore
+ 
+
+235
+00:05:01,759 --> 00:05:04,230
+s'autoaméliore
+de fois en foi,
+
+236
+00:05:04,230 --> 00:05:04,240
+de fois en foi,
+ 
+
+237
+00:05:04,240 --> 00:05:06,469
+de fois en foi,
+c'est là que tu deviens avoir un une
+
+238
+00:05:06,469 --> 00:05:06,479
+c'est là que tu deviens avoir un une
+ 
+
+239
+00:05:06,479 --> 00:05:08,550
+c'est là que tu deviens avoir un une
+machine de rigur dans ton ordi. C'est là
+
+240
+00:05:08,550 --> 00:05:08,560
+machine de rigur dans ton ordi. C'est là
+ 
+
+241
+00:05:08,560 --> 00:05:10,550
+machine de rigur dans ton ordi. C'est là
+que tu commences à avoir une machine, un
+
+242
+00:05:10,550 --> 00:05:10,560
+que tu commences à avoir une machine, un
+ 
+
+243
+00:05:10,560 --> 00:05:14,670
+que tu commences à avoir une machine, un
+I qui a un meilleur contexte que tu
+
+244
+00:05:14,670 --> 00:05:14,680
+I qui a un meilleur contexte que tu
+ 
+
+245
+00:05:14,680 --> 00:05:16,990
+I qui a un meilleur contexte que tu
+ajoutes à tous les jours du contexte
+
+246
+00:05:16,990 --> 00:05:17,000
+ajoutes à tous les jours du contexte
+ 
+
+247
+00:05:17,000 --> 00:05:19,670
+ajoutes à tous les jours du contexte
+parce que tu échanges avec lui à tous
+
+248
+00:05:19,670 --> 00:05:19,680
+parce que tu échanges avec lui à tous
+ 
+
+249
+00:05:19,680 --> 00:05:21,909
+parce que tu échanges avec lui à tous
+les jours. Il prend des notes ce que tu
+
+250
+00:05:21,909 --> 00:05:21,919
+les jours. Il prend des notes ce que tu
+ 
+
+251
+00:05:21,919 --> 00:05:23,990
+les jours. Il prend des notes ce que tu
+lui dis. Il prend des notes sur comment
+
+252
+00:05:23,990 --> 00:05:24,000
+lui dis. Il prend des notes sur comment
+ 
+
+253
+00:05:24,000 --> 00:05:25,430
+lui dis. Il prend des notes sur comment
+tu le corriges, comment tu parles,
+
+254
+00:05:25,430 --> 00:05:25,440
+tu le corriges, comment tu parles,
+ 
+
+255
+00:05:25,440 --> 00:05:28,070
+tu le corriges, comment tu parles,
+comment tu écris tes posts, comment tu
+
+256
+00:05:28,070 --> 00:05:28,080
+comment tu écris tes posts, comment tu
+ 
+
+257
+00:05:28,080 --> 00:05:30,070
+comment tu écris tes posts, comment tu
+euh c'est quoi ta ton quotidien. Il
+
+258
+00:05:30,070 --> 00:05:30,080
+euh c'est quoi ta ton quotidien. Il
+ 
+
+259
+00:05:30,080 --> 00:05:32,550
+euh c'est quoi ta ton quotidien. Il
+apprend de plus en plus. Puis il y a des
+
+260
+00:05:32,550 --> 00:05:32,560
+apprend de plus en plus. Puis il y a des
+ 
+
+261
+00:05:32,560 --> 00:05:35,870
+apprend de plus en plus. Puis il y a des
+loops de réération
+
+262
+00:05:35,870 --> 00:05:35,880
+loops de réération
+ 
+
+263
+00:05:35,880 --> 00:05:37,909
+loops de réération
+continue.
+
+264
+00:05:37,909 --> 00:05:37,919
+continue.
+ 
+
+265
+00:05:37,919 --> 00:05:41,189
+continue.
+Tu ça devient fou parce que là toutes
+
+266
+00:05:41,189 --> 00:05:41,199
+Tu ça devient fou parce que là toutes
+ 
+
+267
+00:05:41,199 --> 00:05:46,390
+Tu ça devient fou parce que là toutes
+les tu pas juste additionner des des
+
+268
+00:05:46,390 --> 00:05:46,400
+les tu pas juste additionner des des
+ 
+
+269
+00:05:46,400 --> 00:05:48,270
+les tu pas juste additionner des des
+connaissances, tu multiplies tu
+
+270
+00:05:48,270 --> 00:05:48,280
+connaissances, tu multiplies tu
+ 
+
+271
+00:05:48,280 --> 00:05:49,430
+connaissances, tu multiplies tu
+multiplies des connaissances entre
+
+272
+00:05:49,430 --> 00:05:49,440
+multiplies des connaissances entre
+ 
+
+273
+00:05:49,440 --> 00:05:51,230
+multiplies des connaissances entre
+elles. Il fait de plus en plus de liens,
+
+274
+00:05:51,230 --> 00:05:51,240
+elles. Il fait de plus en plus de liens,
+ 
+
+275
+00:05:51,240 --> 00:05:53,909
+elles. Il fait de plus en plus de liens,
+il apprend de plus en plus.
+
+276
+00:05:53,909 --> 00:05:53,919
+il apprend de plus en plus.
+ 
+
+277
+00:05:53,919 --> 00:05:57,990
+il apprend de plus en plus.
+C'est là que ça commence à être fourel.
+
+278
+00:05:57,990 --> 00:05:58,000
+C'est là que ça commence à être fourel.
+ 
+
+279
+00:05:58,000 --> 00:06:00,950
+C'est là que ça commence à être fourel.
+Pu c'est que tu vois le potentiel de
+
+280
+00:06:00,950 --> 00:06:00,960
+Pu c'est que tu vois le potentiel de
+ 
+
+281
+00:06:00,960 --> 00:06:03,430
+Pu c'est que tu vois le potentiel de
+cloud code.
+
+282
+00:06:03,430 --> 00:06:03,440
+cloud code.
+ 
+
+283
+00:06:03,440 --> 00:06:05,710
+cloud code.
+Euh donc ça c'est pour
+
+284
+00:06:05,710 --> 00:06:05,720
+Euh donc ça c'est pour
+ 
+
+285
+00:06:05,720 --> 00:06:06,790
+Euh donc ça c'est pour
+les deux premiers points que je l'
+
+286
+00:06:06,790 --> 00:06:06,800
+les deux premiers points que je l'
+ 
+
+287
+00:06:06,800 --> 00:06:10,029
+les deux premiers points que je l'
+abordé. Donc avoir un second cerveau
+
+288
+00:06:10,029 --> 00:06:10,039
+abordé. Donc avoir un second cerveau
+ 
+
+289
+00:06:10,039 --> 00:06:12,390
+abordé. Donc avoir un second cerveau
+puis l'autoéitération.
+
+290
+00:06:12,390 --> 00:06:12,400
+puis l'autoéitération.
+ 
+
+291
+00:06:12,400 --> 00:06:13,790
+puis l'autoéitération.
+L'autre point que je l' abordé c'était
+
+292
+00:06:13,790 --> 00:06:13,800
+L'autre point que je l' abordé c'était
+ 
+
+293
+00:06:13,800 --> 00:06:16,830
+L'autre point que je l' abordé c'était
+le reverse engineering.
+
+294
+00:06:16,830 --> 00:06:16,840
+le reverse engineering.
+ 
+
+295
+00:06:16,840 --> 00:06:19,710
+le reverse engineering.
+Ça c'est quoi ? C'est dans le fond il y
+
+296
+00:06:19,710 --> 00:06:19,720
+Ça c'est quoi ? C'est dans le fond il y
+ 
+
+297
+00:06:19,720 --> 00:06:21,270
+Ça c'est quoi ? C'est dans le fond il y
+a peut-être probement différentes
+
+298
+00:06:21,270 --> 00:06:21,280
+a peut-être probement différentes
+ 
+
+299
+00:06:21,280 --> 00:06:22,830
+a peut-être probement différentes
+manières de l'aborder mais moi comme je
+
+300
+00:06:22,830 --> 00:06:22,840
+manières de l'aborder mais moi comme je
+ 
+
+301
+00:06:22,840 --> 00:06:24,950
+manières de l'aborder mais moi comme je
+vois c'est
+
+302
+00:06:24,950 --> 00:06:24,960
+vois c'est
+ 
+
+303
+00:06:24,960 --> 00:06:27,350
+vois c'est
+principalement au niveau de ta vie. tu
+
+304
+00:06:27,350 --> 00:06:27,360
+principalement au niveau de ta vie. tu
+ 
+
+305
+00:06:27,360 --> 00:06:29,070
+principalement au niveau de ta vie. tu
+visualis c'est où que tu veux être par
+
+306
+00:06:29,070 --> 00:06:29,080
+visualis c'est où que tu veux être par
+ 
+
+307
+00:06:29,080 --> 00:06:31,390
+visualis c'est où que tu veux être par
+exemple dans 30 ans,
+
+308
+00:06:31,390 --> 00:06:31,400
+exemple dans 30 ans,
+ 
+
+309
+00:06:31,400 --> 00:06:34,070
+exemple dans 30 ans,
+tu prends cet objectif là,
+
+310
+00:06:34,070 --> 00:06:34,080
+tu prends cet objectif là,
+ 
+
+311
+00:06:34,080 --> 00:06:37,550
+tu prends cet objectif là,
+tu peux demander à Chat GPT
+
+312
+00:06:37,550 --> 00:06:37,560
+tu peux demander à Chat GPT
+ 
+
+313
+00:06:37,560 --> 00:06:39,710
+tu peux demander à Chat GPT
+qui te fasse une belle discussion avec
+
+314
+00:06:39,710 --> 00:06:39,720
+qui te fasse une belle discussion avec
+ 
+
+315
+00:06:39,720 --> 00:06:42,350
+qui te fasse une belle discussion avec
+toi, qui te pose des questions
+
+316
+00:06:42,350 --> 00:06:42,360
+toi, qui te pose des questions
+ 
+
+317
+00:06:42,360 --> 00:06:47,430
+toi, qui te pose des questions
+pour aiguiser ce reverse engineering là.
+
+318
+00:06:47,430 --> 00:06:47,440
+pour aiguiser ce reverse engineering là.
+ 
+
+319
+00:06:47,440 --> 00:06:49,830
+pour aiguiser ce reverse engineering là.
+Fait comment tu te vois dans 30 ans ? Fa
+
+320
+00:06:49,830 --> 00:06:49,840
+Fait comment tu te vois dans 30 ans ? Fa
+ 
+
+321
+00:06:49,840 --> 00:06:51,150
+Fait comment tu te vois dans 30 ans ? Fa
+que là avoir plein de questions précises
+
+322
+00:06:51,150 --> 00:06:51,160
+que là avoir plein de questions précises
+ 
+
+323
+00:06:51,160 --> 00:06:53,110
+que là avoir plein de questions précises
+de comment tu te vois ? Tu habites où ?
+
+324
+00:06:53,110 --> 00:06:53,120
+de comment tu te vois ? Tu habites où ?
+ 
+
+325
+00:06:53,120 --> 00:06:55,189
+de comment tu te vois ? Tu habites où ?
+Tu es avec qui ? Ta journée de type
+
+326
+00:06:55,189 --> 00:06:55,199
+Tu es avec qui ? Ta journée de type
+ 
+
+327
+00:06:55,199 --> 00:06:56,350
+Tu es avec qui ? Ta journée de type
+ressemble à quoi ? tu te lèves à quelle
+
+328
+00:06:56,350 --> 00:06:56,360
+ressemble à quoi ? tu te lèves à quelle
+ 
+
+329
+00:06:56,360 --> 00:07:00,029
+ressemble à quoi ? tu te lèves à quelle
+heure euh tu fais combien et cetera pour
+
+330
+00:07:00,029 --> 00:07:00,039
+heure euh tu fais combien et cetera pour
+ 
+
+331
+00:07:00,039 --> 00:07:02,029
+heure euh tu fais combien et cetera pour
+avoir une idée la plus claire la plus
+
+332
+00:07:02,029 --> 00:07:02,039
+avoir une idée la plus claire la plus
+ 
+
+333
+00:07:02,039 --> 00:07:04,309
+avoir une idée la plus claire la plus
+claire possible de c'est où tu t'en va
+
+334
+00:07:04,309 --> 00:07:04,319
+claire possible de c'est où tu t'en va
+ 
+
+335
+00:07:04,319 --> 00:07:07,469
+claire possible de c'est où tu t'en va
+c'est où tu te vois dans 30 ans.
+
+336
+00:07:07,469 --> 00:07:07,479
+c'est où tu te vois dans 30 ans.
+ 
+
+337
+00:07:07,479 --> 00:07:10,070
+c'est où tu te vois dans 30 ans.
+Après ça c'est que tu es dans 30 ans.
+
+338
+00:07:10,070 --> 00:07:10,080
+Après ça c'est que tu es dans 30 ans.
+ 
+
+339
+00:07:10,080 --> 00:07:13,469
+Après ça c'est que tu es dans 30 ans.
+C'est ça ta ta vision mais là tu recules
+
+340
+00:07:13,469 --> 00:07:13,479
+C'est ça ta ta vision mais là tu recules
+ 
+
+341
+00:07:13,479 --> 00:07:17,150
+C'est ça ta ta vision mais là tu recules
+ou tu reviens sur tes pas dans 20 ans.
+
+342
+00:07:17,150 --> 00:07:17,160
+ou tu reviens sur tes pas dans 20 ans.
+ 
+
+343
+00:07:17,160 --> 00:07:18,909
+ou tu reviens sur tes pas dans 20 ans.
+C'est où tu te vois dans 10 ans, c'est
+
+344
+00:07:18,909 --> 00:07:18,919
+C'est où tu te vois dans 10 ans, c'est
+ 
+
+345
+00:07:18,919 --> 00:07:21,629
+C'est où tu te vois dans 10 ans, c'est
+où tu te vois. Puis à chaque fois de
+
+346
+00:07:21,629 --> 00:07:21,639
+où tu te vois. Puis à chaque fois de
+ 
+
+347
+00:07:21,639 --> 00:07:23,589
+où tu te vois. Puis à chaque fois de
+d'écrire c'est quoi tu dois faire pour
+
+348
+00:07:23,589 --> 00:07:23,599
+d'écrire c'est quoi tu dois faire pour
+ 
+
+349
+00:07:23,599 --> 00:07:25,390
+d'écrire c'est quoi tu dois faire pour
+te rendre là. C'est quoi tu dois faire
+
+350
+00:07:25,390 --> 00:07:25,400
+te rendre là. C'est quoi tu dois faire
+ 
+
+351
+00:07:25,400 --> 00:07:27,390
+te rendre là. C'est quoi tu dois faire
+pour te rendre à ton 30 ans dans
+
+352
+00:07:27,390 --> 00:07:27,400
+pour te rendre à ton 30 ans dans
+ 
+
+353
+00:07:27,400 --> 00:07:28,629
+pour te rendre à ton 30 ans dans
+objectif ? C'est quoi tu dois faire pour
+
+354
+00:07:28,629 --> 00:07:28,639
+objectif ? C'est quoi tu dois faire pour
+ 
+
+355
+00:07:28,639 --> 00:07:31,150
+objectif ? C'est quoi tu dois faire pour
+te rendre à ce 20 ans là qui va te
+
+356
+00:07:31,150 --> 00:07:31,160
+te rendre à ce 20 ans là qui va te
+ 
+
+357
+00:07:31,160 --> 00:07:34,110
+te rendre à ce 20 ans là qui va te
+permettre de te rendre 30 ans ?
+
+358
+00:07:34,110 --> 00:07:34,120
+permettre de te rendre 30 ans ?
+ 
+
+359
+00:07:34,120 --> 00:07:37,909
+permettre de te rendre 30 ans ?
+Puis ainsi de suite. Je OK, dans 2 ans,
+
+360
+00:07:37,909 --> 00:07:37,919
+Puis ainsi de suite. Je OK, dans 2 ans,
+ 
+
+361
+00:07:37,919 --> 00:07:40,270
+Puis ainsi de suite. Je OK, dans 2 ans,
+je veux je dois être où ? Dans 1 an, je
+
+362
+00:07:40,270 --> 00:07:40,280
+je veux je dois être où ? Dans 1 an, je
+ 
+
+363
+00:07:40,280 --> 00:07:42,589
+je veux je dois être où ? Dans 1 an, je
+dois être où ? Pour reverse au maximum
+
+364
+00:07:42,589 --> 00:07:42,599
+dois être où ? Pour reverse au maximum
+ 
+
+365
+00:07:42,599 --> 00:07:45,670
+dois être où ? Pour reverse au maximum
+pour e dans 90 jours, je dois être où ?
+
+366
+00:07:45,670 --> 00:07:45,680
+pour e dans 90 jours, je dois être où ?
+ 
+
+367
+00:07:45,680 --> 00:07:47,189
+pour e dans 90 jours, je dois être où ?
+Dans 30 jours, je dois être dans une
+
+368
+00:07:47,189 --> 00:07:47,199
+Dans 30 jours, je dois être dans une
+ 
+
+369
+00:07:47,199 --> 00:07:49,589
+Dans 30 jours, je dois être dans une
+semaine c'est où que je dois être.
+
+370
+00:07:49,589 --> 00:07:49,599
+semaine c'est où que je dois être.
+ 
+
+371
+00:07:49,599 --> 00:07:52,270
+semaine c'est où que je dois être.
+Puis là je avoir le lien avec Cloud
+
+372
+00:07:52,270 --> 00:07:52,280
+Puis là je avoir le lien avec Cloud
+ 
+
+373
+00:07:52,280 --> 00:07:55,589
+Puis là je avoir le lien avec Cloud
+Code, c'est que quand tu connectes ton
+
+374
+00:07:55,589 --> 00:07:55,599
+Code, c'est que quand tu connectes ton
+ 
+
+375
+00:07:55,599 --> 00:07:58,070
+Code, c'est que quand tu connectes ton
+Cloud Code avec ton ton reverse
+
+376
+00:07:58,070 --> 00:07:58,080
+Cloud Code avec ton ton reverse
+ 
+
+377
+00:07:58,080 --> 00:07:59,710
+Cloud Code avec ton ton reverse
+engineering,
+
+378
+00:07:59,710 --> 00:07:59,720
+engineering,
+ 
+
+379
+00:07:59,720 --> 00:08:01,149
+engineering,
+Cloud Code connaît où c'est que tu t'en
+
+380
+00:08:01,149 --> 00:08:01,159
+Cloud Code connaît où c'est que tu t'en
+ 
+
+381
+00:08:01,159 --> 00:08:03,149
+Cloud Code connaît où c'est que tu t'en
+vas dans le futur
+
+382
+00:08:03,149 --> 00:08:03,159
+vas dans le futur
+ 
+
+383
+00:08:03,159 --> 00:08:05,149
+vas dans le futur
+puis il peut te guider à prendre des
+
+384
+00:08:05,149 --> 00:08:05,159
+puis il peut te guider à prendre des
+ 
+
+385
+00:08:05,159 --> 00:08:09,309
+puis il peut te guider à prendre des
+décisions, à écrire tes posts, à si tuas
+
+386
+00:08:09,309 --> 00:08:09,319
+décisions, à écrire tes posts, à si tuas
+ 
+
+387
+00:08:09,319 --> 00:08:11,589
+décisions, à écrire tes posts, à si tuas
+des questions en lien avec euh tes
+
+388
+00:08:11,589 --> 00:08:11,599
+des questions en lien avec euh tes
+ 
+
+389
+00:08:11,599 --> 00:08:13,189
+des questions en lien avec euh tes
+choix, peu importe, mais il peut te
+
+390
+00:08:13,189 --> 00:08:13,199
+choix, peu importe, mais il peut te
+ 
+
+391
+00:08:13,199 --> 00:08:14,270
+choix, peu importe, mais il peut te
+guider parce qu'il sait où c'est que tu
+
+392
+00:08:14,270 --> 00:08:14,280
+guider parce qu'il sait où c'est que tu
+ 
+
+393
+00:08:14,280 --> 00:08:15,710
+guider parce qu'il sait où c'est que tu
+t'en vas.
+
+394
+00:08:15,710 --> 00:08:15,720
+t'en vas.
+ 
+
+395
+00:08:15,720 --> 00:08:18,029
+t'en vas.
+tandis que c'est une charge pét que il y
+
+396
+00:08:18,029 --> 00:08:18,039
+tandis que c'est une charge pét que il y
+ 
+
+397
+00:08:18,039 --> 00:08:20,309
+tandis que c'est une charge pét que il y
+a pas de
+
+398
+00:08:20,309 --> 00:08:20,319
+a pas de
+ 
+
+399
+00:08:20,319 --> 00:08:22,390
+a pas de
+qui est pas
+
+400
+00:08:22,390 --> 00:08:22,400
+qui est pas
+ 
+
+401
+00:08:22,400 --> 00:08:24,510
+qui est pas
+contextualisé à ce niveau-là, mais il va
+
+402
+00:08:24,510 --> 00:08:24,520
+contextualisé à ce niveau-là, mais il va
+ 
+
+403
+00:08:24,520 --> 00:08:25,749
+contextualisé à ce niveau-là, mais il va
+te répondre à une question, il va te
+
+404
+00:08:25,749 --> 00:08:25,759
+te répondre à une question, il va te
+ 
+
+405
+00:08:25,759 --> 00:08:27,950
+te répondre à une question, il va te
+répondre une
+
+406
+00:08:27,950 --> 00:08:27,960
+répondre une
+ 
+
+407
+00:08:27,960 --> 00:08:29,510
+répondre une
+une réponse qui est vague, qui est pas
+
+408
+00:08:29,510 --> 00:08:29,520
+une réponse qui est vague, qui est pas
+ 
+
+409
+00:08:29,520 --> 00:08:30,990
+une réponse qui est vague, qui est pas
+en fonction de ton contexte puis où tu
+
+410
+00:08:30,990 --> 00:08:31,000
+en fonction de ton contexte puis où tu
+ 
+
+411
+00:08:31,000 --> 00:08:32,750
+en fonction de ton contexte puis où tu
+t'envas dans la vie. Puis d'où
+
+412
+00:08:32,750 --> 00:08:32,760
+t'envas dans la vie. Puis d'où
+ 
+
+413
+00:08:32,760 --> 00:08:34,469
+t'envas dans la vie. Puis d'où
+l'importance de faire un reverse
+
+414
+00:08:34,469 --> 00:08:34,479
+l'importance de faire un reverse
+ 
+
+415
+00:08:34,479 --> 00:08:37,870
+l'importance de faire un reverse
+engineering avec ton chat GPT et ton CL
+
+416
+00:08:37,870 --> 00:08:37,880
+engineering avec ton chat GPT et ton CL
+ 
+
+417
+00:08:37,880 --> 00:08:39,990
+engineering avec ton chat GPT et ton CL
+code, excusez-moi,
+
+418
+00:08:39,990 --> 00:08:40,000
+code, excusez-moi,
+ 
+
+419
+00:08:40,000 --> 00:08:41,230
+code, excusez-moi,
+c'est va pouvoir te guider encore mieux
+
+420
+00:08:41,230 --> 00:08:41,240
+c'est va pouvoir te guider encore mieux
+ 
+
+421
+00:08:41,240 --> 00:08:43,509
+c'est va pouvoir te guider encore mieux
+dans toute ta vie. puis tu vas tu vas
+
+422
+00:08:43,509 --> 00:08:43,519
+dans toute ta vie. puis tu vas tu vas
+ 
+
+423
+00:08:43,519 --> 00:08:45,870
+dans toute ta vie. puis tu vas tu vas
+comme avoir un accompagnateur de toute
+
+424
+00:08:45,870 --> 00:08:45,880
+comme avoir un accompagnateur de toute
+ 
+
+425
+00:08:45,880 --> 00:08:47,790
+comme avoir un accompagnateur de toute
+ta vie.
+
+426
+00:08:47,790 --> 00:08:47,800
+ta vie.
+ 
+
+427
+00:08:47,800 --> 00:08:49,509
+ta vie.
+Donc c'est ça que je voulais aborder
+
+428
+00:08:49,509 --> 00:08:49,519
+Donc c'est ça que je voulais aborder
+ 
+
+429
+00:08:49,519 --> 00:08:53,949
+Donc c'est ça que je voulais aborder
+aujourd'hui. Donc Claude Code,
+
+430
+00:08:53,949 --> 00:08:53,959
+aujourd'hui. Donc Claude Code,
+ 
+
+431
+00:08:53,959 --> 00:08:56,630
+aujourd'hui. Donc Claude Code,
+c'est la base en 2026.
+
+432
+00:08:56,630 --> 00:08:56,640
+c'est la base en 2026.
+ 
+
+433
+00:08:56,640 --> 00:08:58,269
+c'est la base en 2026.
+Si tu veux développer, tu as pas le
+
+434
+00:08:58,269 --> 00:08:58,279
+Si tu veux développer, tu as pas le
+ 
+
+435
+00:08:58,279 --> 00:09:00,150
+Si tu veux développer, tu as pas le
+choix de l'apprendre.
+
+436
+00:09:00,150 --> 00:09:00,160
+choix de l'apprendre.
+ 
+
+437
+00:09:00,160 --> 00:09:01,190
+choix de l'apprendre.
+Surtout c'est peut-être que ça fait peur
+
+438
+00:09:01,190 --> 00:09:01,200
+Surtout c'est peut-être que ça fait peur
+ 
+
+439
+00:09:01,200 --> 00:09:03,150
+Surtout c'est peut-être que ça fait peur
+un peu qu'un terminal mais tu as pas le
+
+440
+00:09:03,150 --> 00:09:03,160
+un peu qu'un terminal mais tu as pas le
+ 
+
+441
+00:09:03,160 --> 00:09:04,269
+un peu qu'un terminal mais tu as pas le
+choix.
+
+442
+00:09:04,269 --> 00:09:04,279
+choix.
+ 
+
+443
+00:09:04,279 --> 00:09:09,790
+choix.
+faire un second cerveau avec obsidian
+
+444
+00:09:09,790 --> 00:09:09,800
+
+ 
+
+445
+00:09:09,800 --> 00:09:12,150
+
+mettre des processus d'autoréation avec
+
+446
+00:09:12,150 --> 00:09:12,160
+mettre des processus d'autoréation avec
+ 
+
+447
+00:09:12,160 --> 00:09:15,630
+mettre des processus d'autoréation avec
+ton CL code puis
+
+448
+00:09:15,630 --> 00:09:15,640
+ton CL code puis
+ 
+
+449
+00:09:15,640 --> 00:09:18,590
+ton CL code puis
+faire ton reverse engineering
+
+450
+00:09:18,590 --> 00:09:18,600
+faire ton reverse engineering
+ 
+
+451
+00:09:18,600 --> 00:09:21,470
+faire ton reverse engineering
+faire avec ton chat GPT pour t brain qui
+
+452
+00:09:21,470 --> 00:09:21,480
+faire avec ton chat GPT pour t brain qui
+ 
+
+453
+00:09:21,480 --> 00:09:24,509
+faire avec ton chat GPT pour t brain qui
+brainstorm avec toi tu copiesoles tout
+
+454
+00:09:24,509 --> 00:09:24,519
+brainstorm avec toi tu copiesoles tout
+ 
+
+455
+00:09:24,519 --> 00:09:28,269
+brainstorm avec toi tu copiesoles tout
+ce qu'il y a
+
+456
+00:09:28,269 --> 00:09:28,279
+
+ 
+
+457
+00:09:28,279 --> 00:09:29,509
+
+des questions que tu as posé tes
+
+458
+00:09:29,509 --> 00:09:29,519
+des questions que tu as posé tes
+ 
+
+459
+00:09:29,519 --> 00:09:31,630
+des questions que tu as posé tes
+réponses que tuas donné tu pes tout ça
+
+460
+00:09:31,630 --> 00:09:31,640
+réponses que tuas donné tu pes tout ça
+ 
+
+461
+00:09:31,640 --> 00:09:33,230
+réponses que tuas donné tu pes tout ça
+tu donnes ça à l'autre code puis il va
+
+462
+00:09:33,230 --> 00:09:33,240
+tu donnes ça à l'autre code puis il va
+ 
+
+463
+00:09:33,240 --> 00:09:38,040
+tu donnes ça à l'autre code puis il va
+te les documents dans ton secondau.
+

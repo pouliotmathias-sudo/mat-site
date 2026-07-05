@@ -1,0 +1,91 @@
+.head {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-3);
+  max-width: calc(var(--container) / var(--phi));
+  margin-bottom: var(--s-5);
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+  flex-wrap: wrap;
+}
+
+.title {
+  max-width: 22ch;
+}
+
+.desc {
+  max-width: 44rem;
+}
+
+.videoWrap {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  border-radius: var(--s-3);
+  overflow: hidden;
+  background: var(--ink);
+  box-shadow: 0 34px 89px rgba(42, 33, 26, 0.22);
+  margin-bottom: var(--s-6);
+}
+
+.videoWrap iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.bodyWrap {
+  display: grid;
+  /* corps de texte 1.618 / rail CTA 1 — section dorée */
+  grid-template-columns: 1.618fr 1fr;
+  gap: var(--s-6);
+  align-items: start;
+}
+
+.cta {
+  position: sticky;
+  top: calc(55px + var(--s-4));
+  background: var(--cream);
+  border-radius: var(--s-3);
+  padding: var(--s-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-3);
+  align-items: flex-start;
+}
+
+.related {
+  margin-top: var(--s-7);
+  padding-top: var(--s-5);
+  border-top: 1px solid var(--line);
+}
+
+.relatedGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--gutter);
+}
+
+.relatedGrid > * {
+  min-width: 0;
+}
+
+@media (max-width: 980px) {
+  .bodyWrap {
+    grid-template-columns: 1fr;
+    gap: var(--s-4);
+  }
+
+  .cta {
+    position: static;
+  }
+
+  .relatedGrid {
+    grid-template-columns: 1fr;
+  }
+}

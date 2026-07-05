@@ -1,0 +1,122 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: color-mix(in srgb, var(--sand) 82%, transparent);
+  backdrop-filter: blur(13px);
+  border-bottom: 1px solid var(--line);
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* hauteur du header : 55px (Fibonacci) + padding */
+  min-height: 55px;
+  padding-block: var(--s-2);
+}
+
+.logo {
+  font-size: 1.719rem; /* palier φ */
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 1;
+}
+
+.dot {
+  color: var(--accent);
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: var(--s-4);
+}
+
+.navLink {
+  font-weight: 650;
+  font-size: var(--fs-body);
+  color: var(--ink-2);
+  position: relative;
+  transition: color var(--t-fast) var(--ease);
+}
+
+.navLink::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 100%;
+  height: 2px;
+  background: var(--accent);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform var(--t-fast) var(--ease);
+}
+
+.navLink:hover,
+.active {
+  color: var(--ink);
+}
+
+.navLink:hover::after,
+.active::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.burger {
+  display: none;
+  flex-direction: column;
+  gap: 6px;
+  padding: var(--s-2);
+}
+
+.bar {
+  width: 26px;
+  height: 2px;
+  background: var(--ink);
+  transition: transform var(--t-fast) var(--ease);
+}
+
+.barTop {
+  transform: translateY(4px) rotate(45deg);
+}
+
+.barBot {
+  transform: translateY(-4px) rotate(-45deg);
+}
+
+@media (max-width: 720px) {
+  .burger {
+    display: flex;
+  }
+
+  .nav {
+    position: fixed;
+    inset: 55px 0 auto 0;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+    background: var(--cream);
+    border-bottom: 1px solid var(--line);
+    padding: var(--s-3) var(--s-4) var(--s-4);
+    transform: translateY(-8px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity var(--t-fast) var(--ease),
+      transform var(--t-fast) var(--ease);
+  }
+
+  .navOpen {
+    transform: none;
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .navLink {
+    padding-block: var(--s-2);
+    font-size: var(--fs-titre);
+    width: 100%;
+  }
+}

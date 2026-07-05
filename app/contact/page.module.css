@@ -1,0 +1,49 @@
+.wrap {
+  display: grid;
+  /* intro 1 / formulaire 1.618 — le formulaire est la vedette */
+  grid-template-columns: 1fr 1.618fr;
+  gap: var(--s-6);
+  align-items: start;
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-3);
+  position: sticky;
+  top: calc(55px + var(--s-4));
+}
+
+.socials {
+  margin-top: var(--s-3);
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-2);
+}
+
+.socialRow {
+  display: flex;
+  gap: var(--s-3);
+}
+
+.formCol {
+  background: color-mix(in srgb, var(--cream) 45%, transparent);
+  border: 1px solid var(--line);
+  border-radius: var(--s-3);
+  padding: var(--s-5);
+}
+
+@media (max-width: 860px) {
+  .wrap {
+    grid-template-columns: 1fr;
+    gap: var(--s-4);
+  }
+
+  .intro {
+    position: static;
+  }
+
+  .formCol {
+    padding: var(--s-4);
+  }
+}

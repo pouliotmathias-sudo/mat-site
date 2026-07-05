@@ -1,0 +1,4585 @@
+1
+00:00:01,800 --> 00:00:03,790
+
+Alr
+
+2
+00:00:03,790 --> 00:00:03,800
+Alr
+ 
+
+3
+00:00:03,800 --> 00:00:07,349
+Alr
+hello hello guys. Donc aujourd'hui vidéo
+
+4
+00:00:07,349 --> 00:00:07,359
+hello hello guys. Donc aujourd'hui vidéo
+ 
+
+5
+00:00:07,359 --> 00:00:10,549
+hello hello guys. Donc aujourd'hui vidéo
+sur les 11 niveau d'utilisation de Lia.
+
+6
+00:00:10,549 --> 00:00:10,559
+sur les 11 niveau d'utilisation de Lia.
+ 
+
+7
+00:00:10,559 --> 00:00:15,230
+sur les 11 niveau d'utilisation de Lia.
+Donc euh souvent on parle de di mais euh
+
+8
+00:00:15,230 --> 00:00:15,240
+Donc euh souvent on parle de di mais euh
+ 
+
+9
+00:00:15,240 --> 00:00:18,269
+Donc euh souvent on parle de di mais euh
+sans la sans quantifier son niveau euh
+
+10
+00:00:18,269 --> 00:00:18,279
+sans la sans quantifier son niveau euh
+ 
+
+11
+00:00:18,279 --> 00:00:20,790
+sans la sans quantifier son niveau euh
+de son utilisation de l'IA euh ben on
+
+12
+00:00:20,790 --> 00:00:20,800
+de son utilisation de l'IA euh ben on
+ 
+
+13
+00:00:20,800 --> 00:00:23,070
+de son utilisation de l'IA euh ben on
+peut vite plafonner si on n'écoute pas
+
+14
+00:00:23,070 --> 00:00:23,080
+peut vite plafonner si on n'écoute pas
+ 
+
+15
+00:00:23,080 --> 00:00:24,910
+peut vite plafonner si on n'écoute pas
+euh des vidéos, si on s'éduque pas, si
+
+16
+00:00:24,910 --> 00:00:24,920
+euh des vidéos, si on s'éduque pas, si
+ 
+
+17
+00:00:24,920 --> 00:00:26,790
+euh des vidéos, si on s'éduque pas, si
+on se garde pas à jour, euh on peut
+
+18
+00:00:26,790 --> 00:00:26,800
+on se garde pas à jour, euh on peut
+ 
+
+19
+00:00:26,800 --> 00:00:28,230
+on se garde pas à jour, euh on peut
+rapidement plafonner puis penser qu'on
+
+20
+00:00:28,230 --> 00:00:28,240
+rapidement plafonner puis penser qu'on
+ 
+
+21
+00:00:28,240 --> 00:00:30,029
+rapidement plafonner puis penser qu'on
+est rendu au niveau le plus supérieur
+
+22
+00:00:30,029 --> 00:00:30,039
+est rendu au niveau le plus supérieur
+ 
+
+23
+00:00:30,039 --> 00:00:32,269
+est rendu au niveau le plus supérieur
+puis euh peut-être le seul qui est
+
+24
+00:00:32,269 --> 00:00:32,279
+puis euh peut-être le seul qui est
+ 
+
+25
+00:00:32,279 --> 00:00:34,470
+puis euh peut-être le seul qui est
+atteignable pour nous. Peut-être que les
+
+26
+00:00:34,470 --> 00:00:34,480
+atteignable pour nous. Peut-être que les
+ 
+
+27
+00:00:34,480 --> 00:00:35,950
+atteignable pour nous. Peut-être que les
+autres, on sait pas exactement c'est
+
+28
+00:00:35,950 --> 00:00:35,960
+autres, on sait pas exactement c'est
+ 
+
+29
+00:00:35,960 --> 00:00:37,310
+autres, on sait pas exactement c'est
+quoi, on comprend pas. fait qu'on se dit
+
+30
+00:00:37,310 --> 00:00:37,320
+quoi, on comprend pas. fait qu'on se dit
+ 
+
+31
+00:00:37,320 --> 00:00:39,950
+quoi, on comprend pas. fait qu'on se dit
+qu' sont inatteignables.
+
+32
+00:00:39,950 --> 00:00:39,960
+qu' sont inatteignables.
+ 
+
+33
+00:00:39,960 --> 00:00:42,430
+qu' sont inatteignables.
+Donc c'est pour ça qu'aujourd'hui on va
+
+34
+00:00:42,430 --> 00:00:42,440
+Donc c'est pour ça qu'aujourd'hui on va
+ 
+
+35
+00:00:42,440 --> 00:00:44,270
+Donc c'est pour ça qu'aujourd'hui on va
+euh les décortiquer. On va voir qu'au
+
+36
+00:00:44,270 --> 00:00:44,280
+euh les décortiquer. On va voir qu'au
+ 
+
+37
+00:00:44,280 --> 00:00:46,910
+euh les décortiquer. On va voir qu'au
+final euh c'est potentiellement plus
+
+38
+00:00:46,910 --> 00:00:46,920
+final euh c'est potentiellement plus
+ 
+
+39
+00:00:46,920 --> 00:00:48,549
+final euh c'est potentiellement plus
+accessible
+
+40
+00:00:48,549 --> 00:00:48,559
+accessible
+ 
+
+41
+00:00:48,559 --> 00:00:53,630
+accessible
+que euh on le croit. Donc euh let's go.
+
+42
+00:00:53,630 --> 00:00:53,640
+que euh on le croit. Donc euh let's go.
+ 
+
+43
+00:00:53,640 --> 00:00:57,110
+que euh on le croit. Donc euh let's go.
+Donc
+
+44
+00:00:57,110 --> 00:00:57,120
+
+ 
+
+45
+00:00:57,120 --> 00:00:58,869
+
+la réalité du marché en 2026, c'est que
+
+46
+00:00:58,869 --> 00:00:58,879
+la réalité du marché en 2026, c'est que
+ 
+
+47
+00:00:58,879 --> 00:01:00,990
+la réalité du marché en 2026, c'est que
+la majorité des gens utilisent l' comme
+
+48
+00:01:00,990 --> 00:01:01,000
+la majorité des gens utilisent l' comme
+ 
+
+49
+00:01:01,000 --> 00:01:02,910
+la majorité des gens utilisent l' comme
+un Google qui est juste plus rapide.
+
+50
+00:01:02,910 --> 00:01:02,920
+un Google qui est juste plus rapide.
+ 
+
+51
+00:01:02,920 --> 00:01:05,310
+un Google qui est juste plus rapide.
+Donc qu'est-ce que je veux dire par là ?
+
+52
+00:01:05,310 --> 00:01:05,320
+Donc qu'est-ce que je veux dire par là ?
+ 
+
+53
+00:01:05,320 --> 00:01:06,910
+Donc qu'est-ce que je veux dire par là ?
+c'est que les gens vont juste poser des
+
+54
+00:01:06,910 --> 00:01:06,920
+c'est que les gens vont juste poser des
+ 
+
+55
+00:01:06,920 --> 00:01:09,230
+c'est que les gens vont juste poser des
+questions, ils vont l'utiliser comme une
+
+56
+00:01:09,230 --> 00:01:09,240
+questions, ils vont l'utiliser comme une
+ 
+
+57
+00:01:09,240 --> 00:01:12,270
+questions, ils vont l'utiliser comme une
+sorte de de guide un peu une sorte de
+
+58
+00:01:12,270 --> 00:01:12,280
+sorte de de guide un peu une sorte de
+ 
+
+59
+00:01:12,280 --> 00:01:13,910
+sorte de de guide un peu une sorte de
+c'est ça un Google que le monde va poser
+
+60
+00:01:13,910 --> 00:01:13,920
+c'est ça un Google que le monde va poser
+ 
+
+61
+00:01:13,920 --> 00:01:15,749
+c'est ça un Google que le monde va poser
+des questions.
+
+62
+00:01:15,749 --> 00:01:15,759
+des questions.
+ 
+
+63
+00:01:15,759 --> 00:01:18,910
+des questions.
+Euh puis la statistique c'est que 87 %
+
+64
+00:01:18,910 --> 00:01:18,920
+Euh puis la statistique c'est que 87 %
+ 
+
+65
+00:01:18,920 --> 00:01:20,590
+Euh puis la statistique c'est que 87 %
+des utilisateurs s'arrêtent avant le
+
+66
+00:01:20,590 --> 00:01:20,600
+des utilisateurs s'arrêtent avant le
+ 
+
+67
+00:01:20,600 --> 00:01:22,590
+des utilisateurs s'arrêtent avant le
+niveau 6. Donc là, on va voir qu'il y a
+
+68
+00:01:22,590 --> 00:01:22,600
+niveau 6. Donc là, on va voir qu'il y a
+ 
+
+69
+00:01:22,600 --> 00:01:25,429
+niveau 6. Donc là, on va voir qu'il y a
+plusieurs niveaux euh
+
+70
+00:01:25,429 --> 00:01:25,439
+plusieurs niveaux euh
+ 
+
+71
+00:01:25,439 --> 00:01:28,149
+plusieurs niveaux euh
+puis la majorité arrive au niveau 6,
+
+72
+00:01:28,149 --> 00:01:28,159
+puis la majorité arrive au niveau 6,
+ 
+
+73
+00:01:28,159 --> 00:01:30,390
+puis la majorité arrive au niveau 6,
+mais il y en reste après ça. La vraie
+
+74
+00:01:30,390 --> 00:01:30,400
+mais il y en reste après ça. La vraie
+ 
+
+75
+00:01:30,400 --> 00:01:31,830
+mais il y en reste après ça. La vraie
+ligne de démarcation est presque
+
+76
+00:01:31,830 --> 00:01:31,840
+ligne de démarcation est presque
+ 
+
+77
+00:01:31,840 --> 00:01:34,069
+ligne de démarcation est presque
+invisible jusqu'à ce qu'on la nomme.
+
+78
+00:01:34,069 --> 00:01:34,079
+invisible jusqu'à ce qu'on la nomme.
+ 
+
+79
+00:01:34,079 --> 00:01:36,630
+invisible jusqu'à ce qu'on la nomme.
+Donc c'est ça, si on nomme pas justement
+
+80
+00:01:36,630 --> 00:01:36,640
+Donc c'est ça, si on nomme pas justement
+ 
+
+81
+00:01:36,640 --> 00:01:38,710
+Donc c'est ça, si on nomme pas justement
+les différents niveaux de Lia, ben on
+
+82
+00:01:38,710 --> 00:01:38,720
+les différents niveaux de Lia, ben on
+ 
+
+83
+00:01:38,720 --> 00:01:39,990
+les différents niveaux de Lia, ben on
+pense peut-être qu'on est rendu au
+
+84
+00:01:39,990 --> 00:01:40,000
+pense peut-être qu'on est rendu au
+ 
+
+85
+00:01:40,000 --> 00:01:41,990
+pense peut-être qu'on est rendu au
+maximum de du potentiel. Peut-être qu'on
+
+86
+00:01:41,990 --> 00:01:42,000
+maximum de du potentiel. Peut-être qu'on
+ 
+
+87
+00:01:42,000 --> 00:01:45,030
+maximum de du potentiel. Peut-être qu'on
+pense que euh Lia finalement, c'est pas
+
+88
+00:01:45,030 --> 00:01:45,040
+pense que euh Lia finalement, c'est pas
+ 
+
+89
+00:01:45,040 --> 00:01:48,030
+pense que euh Lia finalement, c'est pas
+aussi hute qu'on pensait. Donc euh c'est
+
+90
+00:01:48,030 --> 00:01:48,040
+aussi hute qu'on pensait. Donc euh c'est
+ 
+
+91
+00:01:48,040 --> 00:01:51,469
+aussi hute qu'on pensait. Donc euh c'est
+ce qu'on va voir juste ici. Donc euh
+
+92
+00:01:51,469 --> 00:01:51,479
+ce qu'on va voir juste ici. Donc euh
+ 
+
+93
+00:01:51,479 --> 00:01:53,109
+ce qu'on va voir juste ici. Donc euh
+directement, on va commencer. Donc
+
+94
+00:01:53,109 --> 00:01:53,119
+directement, on va commencer. Donc
+ 
+
+95
+00:01:53,119 --> 00:01:54,990
+directement, on va commencer. Donc
+niveau 1 2, on pour dire c'est la zone
+
+96
+00:01:54,990 --> 00:01:55,000
+niveau 1 2, on pour dire c'est la zone
+ 
+
+97
+00:01:55,000 --> 00:01:56,789
+niveau 1 2, on pour dire c'est la zone
+de confort. Donc euh c'est ça que la
+
+98
+00:01:56,789 --> 00:01:56,799
+de confort. Donc euh c'est ça que la
+ 
+
+99
+00:01:56,799 --> 00:01:58,590
+de confort. Donc euh c'est ça que la
+grande majorité des gens utilisent euh
+
+100
+00:01:58,590 --> 00:01:58,600
+grande majorité des gens utilisent euh
+ 
+
+101
+00:01:58,600 --> 00:02:00,429
+grande majorité des gens utilisent euh
+des utilisateurs IO, ilutilise
+
+102
+00:02:00,429 --> 00:02:00,439
+des utilisateurs IO, ilutilise
+ 
+
+103
+00:02:00,439 --> 00:02:02,630
+des utilisateurs IO, ilutilise
+aujourd'hui. Donc niveau 1, c'est tout
+
+104
+00:02:02,630 --> 00:02:02,640
+aujourd'hui. Donc niveau 1, c'est tout
+ 
+
+105
+00:02:02,640 --> 00:02:04,709
+aujourd'hui. Donc niveau 1, c'est tout
+simplement un moteur de recherche euh
+
+106
+00:02:04,709 --> 00:02:04,719
+simplement un moteur de recherche euh
+ 
+
+107
+00:02:04,719 --> 00:02:06,789
+simplement un moteur de recherche euh
+amélioré. Donc pos des questions, des
+
+108
+00:02:06,789 --> 00:02:06,799
+amélioré. Donc pos des questions, des
+ 
+
+109
+00:02:06,799 --> 00:02:08,949
+amélioré. Donc pos des questions, des
+résumés, réformulations. Donc au final,
+
+110
+00:02:08,949 --> 00:02:08,959
+résumés, réformulations. Donc au final,
+ 
+
+111
+00:02:08,959 --> 00:02:11,589
+résumés, réformulations. Donc au final,
+c'est juste que Lia va remplacer Google.
+
+112
+00:02:11,589 --> 00:02:11,599
+c'est juste que Lia va remplacer Google.
+ 
+
+113
+00:02:11,599 --> 00:02:15,150
+c'est juste que Lia va remplacer Google.
+Donc euh super simple mais beaucoup de
+
+114
+00:02:15,150 --> 00:02:15,160
+Donc euh super simple mais beaucoup de
+ 
+
+115
+00:02:15,160 --> 00:02:16,670
+Donc euh super simple mais beaucoup de
+gens ça va être comme ça. Niveau 2,
+
+116
+00:02:16,670 --> 00:02:16,680
+gens ça va être comme ça. Niveau 2,
+ 
+
+117
+00:02:16,680 --> 00:02:18,030
+gens ça va être comme ça. Niveau 2,
+c'est partenaire de réflexion donc ils
+
+118
+00:02:18,030 --> 00:02:18,040
+c'est partenaire de réflexion donc ils
+ 
+
+119
+00:02:18,040 --> 00:02:20,470
+c'est partenaire de réflexion donc ils
+vont plus brainstorm avec euh validation
+
+120
+00:02:20,470 --> 00:02:20,480
+vont plus brainstorm avec euh validation
+ 
+
+121
+00:02:20,480 --> 00:02:22,949
+vont plus brainstorm avec euh validation
+d'idées euh plan de projet ça plus comme
+
+122
+00:02:22,949 --> 00:02:22,959
+d'idées euh plan de projet ça plus comme
+ 
+
+123
+00:02:22,959 --> 00:02:25,150
+d'idées euh plan de projet ça plus comme
+un collègue un peu. Même il y en a qui
+
+124
+00:02:25,150 --> 00:02:25,160
+un collègue un peu. Même il y en a qui
+ 
+
+125
+00:02:25,160 --> 00:02:26,430
+un collègue un peu. Même il y en a qui
+vont euh le prendre un peu comme un
+
+126
+00:02:26,430 --> 00:02:26,440
+vont euh le prendre un peu comme un
+ 
+
+127
+00:02:26,440 --> 00:02:28,949
+vont euh le prendre un peu comme un
+psychologue. Il y en a qui vont
+
+128
+00:02:28,949 --> 00:02:28,959
+psychologue. Il y en a qui vont
+ 
+
+129
+00:02:28,959 --> 00:02:30,949
+psychologue. Il y en a qui vont
+justement vraiment il ont des problèmes
+
+130
+00:02:30,949 --> 00:02:30,959
+justement vraiment il ont des problèmes
+ 
+
+131
+00:02:30,959 --> 00:02:33,869
+justement vraiment il ont des problèmes
+à job vont juste brainstorm avec ou
+
+132
+00:02:33,869 --> 00:02:33,879
+à job vont juste brainstorm avec ou
+ 
+
+133
+00:02:33,879 --> 00:02:34,710
+à job vont juste brainstorm avec ou
+problème dans leur couple vont
+
+134
+00:02:34,710 --> 00:02:34,720
+problème dans leur couple vont
+ 
+
+135
+00:02:34,720 --> 00:02:36,030
+problème dans leur couple vont
+brainstorm avec puis il y en a qui
+
+136
+00:02:36,030 --> 00:02:36,040
+brainstorm avec puis il y en a qui
+ 
+
+137
+00:02:36,040 --> 00:02:38,309
+brainstorm avec puis il y en a qui
+justement c'est là que les histoires de
+
+138
+00:02:38,309 --> 00:02:38,319
+justement c'est là que les histoires de
+ 
+
+139
+00:02:38,319 --> 00:02:39,750
+justement c'est là que les histoires de
+comme des gens qui tombent en amour avec
+
+140
+00:02:39,750 --> 00:02:39,760
+comme des gens qui tombent en amour avec
+ 
+
+141
+00:02:39,760 --> 00:02:42,110
+comme des gens qui tombent en amour avec
+l' ça va arriver quand qu'ils sont
+
+142
+00:02:42,110 --> 00:02:42,120
+l' ça va arriver quand qu'ils sont
+ 
+
+143
+00:02:42,120 --> 00:02:43,710
+l' ça va arriver quand qu'ils sont
+justement en partenariat de réflexion
+
+144
+00:02:43,710 --> 00:02:43,720
+justement en partenariat de réflexion
+ 
+
+145
+00:02:43,720 --> 00:02:45,470
+justement en partenariat de réflexion
+ils se sentent compris tu sais enfin une
+
+146
+00:02:45,470 --> 00:02:45,480
+ils se sentent compris tu sais enfin une
+ 
+
+147
+00:02:45,480 --> 00:02:48,110
+ils se sentent compris tu sais enfin une
+fois il encore enfin ils se sentent
+
+148
+00:02:48,110 --> 00:02:48,120
+fois il encore enfin ils se sentent
+ 
+
+149
+00:02:48,120 --> 00:02:50,110
+fois il encore enfin ils se sentent
+compris tu sais
+
+150
+00:02:50,110 --> 00:02:50,120
+compris tu sais
+ 
+
+151
+00:02:50,120 --> 00:02:53,990
+compris tu sais
+donc par la suite niveau 3 à 5 c'est là
+
+152
+00:02:53,990 --> 00:02:54,000
+donc par la suite niveau 3 à 5 c'est là
+ 
+
+153
+00:02:54,000 --> 00:02:56,509
+donc par la suite niveau 3 à 5 c'est là
+que la plupart des des
+
+154
+00:02:56,509 --> 00:02:56,519
+que la plupart des des
+ 
+
+155
+00:02:56,519 --> 00:02:59,030
+que la plupart des des
+power users se croit arriver. Il pense
+
+156
+00:02:59,030 --> 00:02:59,040
+power users se croit arriver. Il pense
+ 
+
+157
+00:02:59,040 --> 00:03:00,830
+power users se croit arriver. Il pense
+avoir atteint ces numéros là fait qu'il
+
+158
+00:03:00,830 --> 00:03:00,840
+avoir atteint ces numéros là fait qu'il
+ 
+
+159
+00:03:00,840 --> 00:03:03,229
+avoir atteint ces numéros là fait qu'il
+pensent qu'il ont comme atteint un gros
+
+160
+00:03:03,229 --> 00:03:03,239
+pensent qu'il ont comme atteint un gros
+ 
+
+161
+00:03:03,239 --> 00:03:04,470
+pensent qu'il ont comme atteint un gros
+niveau, tu sais, en puis il pensent
+
+162
+00:03:04,470 --> 00:03:04,480
+niveau, tu sais, en puis il pensent
+ 
+
+163
+00:03:04,480 --> 00:03:05,589
+niveau, tu sais, en puis il pensent
+qu'il ont comme quasiment le max, tu
+
+164
+00:03:05,589 --> 00:03:05,599
+qu'il ont comme quasiment le max, tu
+ 
+
+165
+00:03:05,599 --> 00:03:08,910
+qu'il ont comme quasiment le max, tu
+sais. Puis euh
+
+166
+00:03:08,910 --> 00:03:08,920
+sais. Puis euh
+ 
+
+167
+00:03:08,920 --> 00:03:11,869
+sais. Puis euh
+ceci dit, chaque personne à son niveau
+
+168
+00:03:11,869 --> 00:03:11,879
+ceci dit, chaque personne à son niveau
+ 
+
+169
+00:03:11,879 --> 00:03:12,990
+ceci dit, chaque personne à son niveau
+potentiellement, il pense qu'il est
+
+170
+00:03:12,990 --> 00:03:13,000
+potentiellement, il pense qu'il est
+ 
+
+171
+00:03:13,000 --> 00:03:16,229
+potentiellement, il pense qu'il est
+comme à son maximum qui peut atteindre.
+
+172
+00:03:16,229 --> 00:03:16,239
+comme à son maximum qui peut atteindre.
+ 
+
+173
+00:03:16,239 --> 00:03:18,270
+comme à son maximum qui peut atteindre.
+Il pense qu'il peut pas, selon ses
+
+174
+00:03:18,270 --> 00:03:18,280
+Il pense qu'il peut pas, selon ses
+ 
+
+175
+00:03:18,280 --> 00:03:20,110
+Il pense qu'il peut pas, selon ses
+compétences, il pense qu'il peut pas
+
+176
+00:03:20,110 --> 00:03:20,120
+compétences, il pense qu'il peut pas
+ 
+
+177
+00:03:20,120 --> 00:03:21,390
+compétences, il pense qu'il peut pas
+aller plus loin. Après, ça c'est comme
+
+178
+00:03:21,390 --> 00:03:21,400
+aller plus loin. Après, ça c'est comme
+ 
+
+179
+00:03:21,400 --> 00:03:23,830
+aller plus loin. Après, ça c'est comme
+trop complexe pour lui, tu sais. fait
+
+180
+00:03:23,830 --> 00:03:23,840
+trop complexe pour lui, tu sais. fait
+ 
+
+181
+00:03:23,840 --> 00:03:24,990
+trop complexe pour lui, tu sais. fait
+chacun pense qu' comm une sorte de
+
+182
+00:03:24,990 --> 00:03:25,000
+chacun pense qu' comm une sorte de
+ 
+
+183
+00:03:25,000 --> 00:03:26,630
+chacun pense qu' comm une sorte de
+plafond de vert aussi qui peut pas
+
+184
+00:03:26,630 --> 00:03:26,640
+plafond de vert aussi qui peut pas
+ 
+
+185
+00:03:26,640 --> 00:03:29,390
+plafond de vert aussi qui peut pas
+atteindre plus de potentiel.
+
+186
+00:03:29,390 --> 00:03:29,400
+atteindre plus de potentiel.
+ 
+
+187
+00:03:29,400 --> 00:03:31,670
+atteindre plus de potentiel.
+Niveau 3 vraiment un assistant personnel
+
+188
+00:03:31,670 --> 00:03:31,680
+Niveau 3 vraiment un assistant personnel
+ 
+
+189
+00:03:31,680 --> 00:03:33,869
+Niveau 3 vraiment un assistant personnel
+donc là il va commencer à rédiger de
+
+190
+00:03:33,869 --> 00:03:33,879
+donc là il va commencer à rédiger de
+ 
+
+191
+00:03:33,879 --> 00:03:37,030
+donc là il va commencer à rédiger de
+courriel des scripts. Donc va être comme
+
+192
+00:03:37,030 --> 00:03:37,040
+courriel des scripts. Donc va être comme
+ 
+
+193
+00:03:37,040 --> 00:03:38,470
+courriel des scripts. Donc va être comme
+un employé invisible. Ils vont
+
+194
+00:03:38,470 --> 00:03:38,480
+un employé invisible. Ils vont
+ 
+
+195
+00:03:38,480 --> 00:03:40,390
+un employé invisible. Ils vont
+l'utiliser comme une sorte d'employé.
+
+196
+00:03:40,390 --> 00:03:40,400
+l'utiliser comme une sorte d'employé.
+ 
+
+197
+00:03:40,400 --> 00:03:42,910
+l'utiliser comme une sorte d'employé.
+Niveau 4 assistant connecté. Donc là on
+
+198
+00:03:42,910 --> 00:03:42,920
+Niveau 4 assistant connecté. Donc là on
+ 
+
+199
+00:03:42,920 --> 00:03:45,710
+Niveau 4 assistant connecté. Donc là on
+va commencer plus à connecter la li à
+
+200
+00:03:45,710 --> 00:03:45,720
+va commencer plus à connecter la li à
+ 
+
+201
+00:03:45,720 --> 00:03:48,869
+va commencer plus à connecter la li à
+tes données. Donc ton calendly, ton CRM,
+
+202
+00:03:48,869 --> 00:03:48,879
+tes données. Donc ton calendly, ton CRM,
+ 
+
+203
+00:03:48,879 --> 00:03:52,509
+tes données. Donc ton calendly, ton CRM,
+tes fichiers euh probxte qui est réel tu
+
+204
+00:03:52,509 --> 00:03:52,519
+tes fichiers euh probxte qui est réel tu
+ 
+
+205
+00:03:52,519 --> 00:03:53,710
+tes fichiers euh probxte qui est réel tu
+sais.
+
+206
+00:03:53,710 --> 00:03:53,720
+sais.
+ 
+
+207
+00:03:53,720 --> 00:03:56,110
+sais.
+Donc potentiellement le monde ils vont
+
+208
+00:03:56,110 --> 00:03:56,120
+Donc potentiellement le monde ils vont
+ 
+
+209
+00:03:56,120 --> 00:03:57,630
+Donc potentiellement le monde ils vont
+ils ont commencé à comme découvrir ça
+
+210
+00:03:57,630 --> 00:03:57,640
+ils ont commencé à comme découvrir ça
+ 
+
+211
+00:03:57,640 --> 00:04:01,630
+ils ont commencé à comme découvrir ça
+avec Claude
+
+212
+00:04:01,630 --> 00:04:01,640
+avec Claude
+ 
+
+213
+00:04:01,640 --> 00:04:03,429
+avec Claude
+Claude ben Claude et dans le fond que tu
+
+214
+00:04:03,429 --> 00:04:03,439
+Claude ben Claude et dans le fond que tu
+ 
+
+215
+00:04:03,439 --> 00:04:06,670
+Claude ben Claude et dans le fond que tu
+pouvais directement pluguer tes
+
+216
+00:04:06,670 --> 00:04:06,680
+pouvais directement pluguer tes
+ 
+
+217
+00:04:06,680 --> 00:04:11,030
+pouvais directement pluguer tes
+tes tes outils les tools euh même que
+
+218
+00:04:11,030 --> 00:04:11,040
+tes tes outils les tools euh même que
+ 
+
+219
+00:04:11,040 --> 00:04:13,830
+tes tes outils les tools euh même que
+c'est rendu que chat GPT ils font Gemini
+
+220
+00:04:13,830 --> 00:04:13,840
+c'est rendu que chat GPT ils font Gemini
+ 
+
+221
+00:04:13,840 --> 00:04:15,710
+c'est rendu que chat GPT ils font Gemini
+fait vraiment c'est rendu que ils
+
+222
+00:04:15,710 --> 00:04:15,720
+fait vraiment c'est rendu que ils
+ 
+
+223
+00:04:15,720 --> 00:04:17,349
+fait vraiment c'est rendu que ils
+veulent rendre ça accessible au plus
+
+224
+00:04:17,349 --> 00:04:17,359
+veulent rendre ça accessible au plus
+ 
+
+225
+00:04:17,359 --> 00:04:18,509
+veulent rendre ça accessible au plus
+grand nombre de personnes. Donc là, ils
+
+226
+00:04:18,509 --> 00:04:18,519
+grand nombre de personnes. Donc là, ils
+ 
+
+227
+00:04:18,519 --> 00:04:22,230
+grand nombre de personnes. Donc là, ils
+vont mettre ça directement sur cloud
+
+228
+00:04:22,230 --> 00:04:22,240
+vont mettre ça directement sur cloud
+ 
+
+229
+00:04:22,240 --> 00:04:23,830
+vont mettre ça directement sur cloud
+cloud
+
+230
+00:04:23,830 --> 00:04:23,840
+cloud
+ 
+
+231
+00:04:23,840 --> 00:04:27,670
+cloud
+un niveau 5 spécialiste I donc plusieurs
+
+232
+00:04:27,670 --> 00:04:27,680
+un niveau 5 spécialiste I donc plusieurs
+ 
+
+233
+00:04:27,680 --> 00:04:29,189
+un niveau 5 spécialiste I donc plusieurs
+modèles spécialisés donc un pour le
+
+234
+00:04:29,189 --> 00:04:29,199
+modèles spécialisés donc un pour le
+ 
+
+235
+00:04:29,199 --> 00:04:30,830
+modèles spécialisés donc un pour le
+code, un pour la vente, un pour
+
+236
+00:04:30,830 --> 00:04:30,840
+code, un pour la vente, un pour
+ 
+
+237
+00:04:30,840 --> 00:04:32,590
+code, un pour la vente, un pour
+l'analyse donc là il va commencer à
+
+238
+00:04:32,590 --> 00:04:32,600
+l'analyse donc là il va commencer à
+ 
+
+239
+00:04:32,600 --> 00:04:34,469
+l'analyse donc là il va commencer à
+utiliser différents types fait que là il
+
+240
+00:04:34,469 --> 00:04:34,479
+utiliser différents types fait que là il
+ 
+
+241
+00:04:34,479 --> 00:04:37,070
+utiliser différents types fait que là il
+va utiliser du CL code, il va utiliser
+
+242
+00:04:37,070 --> 00:04:37,080
+va utiliser du CL code, il va utiliser
+ 
+
+243
+00:04:37,080 --> 00:04:39,110
+va utiliser du CL code, il va utiliser
+justement il va utiliser les différentes
+
+244
+00:04:39,110 --> 00:04:39,120
+justement il va utiliser les différentes
+ 
+
+245
+00:04:39,120 --> 00:04:41,590
+justement il va utiliser les différentes
+forces des I pour s'aider du mieux
+
+246
+00:04:41,590 --> 00:04:41,600
+forces des I pour s'aider du mieux
+ 
+
+247
+00:04:41,600 --> 00:04:43,110
+forces des I pour s'aider du mieux
+possible pour potentiellement peut-être
+
+248
+00:04:43,110 --> 00:04:43,120
+possible pour potentiellement peut-être
+ 
+
+249
+00:04:43,120 --> 00:04:47,150
+possible pour potentiellement peut-être
+même maximiser optimiser son utilisation
+
+250
+00:04:47,150 --> 00:04:47,160
+même maximiser optimiser son utilisation
+ 
+
+251
+00:04:47,160 --> 00:04:49,310
+même maximiser optimiser son utilisation
+de token.
+
+252
+00:04:49,310 --> 00:04:49,320
+de token.
+ 
+
+253
+00:04:49,320 --> 00:04:52,270
+de token.
+Euh puis la plupart des gens se disent
+
+254
+00:04:52,270 --> 00:04:52,280
+Euh puis la plupart des gens se disent
+ 
+
+255
+00:04:52,280 --> 00:04:54,430
+Euh puis la plupart des gens se disent
+"Je l'utilise bien, j'ai fait le tour
+
+256
+00:04:54,430 --> 00:04:54,440
+"Je l'utilise bien, j'ai fait le tour
+ 
+
+257
+00:04:54,440 --> 00:04:56,270
+"Je l'utilise bien, j'ai fait le tour
+quand ils sont rendus à ce niveau là."
+
+258
+00:04:56,270 --> 00:04:56,280
+quand ils sont rendus à ce niveau là."
+ 
+
+259
+00:04:56,280 --> 00:04:57,749
+quand ils sont rendus à ce niveau là."
+Quand ils sont rendus là, ils disent "E
+
+260
+00:04:57,749 --> 00:04:57,759
+Quand ils sont rendus là, ils disent "E
+ 
+
+261
+00:04:57,759 --> 00:05:00,830
+Quand ils sont rendus là, ils disent "E
+j'ai plugué mes affaires entre eux, ça
+
+262
+00:05:00,830 --> 00:05:00,840
+j'ai plugué mes affaires entre eux, ça
+ 
+
+263
+00:05:00,840 --> 00:05:03,950
+j'ai plugué mes affaires entre eux, ça
+fonctionne bien quand même mais il y a
+
+264
+00:05:03,950 --> 00:05:03,960
+fonctionne bien quand même mais il y a
+ 
+
+265
+00:05:03,960 --> 00:05:05,670
+fonctionne bien quand même mais il y a
+encore du potentiel à aller chercher
+
+266
+00:05:05,670 --> 00:05:05,680
+encore du potentiel à aller chercher
+ 
+
+267
+00:05:05,680 --> 00:05:08,790
+encore du potentiel à aller chercher
+l'optimisation à aller faire."
+
+268
+00:05:08,790 --> 00:05:08,800
+l'optimisation à aller faire."
+ 
+
+269
+00:05:08,800 --> 00:05:10,430
+l'optimisation à aller faire."
+Donc c'est que la ligne de démarcation à
+
+270
+00:05:10,430 --> 00:05:10,440
+Donc c'est que la ligne de démarcation à
+ 
+
+271
+00:05:10,440 --> 00:05:11,909
+Donc c'est que la ligne de démarcation à
+se fait. Donc là, tuas la zone de
+
+272
+00:05:11,909 --> 00:05:11,919
+se fait. Donc là, tuas la zone de
+ 
+
+273
+00:05:11,919 --> 00:05:14,830
+se fait. Donc là, tuas la zone de
+salarié. Donc niveau 1 à 5, c'est tu es
+
+274
+00:05:14,830 --> 00:05:14,840
+salarié. Donc niveau 1 à 5, c'est tu es
+ 
+
+275
+00:05:14,840 --> 00:05:16,110
+salarié. Donc niveau 1 à 5, c'est tu es
+un peu comme un salarié. Donc, tu vas
+
+276
+00:05:16,110 --> 00:05:16,120
+un peu comme un salarié. Donc, tu vas
+ 
+
+277
+00:05:16,120 --> 00:05:17,629
+un peu comme un salarié. Donc, tu vas
+utiliser l'IA pour faire mieux ce que tu
+
+278
+00:05:17,629 --> 00:05:17,639
+utiliser l'IA pour faire mieux ce que tu
+ 
+
+279
+00:05:17,639 --> 00:05:20,070
+utiliser l'IA pour faire mieux ce que tu
+faisais déjà. Chaque tâche encore
+
+280
+00:05:20,070 --> 00:05:20,080
+faisais déjà. Chaque tâche encore
+ 
+
+281
+00:05:20,080 --> 00:05:21,790
+faisais déjà. Chaque tâche encore
+déclenché par un une un humain fait
+
+282
+00:05:21,790 --> 00:05:21,800
+déclenché par un une un humain fait
+ 
+
+283
+00:05:21,800 --> 00:05:22,749
+déclenché par un une un humain fait
+c'est vraiment toi qui va tout le temps
+
+284
+00:05:22,749 --> 00:05:22,759
+c'est vraiment toi qui va tout le temps
+ 
+
+285
+00:05:22,759 --> 00:05:26,550
+c'est vraiment toi qui va tout le temps
+actionner, qui copiercollé encore pour
+
+286
+00:05:26,550 --> 00:05:26,560
+actionner, qui copiercollé encore pour
+ 
+
+287
+00:05:26,560 --> 00:05:28,150
+actionner, qui copiercollé encore pour
+travailler. Au final, tu vas être plus
+
+288
+00:05:28,150 --> 00:05:28,160
+travailler. Au final, tu vas être plus
+ 
+
+289
+00:05:28,160 --> 00:05:30,830
+travailler. Au final, tu vas être plus
+rapide mais pas plus libre. tu vas faire
+
+290
+00:05:30,830 --> 00:05:30,840
+rapide mais pas plus libre. tu vas faire
+ 
+
+291
+00:05:30,840 --> 00:05:33,110
+rapide mais pas plus libre. tu vas faire
+encore les tâches. Par la suite, ton
+
+292
+00:05:33,110 --> 00:05:33,120
+encore les tâches. Par la suite, ton
+ 
+
+293
+00:05:33,120 --> 00:05:35,110
+encore les tâches. Par la suite, ton
+plafond reste fixé par ton nombre
+
+294
+00:05:35,110 --> 00:05:35,120
+plafond reste fixé par ton nombre
+ 
+
+295
+00:05:35,120 --> 00:05:38,309
+plafond reste fixé par ton nombre
+d'heures. Donc encore une fois, tu vas
+
+296
+00:05:38,309 --> 00:05:38,319
+d'heures. Donc encore une fois, tu vas
+ 
+
+297
+00:05:38,319 --> 00:05:39,749
+d'heures. Donc encore une fois, tu vas
+échanger des heures pour ton travail que
+
+298
+00:05:39,749 --> 00:05:39,759
+échanger des heures pour ton travail que
+ 
+
+299
+00:05:39,759 --> 00:05:41,350
+échanger des heures pour ton travail que
+tu vas faire, mais il va être plus
+
+300
+00:05:41,350 --> 00:05:41,360
+tu vas faire, mais il va être plus
+ 
+
+301
+00:05:41,360 --> 00:05:44,909
+tu vas faire, mais il va être plus
+rapide un peu. Puis les s'arrête quand
+
+302
+00:05:44,909 --> 00:05:44,919
+rapide un peu. Puis les s'arrête quand
+ 
+
+303
+00:05:44,919 --> 00:05:48,350
+rapide un peu. Puis les s'arrête quand
+tu t'arrêtes. Puis la zone entrepreneur,
+
+304
+00:05:48,350 --> 00:05:48,360
+tu t'arrêtes. Puis la zone entrepreneur,
+ 
+
+305
+00:05:48,360 --> 00:05:50,870
+tu t'arrêtes. Puis la zone entrepreneur,
+c'est les niveaux 6 à 11. Donc tu
+
+306
+00:05:50,870 --> 00:05:50,880
+c'est les niveaux 6 à 11. Donc tu
+ 
+
+307
+00:05:50,880 --> 00:05:53,469
+c'est les niveaux 6 à 11. Donc tu
+délègues des fluxes entiers à des agents
+
+308
+00:05:53,469 --> 00:05:53,479
+délègues des fluxes entiers à des agents
+ 
+
+309
+00:05:53,479 --> 00:05:55,629
+délègues des fluxes entiers à des agents
+autonomes. Les tâches les classes sans
+
+310
+00:05:55,629 --> 00:05:55,639
+autonomes. Les tâches les classes sans
+ 
+
+311
+00:05:55,639 --> 00:05:57,550
+autonomes. Les tâches les classes sans
+toi, ton système travaille pendant que
+
+312
+00:05:57,550 --> 00:05:57,560
+toi, ton système travaille pendant que
+ 
+
+313
+00:05:57,560 --> 00:06:00,189
+toi, ton système travaille pendant que
+tu dors. Le plafond égale la qualité de
+
+314
+00:06:00,189 --> 00:06:00,199
+tu dors. Le plafond égale la qualité de
+ 
+
+315
+00:06:00,199 --> 00:06:02,830
+tu dors. Le plafond égale la qualité de
+ton architecture. Li continue même quand
+
+316
+00:06:02,830 --> 00:06:02,840
+ton architecture. Li continue même quand
+ 
+
+317
+00:06:02,840 --> 00:06:04,590
+ton architecture. Li continue même quand
+tu es offline. Donc c'est ça qu'on va
+
+318
+00:06:04,590 --> 00:06:04,600
+tu es offline. Donc c'est ça qu'on va
+ 
+
+319
+00:06:04,600 --> 00:06:06,870
+tu es offline. Donc c'est ça qu'on va
+voir de peut-être comment le faire euh
+
+320
+00:06:06,870 --> 00:06:06,880
+voir de peut-être comment le faire euh
+ 
+
+321
+00:06:06,880 --> 00:06:10,029
+voir de peut-être comment le faire euh
+puis comment envisager justement cette
+
+322
+00:06:10,029 --> 00:06:10,039
+puis comment envisager justement cette
+ 
+
+323
+00:06:10,039 --> 00:06:12,670
+puis comment envisager justement cette
+cette partie là de l'
+
+324
+00:06:12,670 --> 00:06:12,680
+cette partie là de l'
+ 
+
+325
+00:06:12,680 --> 00:06:16,070
+cette partie là de l'
+donc tout d'abord le goulot
+
+326
+00:06:16,070 --> 00:06:16,080
+donc tout d'abord le goulot
+ 
+
+327
+00:06:16,080 --> 00:06:17,790
+donc tout d'abord le goulot
+d'étranglement.
+
+328
+00:06:17,790 --> 00:06:17,800
+d'étranglement.
+ 
+
+329
+00:06:17,800 --> 00:06:19,670
+d'étranglement.
+C'est pourquoi les niveaux 1 à 5 créent
+
+330
+00:06:19,670 --> 00:06:19,680
+C'est pourquoi les niveaux 1 à 5 créent
+ 
+
+331
+00:06:19,680 --> 00:06:21,550
+C'est pourquoi les niveaux 1 à 5 créent
+un plafond ? Parce que même avec les
+
+332
+00:06:21,550 --> 00:06:21,560
+un plafond ? Parce que même avec les
+ 
+
+333
+00:06:21,560 --> 00:06:23,150
+un plafond ? Parce que même avec les
+meilleurs outils, si c'est toujours toi
+
+334
+00:06:23,150 --> 00:06:23,160
+meilleurs outils, si c'est toujours toi
+ 
+
+335
+00:06:23,160 --> 00:06:26,469
+meilleurs outils, si c'est toujours toi
+qui déclenche chaque action, tu scaleras
+
+336
+00:06:26,469 --> 00:06:26,479
+qui déclenche chaque action, tu scaleras
+ 
+
+337
+00:06:26,479 --> 00:06:28,830
+qui déclenche chaque action, tu scaleras
+jamais. Tu sais fait que là on voit ici
+
+338
+00:06:28,830 --> 00:06:28,840
+jamais. Tu sais fait que là on voit ici
+ 
+
+339
+00:06:28,840 --> 00:06:31,510
+jamais. Tu sais fait que là on voit ici
+que justement la tâche est déclenchée.
+
+340
+00:06:31,510 --> 00:06:31,520
+que justement la tâche est déclenchée.
+ 
+
+341
+00:06:31,520 --> 00:06:33,469
+que justement la tâche est déclenchée.
+L'humain final, il est requis pour faire
+
+342
+00:06:33,469 --> 00:06:33,479
+L'humain final, il est requis pour faire
+ 
+
+343
+00:06:33,479 --> 00:06:36,510
+L'humain final, il est requis pour faire
+cette tâche là, ben pour l'actionner. L
+
+344
+00:06:36,510 --> 00:06:36,520
+cette tâche là, ben pour l'actionner. L
+ 
+
+345
+00:06:36,520 --> 00:06:38,189
+cette tâche là, ben pour l'actionner. L
+va exécuter, tu vas avoir un retour de
+
+346
+00:06:38,189 --> 00:06:38,199
+va exécuter, tu vas avoir un retour de
+ 
+
+347
+00:06:38,199 --> 00:06:40,589
+va exécuter, tu vas avoir un retour de
+l'humain potentiellement ça va être bon,
+
+348
+00:06:40,589 --> 00:06:40,599
+l'humain potentiellement ça va être bon,
+ 
+
+349
+00:06:40,599 --> 00:06:42,990
+l'humain potentiellement ça va être bon,
+mauvais à modifier puis tu vas devoir
+
+350
+00:06:42,990 --> 00:06:43,000
+mauvais à modifier puis tu vas devoir
+ 
+
+351
+00:06:43,000 --> 00:06:45,790
+mauvais à modifier puis tu vas devoir
+reclencher ça, reenclencher ça. Puis tu
+
+352
+00:06:45,790 --> 00:06:45,800
+reclencher ça, reenclencher ça. Puis tu
+ 
+
+353
+00:06:45,800 --> 00:06:47,110
+reclencher ça, reenclencher ça. Puis tu
+vas toujours devoir redonner le
+
+354
+00:06:47,110 --> 00:06:47,120
+vas toujours devoir redonner le
+ 
+
+355
+00:06:47,120 --> 00:06:50,990
+vas toujours devoir redonner le
+contexte, tu vas toujours devoir donner
+
+356
+00:06:50,990 --> 00:06:51,000
+contexte, tu vas toujours devoir donner
+ 
+
+357
+00:06:51,000 --> 00:06:52,749
+contexte, tu vas toujours devoir donner
+des feedback puis tu vas comme créer une
+
+358
+00:06:52,749 --> 00:06:52,759
+des feedback puis tu vas comme créer une
+ 
+
+359
+00:06:52,759 --> 00:06:56,110
+des feedback puis tu vas comme créer une
+loop justement de c OK, c'était il m'a
+
+360
+00:06:56,110 --> 00:06:56,120
+loop justement de c OK, c'était il m'a
+ 
+
+361
+00:06:56,120 --> 00:06:57,710
+loop justement de c OK, c'était il m'a
+donné de quoi pas pire. OK, bon on va
+
+362
+00:06:57,710 --> 00:06:57,720
+donné de quoi pas pire. OK, bon on va
+ 
+
+363
+00:06:57,720 --> 00:06:59,589
+donné de quoi pas pire. OK, bon on va
+l'améliorer. OK, finalement il manque
+
+364
+00:06:59,589 --> 00:06:59,599
+l'améliorer. OK, finalement il manque
+ 
+
+365
+00:06:59,599 --> 00:07:00,629
+l'améliorer. OK, finalement il manque
+encore telle à faire. En fait, là, tu
+
+366
+00:07:00,629 --> 00:07:00,639
+encore telle à faire. En fait, là, tu
+ 
+
+367
+00:07:00,639 --> 00:07:02,230
+encore telle à faire. En fait, là, tu
+vas tout le temps avoir une loupe de
+
+368
+00:07:02,230 --> 00:07:02,240
+vas tout le temps avoir une loupe de
+ 
+
+369
+00:07:02,240 --> 00:07:03,830
+vas tout le temps avoir une loupe de
+tout le temps devoir améliorer
+
+370
+00:07:03,830 --> 00:07:03,840
+tout le temps devoir améliorer
+ 
+
+371
+00:07:03,840 --> 00:07:06,189
+tout le temps devoir améliorer
+continuellement puis redonner tes mêmes
+
+372
+00:07:06,189 --> 00:07:06,199
+continuellement puis redonner tes mêmes
+ 
+
+373
+00:07:06,199 --> 00:07:08,189
+continuellement puis redonner tes mêmes
+feedback.
+
+374
+00:07:08,189 --> 00:07:08,199
+feedback.
+ 
+
+375
+00:07:08,199 --> 00:07:10,510
+feedback.
+C'est là qu'on va voir comment améliorer
+
+376
+00:07:10,510 --> 00:07:10,520
+C'est là qu'on va voir comment améliorer
+ 
+
+377
+00:07:10,520 --> 00:07:12,350
+C'est là qu'on va voir comment améliorer
+ça. Donc le niveau 6, c'est quand
+
+378
+00:07:12,350 --> 00:07:12,360
+ça. Donc le niveau 6, c'est quand
+ 
+
+379
+00:07:12,360 --> 00:07:14,830
+ça. Donc le niveau 6, c'est quand
+travaille même quand tu dors. Donc à ce
+
+380
+00:07:14,830 --> 00:07:14,840
+travaille même quand tu dors. Donc à ce
+ 
+
+381
+00:07:14,840 --> 00:07:17,029
+travaille même quand tu dors. Donc à ce
+niveau-là, euh l'agent autonome délégué
+
+382
+00:07:17,029 --> 00:07:17,039
+niveau-là, euh l'agent autonome délégué
+ 
+
+383
+00:07:17,039 --> 00:07:18,270
+niveau-là, euh l'agent autonome délégué
+donc une séquence d'action qui se
+
+384
+00:07:18,270 --> 00:07:18,280
+donc une séquence d'action qui se
+ 
+
+385
+00:07:18,280 --> 00:07:20,510
+donc une séquence d'action qui se
+déclenche, s'exécute et se gère sans
+
+386
+00:07:20,510 --> 00:07:20,520
+déclenche, s'exécute et se gère sans
+ 
+
+387
+00:07:20,520 --> 00:07:22,790
+déclenche, s'exécute et se gère sans
+intervention humaine. Donc déclenchement
+
+388
+00:07:22,790 --> 00:07:22,800
+intervention humaine. Donc déclenchement
+ 
+
+389
+00:07:22,800 --> 00:07:25,029
+intervention humaine. Donc déclenchement
+automatique. Donc un événement suffit.
+
+390
+00:07:25,029 --> 00:07:25,039
+automatique. Donc un événement suffit.
+ 
+
+391
+00:07:25,039 --> 00:07:26,550
+automatique. Donc un événement suffit.
+Entrer d'un nouveau contact, une réponse
+
+392
+00:07:26,550 --> 00:07:26,560
+Entrer d'un nouveau contact, une réponse
+ 
+
+393
+00:07:26,560 --> 00:07:29,029
+Entrer d'un nouveau contact, une réponse
+reçue, délis atteint. Donc il y en a qui
+
+394
+00:07:29,029 --> 00:07:29,039
+reçue, délis atteint. Donc il y en a qui
+ 
+
+395
+00:07:29,039 --> 00:07:31,790
+reçue, délis atteint. Donc il y en a qui
+vont utiliser du NN pour faire ça.
+
+396
+00:07:31,790 --> 00:07:31,800
+vont utiliser du NN pour faire ça.
+ 
+
+397
+00:07:31,800 --> 00:07:33,230
+vont utiliser du NN pour faire ça.
+Claude COD aussi est rendu capable de
+
+398
+00:07:33,230 --> 00:07:33,240
+Claude COD aussi est rendu capable de
+ 
+
+399
+00:07:33,240 --> 00:07:35,950
+Claude COD aussi est rendu capable de
+faire ça avec le slash loop qui qui est
+
+400
+00:07:35,950 --> 00:07:35,960
+faire ça avec le slash loop qui qui est
+ 
+
+401
+00:07:35,960 --> 00:07:37,629
+faire ça avec le slash loop qui qui est
+un skill qui va peut-être s'actionner à
+
+402
+00:07:37,629 --> 00:07:37,639
+un skill qui va peut-être s'actionner à
+ 
+
+403
+00:07:37,639 --> 00:07:39,150
+un skill qui va peut-être s'actionner à
+chaque
+
+404
+00:07:39,150 --> 00:07:39,160
+chaque
+ 
+
+405
+00:07:39,160 --> 00:07:41,510
+chaque
+matin à 9h du matin. Tu vas avoir une
+
+406
+00:07:41,510 --> 00:07:41,520
+matin à 9h du matin. Tu vas avoir une
+ 
+
+407
+00:07:41,520 --> 00:07:43,670
+matin à 9h du matin. Tu vas avoir une
+loop qui va starter
+
+408
+00:07:43,670 --> 00:07:43,680
+loop qui va starter
+ 
+
+409
+00:07:43,680 --> 00:07:46,670
+loop qui va starter
+même ou sinon
+
+410
+00:07:46,670 --> 00:07:46,680
+même ou sinon
+ 
+
+411
+00:07:46,680 --> 00:07:48,270
+même ou sinon
+donc ouais c'est ça. Donc ça ça se
+
+412
+00:07:48,270 --> 00:07:48,280
+donc ouais c'est ça. Donc ça ça se
+ 
+
+413
+00:07:48,280 --> 00:07:51,230
+donc ouais c'est ça. Donc ça ça se
+déclenche automatiquement. Pipeline sans
+
+414
+00:07:51,230 --> 00:07:51,240
+déclenche automatiquement. Pipeline sans
+ 
+
+415
+00:07:51,240 --> 00:07:53,309
+déclenche automatiquement. Pipeline sans
+friction donc l'agent il tri classe
+
+416
+00:07:53,309 --> 00:07:53,319
+friction donc l'agent il tri classe
+ 
+
+417
+00:07:53,319 --> 00:07:55,749
+friction donc l'agent il tri classe
+envoie relance mais à jour le CRM zéro
+
+418
+00:07:55,749 --> 00:07:55,759
+envoie relance mais à jour le CRM zéro
+ 
+
+419
+00:07:55,759 --> 00:07:58,149
+envoie relance mais à jour le CRM zéro
+intervention annuelle.
+
+420
+00:07:58,149 --> 00:07:58,159
+intervention annuelle.
+ 
+
+421
+00:07:58,159 --> 00:08:01,070
+intervention annuelle.
+Résultat, c'est du levier réel parce que
+
+422
+00:08:01,070 --> 00:08:01,080
+Résultat, c'est du levier réel parce que
+ 
+
+423
+00:08:01,080 --> 00:08:02,749
+Résultat, c'est du levier réel parce que
+pendant que tu prends un appel peut-être
+
+424
+00:08:02,749 --> 00:08:02,759
+pendant que tu prends un appel peut-être
+ 
+
+425
+00:08:02,759 --> 00:08:04,790
+pendant que tu prends un appel peut-être
+avec un client, le système contacte 300
+
+426
+00:08:04,790 --> 00:08:04,800
+avec un client, le système contacte 300
+ 
+
+427
+00:08:04,800 --> 00:08:06,230
+avec un client, le système contacte 300
+prospect en parallèle. Donc il vont
+
+428
+00:08:06,230 --> 00:08:06,240
+prospect en parallèle. Donc il vont
+ 
+
+429
+00:08:06,240 --> 00:08:07,189
+prospect en parallèle. Donc il vont
+faire des tches pendant que toi tu
+
+430
+00:08:07,189 --> 00:08:07,199
+faire des tches pendant que toi tu
+ 
+
+431
+00:08:07,199 --> 00:08:09,189
+faire des tches pendant que toi tu
+travailles.
+
+432
+00:08:09,189 --> 00:08:09,199
+travailles.
+ 
+
+433
+00:08:09,199 --> 00:08:10,869
+travailles.
+Puis le fil levier c'est que chaque
+
+434
+00:08:10,869 --> 00:08:10,879
+Puis le fil levier c'est que chaque
+ 
+
+435
+00:08:10,879 --> 00:08:13,430
+Puis le fil levier c'est que chaque
+niveau multiplie.
+
+436
+00:08:13,430 --> 00:08:13,440
+niveau multiplie.
+ 
+
+437
+00:08:13,440 --> 00:08:15,270
+niveau multiplie.
+Ce n'est pas qu'une différence de degré,
+
+438
+00:08:15,270 --> 00:08:15,280
+Ce n'est pas qu'une différence de degré,
+ 
+
+439
+00:08:15,280 --> 00:08:17,350
+Ce n'est pas qu'une différence de degré,
+c'est une différence de mature de
+
+440
+00:08:17,350 --> 00:08:17,360
+c'est une différence de mature de
+ 
+
+441
+00:08:17,360 --> 00:08:20,029
+c'est une différence de mature de
+nature. Excusez-moi.
+
+442
+00:08:20,029 --> 00:08:20,039
+nature. Excusez-moi.
+ 
+
+443
+00:08:20,039 --> 00:08:24,990
+nature. Excusez-moi.
+Donc niveau 1 2, tu du fo 1. Niveau 3 5
+
+444
+00:08:24,990 --> 00:08:25,000
+Donc niveau 1 2, tu du fo 1. Niveau 3 5
+ 
+
+445
+00:08:25,000 --> 00:08:27,029
+Donc niveau 1 2, tu du fo 1. Niveau 3 5
+tu à du x 5. Puis quand tu vas arriver
+
+446
+00:08:27,029 --> 00:08:27,039
+tu à du x 5. Puis quand tu vas arriver
+ 
+
+447
+00:08:27,039 --> 00:08:29,749
+tu à du x 5. Puis quand tu vas arriver
+du niveau 6 et plus ton skill de faire
+
+448
+00:08:29,749 --> 00:08:29,759
+du niveau 6 et plus ton skill de faire
+ 
+
+449
+00:08:29,759 --> 00:08:34,070
+du niveau 6 et plus ton skill de faire
+une tâche va voir va pouvoir
+
+450
+00:08:34,070 --> 00:08:34,080
+une tâche va voir va pouvoir
+ 
+
+451
+00:08:34,080 --> 00:08:36,990
+une tâche va voir va pouvoir
+faire 30 fois le résultat que tu aurais
+
+452
+00:08:36,990 --> 00:08:37,000
+faire 30 fois le résultat que tu aurais
+ 
+
+453
+00:08:37,000 --> 00:08:39,029
+faire 30 fois le résultat que tu aurais
+en temps normal parce que l' va
+
+454
+00:08:39,029 --> 00:08:39,039
+en temps normal parce que l' va
+ 
+
+455
+00:08:39,039 --> 00:08:41,230
+en temps normal parce que l' va
+continuer à travailler. Ça on dit 30
+
+456
+00:08:41,230 --> 00:08:41,240
+continuer à travailler. Ça on dit 30
+ 
+
+457
+00:08:41,240 --> 00:08:43,949
+continuer à travailler. Ça on dit 30
+fois mais au final ça peut être vraiment
+
+458
+00:08:43,949 --> 00:08:43,959
+fois mais au final ça peut être vraiment
+ 
+
+459
+00:08:43,959 --> 00:08:46,030
+fois mais au final ça peut être vraiment
+plus ça peut être pendant un an de temps
+
+460
+00:08:46,030 --> 00:08:46,040
+plus ça peut être pendant un an de temps
+ 
+
+461
+00:08:46,040 --> 00:08:47,870
+plus ça peut être pendant un an de temps
+les va travailler parce que tu as bien
+
+462
+00:08:47,870 --> 00:08:47,880
+les va travailler parce que tu as bien
+ 
+
+463
+00:08:47,880 --> 00:08:50,269
+les va travailler parce que tu as bien
+fait tes fich process les va pouvoir
+
+464
+00:08:50,269 --> 00:08:50,279
+fait tes fich process les va pouvoir
+ 
+
+465
+00:08:50,279 --> 00:08:52,030
+fait tes fich process les va pouvoir
+travailler de manière autonome et
+
+466
+00:08:52,030 --> 00:08:52,040
+travailler de manière autonome et
+ 
+
+467
+00:08:52,040 --> 00:08:54,310
+travailler de manière autonome et
+efficace pendant un an de temps même
+
+468
+00:08:54,310 --> 00:08:54,320
+efficace pendant un an de temps même
+ 
+
+469
+00:08:54,320 --> 00:08:57,389
+efficace pendant un an de temps même
+plus que ça tu comprends donc l'effet de
+
+470
+00:08:57,389 --> 00:08:57,399
+plus que ça tu comprends donc l'effet de
+ 
+
+471
+00:08:57,399 --> 00:09:02,990
+plus que ça tu comprends donc l'effet de
+levier il se multiplie
+
+472
+00:09:02,990 --> 00:09:03,000
+
+ 
+
+473
+00:09:03,000 --> 00:09:08,350
+
+euh donc ici la zone entrepreneure
+
+474
+00:09:08,350 --> 00:09:08,360
+euh donc ici la zone entrepreneure
+ 
+
+475
+00:09:08,360 --> 00:09:12,670
+euh donc ici la zone entrepreneure
+c'est 6 à 10 donc 6 tu as des agents qui
+
+476
+00:09:12,670 --> 00:09:12,680
+c'est 6 à 10 donc 6 tu as des agents qui
+ 
+
+477
+00:09:12,680 --> 00:09:16,630
+c'est 6 à 10 donc 6 tu as des agents qui
+sont délégués un agent un flux 7
+
+478
+00:09:16,630 --> 00:09:16,640
+sont délégués un agent un flux 7
+ 
+
+479
+00:09:16,640 --> 00:09:18,190
+sont délégués un agent un flux 7
+multiaagent tu as plusieurs équipes
+
+480
+00:09:18,190 --> 00:09:18,200
+multiaagent tu as plusieurs équipes
+ 
+
+481
+00:09:18,200 --> 00:09:20,990
+multiaagent tu as plusieurs équipes
+autonomes qui vont travailler 8 une une
+
+482
+00:09:20,990 --> 00:09:21,000
+autonomes qui vont travailler 8 une une
+ 
+
+483
+00:09:21,000 --> 00:09:22,829
+autonomes qui vont travailler 8 une une
+orchestration des problèmes qui sont
+
+484
+00:09:22,829 --> 00:09:22,839
+orchestration des problèmes qui sont
+ 
+
+485
+00:09:22,839 --> 00:09:24,190
+orchestration des problèmes qui sont
+croisés qui vont se travailler pour avir
+
+486
+00:09:24,190 --> 00:09:24,200
+croisés qui vont se travailler pour avir
+ 
+
+487
+00:09:24,200 --> 00:09:27,310
+croisés qui vont se travailler pour avir
+une orchestration des différents fich
+
+488
+00:09:27,310 --> 00:09:27,320
+une orchestration des différents fich
+ 
+
+489
+00:09:27,320 --> 00:09:30,750
+une orchestration des différents fich
+process euh par la suite neuf il va
+
+490
+00:09:30,750 --> 00:09:30,760
+process euh par la suite neuf il va
+ 
+
+491
+00:09:30,760 --> 00:09:31,910
+process euh par la suite neuf il va
+avoir une organisation qui va être
+
+492
+00:09:31,910 --> 00:09:31,920
+avoir une organisation qui va être
+ 
+
+493
+00:09:31,920 --> 00:09:34,069
+avoir une organisation qui va être
+augmentée va être dans la culture elle
+
+494
+00:09:34,069 --> 00:09:34,079
+augmentée va être dans la culture elle
+ 
+
+495
+00:09:34,079 --> 00:09:36,470
+augmentée va être dans la culture elle
+va comprendre vers où on s'en va et va
+
+496
+00:09:36,470 --> 00:09:36,480
+va comprendre vers où on s'en va et va
+ 
+
+497
+00:09:36,480 --> 00:09:38,030
+va comprendre vers où on s'en va et va
+pouvoir prendre des décisions en
+
+498
+00:09:38,030 --> 00:09:38,040
+pouvoir prendre des décisions en
+ 
+
+499
+00:09:38,040 --> 00:09:39,310
+pouvoir prendre des décisions en
+fonction de la culture d'entre
+
+500
+00:09:39,310 --> 00:09:39,320
+fonction de la culture d'entre
+ 
+
+501
+00:09:39,320 --> 00:09:41,829
+fonction de la culture d'entre
+entreprise du projet de ta vision va
+
+502
+00:09:41,829 --> 00:09:41,839
+entreprise du projet de ta vision va
+ 
+
+503
+00:09:41,839 --> 00:09:44,030
+entreprise du projet de ta vision va
+savoir comment tu réfléchis pour pouvoir
+
+504
+00:09:44,030 --> 00:09:44,040
+savoir comment tu réfléchis pour pouvoir
+ 
+
+505
+00:09:44,040 --> 00:09:46,230
+savoir comment tu réfléchis pour pouvoir
+orchestrer davantage et prendre des
+
+506
+00:09:46,230 --> 00:09:46,240
+orchestrer davantage et prendre des
+ 
+
+507
+00:09:46,240 --> 00:09:48,630
+orchestrer davantage et prendre des
+autonomies puis il y a partenaire donc
+
+508
+00:09:48,630 --> 00:09:48,640
+autonomies puis il y a partenaire donc
+ 
+
+509
+00:09:48,640 --> 00:09:50,150
+autonomies puis il y a partenaire donc
+il v une stratégie qui va être pilotée
+
+510
+00:09:50,150 --> 00:09:50,160
+il v une stratégie qui va être pilotée
+ 
+
+511
+00:09:50,160 --> 00:09:52,509
+il v une stratégie qui va être pilotée
+donc ça qu'on va voir juste ici niveau 7
+
+512
+00:09:52,509 --> 00:09:52,519
+donc ça qu'on va voir juste ici niveau 7
+ 
+
+513
+00:09:52,519 --> 00:09:54,350
+donc ça qu'on va voir juste ici niveau 7
+système multiagent donc des agents
+
+514
+00:09:54,350 --> 00:09:54,360
+système multiagent donc des agents
+ 
+
+515
+00:09:54,360 --> 00:09:57,190
+système multiagent donc des agents
+spécialisés qui se passent qui se qui se
+
+516
+00:09:57,190 --> 00:09:57,200
+spécialisés qui se passent qui se qui se
+ 
+
+517
+00:09:57,200 --> 00:09:58,829
+spécialisés qui se passent qui se qui se
+passent des tâches entre eux sans que tu
+
+518
+00:09:58,829 --> 00:09:58,839
+passent des tâches entre eux sans que tu
+ 
+
+519
+00:09:58,839 --> 00:10:01,590
+passent des tâches entre eux sans que tu
+sois au milieu. Donc on voir un réseau
+
+520
+00:10:01,590 --> 00:10:01,600
+sois au milieu. Donc on voir un réseau
+ 
+
+521
+00:10:01,600 --> 00:10:02,949
+sois au milieu. Donc on voir un réseau
+d'agent, peut-être un agent de
+
+522
+00:10:02,949 --> 00:10:02,959
+d'agent, peut-être un agent de
+ 
+
+523
+00:10:02,959 --> 00:10:05,110
+d'agent, peut-être un agent de
+recherche, un rédacteur, un correcteur,
+
+524
+00:10:05,110 --> 00:10:05,120
+recherche, un rédacteur, un correcteur,
+ 
+
+525
+00:10:05,120 --> 00:10:06,990
+recherche, un rédacteur, un correcteur,
+il se relie automatiquement. Donc il va
+
+526
+00:10:06,990 --> 00:10:07,000
+il se relie automatiquement. Donc il va
+ 
+
+527
+00:10:07,000 --> 00:10:08,949
+il se relie automatiquement. Donc il va
+terminer une fiche process avec
+
+528
+00:10:08,949 --> 00:10:08,959
+terminer une fiche process avec
+ 
+
+529
+00:10:08,959 --> 00:10:10,829
+terminer une fiche process avec
+peut-être justement un agent de
+
+530
+00:10:10,829 --> 00:10:10,839
+peut-être justement un agent de
+ 
+
+531
+00:10:10,839 --> 00:10:12,310
+peut-être justement un agent de
+recherche, il va faire des recherches
+
+532
+00:10:12,310 --> 00:10:12,320
+recherche, il va faire des recherches
+ 
+
+533
+00:10:12,320 --> 00:10:14,030
+recherche, il va faire des recherches
+selon une fiche process qui va être
+
+534
+00:10:14,030 --> 00:10:14,040
+selon une fiche process qui va être
+ 
+
+535
+00:10:14,040 --> 00:10:15,790
+selon une fiche process qui va être
+hyper détaillé.
+
+536
+00:10:15,790 --> 00:10:15,800
+hyper détaillé.
+ 
+
+537
+00:10:15,800 --> 00:10:18,590
+hyper détaillé.
+Puis peut-être que quand la la la
+
+538
+00:10:18,590 --> 00:10:18,600
+Puis peut-être que quand la la la
+ 
+
+539
+00:10:18,600 --> 00:10:20,790
+Puis peut-être que quand la la la
+l'agent de recherche va terminer sa
+
+540
+00:10:20,790 --> 00:10:20,800
+l'agent de recherche va terminer sa
+ 
+
+541
+00:10:20,800 --> 00:10:24,550
+l'agent de recherche va terminer sa
+recherche, ben elle va le chiper à un
+
+542
+00:10:24,550 --> 00:10:24,560
+recherche, ben elle va le chiper à un
+ 
+
+543
+00:10:24,560 --> 00:10:26,030
+recherche, ben elle va le chiper à un
+rédacteur. Peut-être que lui à partir
+
+544
+00:10:26,030 --> 00:10:26,040
+rédacteur. Peut-être que lui à partir
+ 
+
+545
+00:10:26,040 --> 00:10:28,630
+rédacteur. Peut-être que lui à partir
+des recherches qui a été fait va rédiger
+
+546
+00:10:28,630 --> 00:10:28,640
+des recherches qui a été fait va rédiger
+ 
+
+547
+00:10:28,640 --> 00:10:30,910
+des recherches qui a été fait va rédiger
+un texte selon encore une fois une fiche
+
+548
+00:10:30,910 --> 00:10:30,920
+un texte selon encore une fois une fiche
+ 
+
+549
+00:10:30,920 --> 00:10:32,870
+un texte selon encore une fois une fiche
+process qui est bien détaillée. Il aura
+
+550
+00:10:32,870 --> 00:10:32,880
+process qui est bien détaillée. Il aura
+ 
+
+551
+00:10:32,880 --> 00:10:34,590
+process qui est bien détaillée. Il aura
+un correcteur par la suite pour aller
+
+552
+00:10:34,590 --> 00:10:34,600
+un correcteur par la suite pour aller
+ 
+
+553
+00:10:34,600 --> 00:10:37,870
+un correcteur par la suite pour aller
+vérifier un double feedback pour si on a
+
+554
+00:10:37,870 --> 00:10:37,880
+vérifier un double feedback pour si on a
+ 
+
+555
+00:10:37,880 --> 00:10:39,470
+vérifier un double feedback pour si on a
+bien respecté toutes les normes.
+
+556
+00:10:39,470 --> 00:10:39,480
+bien respecté toutes les normes.
+ 
+
+557
+00:10:39,480 --> 00:10:40,910
+bien respecté toutes les normes.
+Peut-être que tu as un style
+
+558
+00:10:40,910 --> 00:10:40,920
+Peut-être que tu as un style
+ 
+
+559
+00:10:40,920 --> 00:10:42,470
+Peut-être que tu as un style
+d'entreprise, peut-être que tu es tuas
+
+560
+00:10:42,470 --> 00:10:42,480
+d'entreprise, peut-être que tu es tuas
+ 
+
+561
+00:10:42,480 --> 00:10:44,750
+d'entreprise, peut-être que tu es tuas
+une manière de rédiger qui est propre à
+
+562
+00:10:44,750 --> 00:10:44,760
+une manière de rédiger qui est propre à
+ 
+
+563
+00:10:44,760 --> 00:10:48,110
+une manière de rédiger qui est propre à
+toi. Donc vraiment avoir des agents qui
+
+564
+00:10:48,110 --> 00:10:48,120
+toi. Donc vraiment avoir des agents qui
+ 
+
+565
+00:10:48,120 --> 00:10:50,310
+toi. Donc vraiment avoir des agents qui
+vont se suivre.
+
+566
+00:10:50,310 --> 00:10:50,320
+vont se suivre.
+ 
+
+567
+00:10:50,320 --> 00:10:52,230
+vont se suivre.
+Endoff intelligent. Donc le résultat
+
+568
+00:10:52,230 --> 00:10:52,240
+Endoff intelligent. Donc le résultat
+ 
+
+569
+00:10:52,240 --> 00:10:54,230
+Endoff intelligent. Donc le résultat
+d'un agent déclenche le suivant. La
+
+570
+00:10:54,230 --> 00:10:54,240
+d'un agent déclenche le suivant. La
+ 
+
+571
+00:10:54,240 --> 00:10:55,629
+d'un agent déclenche le suivant. La
+logique est dans le système, pas dans la
+
+572
+00:10:55,629 --> 00:10:55,639
+logique est dans le système, pas dans la
+ 
+
+573
+00:10:55,639 --> 00:10:58,350
+logique est dans le système, pas dans la
+tête. Dans ta tête. Donc comme je
+
+574
+00:10:58,350 --> 00:10:58,360
+tête. Dans ta tête. Donc comme je
+ 
+
+575
+00:10:58,360 --> 00:10:59,710
+tête. Dans ta tête. Donc comme je
+disais, ça va suivre de manière
+
+576
+00:10:59,710 --> 00:10:59,720
+disais, ça va suivre de manière
+ 
+
+577
+00:10:59,720 --> 00:11:02,389
+disais, ça va suivre de manière
+automatique. Euh ce qui sembauche, donc
+
+578
+00:11:02,389 --> 00:11:02,399
+automatique. Euh ce qui sembauche, donc
+ 
+
+579
+00:11:02,399 --> 00:11:04,750
+automatique. Euh ce qui sembauche, donc
+ajouter un agent, ça donne ajouter de la
+
+580
+00:11:04,750 --> 00:11:04,760
+ajouter un agent, ça donne ajouter de la
+ 
+
+581
+00:11:04,760 --> 00:11:06,230
+ajouter un agent, ça donne ajouter de la
+capacité, pas un employé, pas une
+
+582
+00:11:06,230 --> 00:11:06,240
+capacité, pas un employé, pas une
+ 
+
+583
+00:11:06,240 --> 00:11:08,310
+capacité, pas un employé, pas une
+formation. Donc, tu peux ajouter des
+
+584
+00:11:08,310 --> 00:11:08,320
+formation. Donc, tu peux ajouter des
+ 
+
+585
+00:11:08,320 --> 00:11:11,710
+formation. Donc, tu peux ajouter des
+fiches de processus pour aiguiser le
+
+586
+00:11:11,710 --> 00:11:11,720
+fiches de processus pour aiguiser le
+ 
+
+587
+00:11:11,720 --> 00:11:13,949
+fiches de processus pour aiguiser le
+résultat qui est attendu
+
+588
+00:11:13,949 --> 00:11:13,959
+résultat qui est attendu
+ 
+
+589
+00:11:13,959 --> 00:11:15,629
+résultat qui est attendu
+sans nécessairement devoir engager
+
+590
+00:11:15,629 --> 00:11:15,639
+sans nécessairement devoir engager
+ 
+
+591
+00:11:15,639 --> 00:11:18,069
+sans nécessairement devoir engager
+davantage.
+
+592
+00:11:18,069 --> 00:11:18,079
+davantage.
+ 
+
+593
+00:11:18,079 --> 00:11:19,470
+davantage.
+La transformation de la tâche à
+
+594
+00:11:19,470 --> 00:11:19,480
+La transformation de la tâche à
+ 
+
+595
+00:11:19,480 --> 00:11:21,150
+La transformation de la tâche à
+l'empire,
+
+596
+00:11:21,150 --> 00:11:21,160
+l'empire,
+ 
+
+597
+00:11:21,160 --> 00:11:23,230
+l'empire,
+c'est pas l'outil qui change, c'est
+
+598
+00:11:23,230 --> 00:11:23,240
+c'est pas l'outil qui change, c'est
+ 
+
+599
+00:11:23,240 --> 00:11:26,470
+c'est pas l'outil qui change, c'est
+l'architecture de comment tu travailles.
+
+600
+00:11:26,470 --> 00:11:26,480
+l'architecture de comment tu travailles.
+ 
+
+601
+00:11:26,480 --> 00:11:28,350
+l'architecture de comment tu travailles.
+Donc avant c'était vraiment tu les tches
+
+602
+00:11:28,350 --> 00:11:28,360
+Donc avant c'était vraiment tu les tches
+ 
+
+603
+00:11:28,360 --> 00:11:31,550
+Donc avant c'était vraiment tu les tches
+isolé ici c'est assistant connecté agent
+
+604
+00:11:31,550 --> 00:11:31,560
+isolé ici c'est assistant connecté agent
+ 
+
+605
+00:11:31,560 --> 00:11:35,150
+isolé ici c'est assistant connecté agent
+autonome multiagent puis organisation
+
+606
+00:11:35,150 --> 00:11:35,160
+autonome multiagent puis organisation
+ 
+
+607
+00:11:35,160 --> 00:11:37,629
+autonome multiagent puis organisation
+augmenté
+
+608
+00:11:37,629 --> 00:11:37,639
+augmenté
+ 
+
+609
+00:11:37,639 --> 00:11:39,870
+augmenté
+donc
+
+610
+00:11:39,870 --> 00:11:39,880
+donc
+ 
+
+611
+00:11:39,880 --> 00:11:42,949
+donc
+par la suite 8 10 l'orchestration
+
+612
+00:11:42,949 --> 00:11:42,959
+par la suite 8 10 l'orchestration
+ 
+
+613
+00:11:42,959 --> 00:11:45,350
+par la suite 8 10 l'orchestration
+maintenant des papel I qui se croisent
+
+614
+00:11:45,350 --> 00:11:45,360
+maintenant des papel I qui se croisent
+ 
+
+615
+00:11:45,360 --> 00:11:48,470
+maintenant des papel I qui se croisent
+se coordonnent se corrigent mutuellement
+
+616
+00:11:48,470 --> 00:11:48,480
+se coordonnent se corrigent mutuellement
+ 
+
+617
+00:11:48,480 --> 00:11:50,550
+se coordonnent se corrigent mutuellement
+donc
+
+618
+00:11:50,550 --> 00:11:50,560
+donc
+ 
+
+619
+00:11:50,560 --> 00:11:52,269
+donc
+qu'est-ce que je veux dire par là c'est
+
+620
+00:11:52,269 --> 00:11:52,279
+qu'est-ce que je veux dire par là c'est
+ 
+
+621
+00:11:52,279 --> 00:11:54,310
+qu'est-ce que je veux dire par là c'est
+qu'il va avoir la différence entre lui
+
+622
+00:11:54,310 --> 00:11:54,320
+qu'il va avoir la différence entre lui
+ 
+
+623
+00:11:54,320 --> 00:11:56,710
+qu'il va avoir la différence entre lui
+qui va tout se passer de étape de
+
+624
+00:11:56,710 --> 00:11:56,720
+qui va tout se passer de étape de
+ 
+
+625
+00:11:56,720 --> 00:11:59,150
+qui va tout se passer de étape de
+recherche, rédaction, correction, ben ça
+
+626
+00:11:59,150 --> 00:11:59,160
+recherche, rédaction, correction, ben ça
+ 
+
+627
+00:11:59,160 --> 00:12:01,790
+recherche, rédaction, correction, ben ça
+va être que tu vas avoir peut-être un
+
+628
+00:12:01,790 --> 00:12:01,800
+va être que tu vas avoir peut-être un
+ 
+
+629
+00:12:01,800 --> 00:12:04,670
+va être que tu vas avoir peut-être un
+agent, ben un regroupement d'agents qui
+
+630
+00:12:04,670 --> 00:12:04,680
+agent, ben un regroupement d'agents qui
+ 
+
+631
+00:12:04,680 --> 00:12:07,990
+agent, ben un regroupement d'agents qui
+va être au niveau des publications
+
+632
+00:12:07,990 --> 00:12:08,000
+va être au niveau des publications
+ 
+
+633
+00:12:08,000 --> 00:12:10,910
+va être au niveau des publications
+LinkedIn. Fait que là, eux, ils vont
+
+634
+00:12:10,910 --> 00:12:10,920
+LinkedIn. Fait que là, eux, ils vont
+ 
+
+635
+00:12:10,920 --> 00:12:14,310
+LinkedIn. Fait que là, eux, ils vont
+tout faire la partie rédaction,
+
+636
+00:12:14,310 --> 00:12:14,320
+tout faire la partie rédaction,
+ 
+
+637
+00:12:14,320 --> 00:12:16,829
+tout faire la partie rédaction,
+correction, les recherches et cetera. il
+
+638
+00:12:16,829 --> 00:12:16,839
+correction, les recherches et cetera. il
+ 
+
+639
+00:12:16,839 --> 00:12:19,350
+correction, les recherches et cetera. il
+va avoir en parallèle de ça peut-être un
+
+640
+00:12:19,350 --> 00:12:19,360
+va avoir en parallèle de ça peut-être un
+ 
+
+641
+00:12:19,360 --> 00:12:21,750
+va avoir en parallèle de ça peut-être un
+agent qui va faire plus au niveau des
+
+642
+00:12:21,750 --> 00:12:21,760
+agent qui va faire plus au niveau des
+ 
+
+643
+00:12:21,760 --> 00:12:23,829
+agent qui va faire plus au niveau des
+sales fait que là qui va contacter qui
+
+644
+00:12:23,829 --> 00:12:23,839
+sales fait que là qui va contacter qui
+ 
+
+645
+00:12:23,839 --> 00:12:26,189
+sales fait que là qui va contacter qui
+va être un growth operator fait va
+
+646
+00:12:26,189 --> 00:12:26,199
+va être un growth operator fait va
+ 
+
+647
+00:12:26,199 --> 00:12:28,910
+va être un growth operator fait va
+calculer puis qui va voir justement les
+
+648
+00:12:28,910 --> 00:12:28,920
+calculer puis qui va voir justement les
+ 
+
+649
+00:12:28,920 --> 00:12:31,590
+calculer puis qui va voir justement les
+KPI puis qui va peut-être pouvoir même
+
+650
+00:12:31,590 --> 00:12:31,600
+KPI puis qui va peut-être pouvoir même
+ 
+
+651
+00:12:31,600 --> 00:12:34,389
+KPI puis qui va peut-être pouvoir même
+réitérer justement pour optimiser les
+
+652
+00:12:34,389 --> 00:12:34,399
+réitérer justement pour optimiser les
+ 
+
+653
+00:12:34,399 --> 00:12:36,470
+réitérer justement pour optimiser les
+processus de développement des affaires.
+
+654
+00:12:36,470 --> 00:12:36,480
+processus de développement des affaires.
+ 
+
+655
+00:12:36,480 --> 00:12:37,550
+processus de développement des affaires.
+Puis en parallèle, tu peux en avoir un
+
+656
+00:12:37,550 --> 00:12:37,560
+Puis en parallèle, tu peux en avoir un
+ 
+
+657
+00:12:37,560 --> 00:12:38,990
+Puis en parallèle, tu peux en avoir un
+autre qui est plus au marketing, un qui
+
+658
+00:12:38,990 --> 00:12:39,000
+autre qui est plus au marketing, un qui
+ 
+
+659
+00:12:39,000 --> 00:12:40,750
+autre qui est plus au marketing, un qui
+est plus au soutien technique, un qui
+
+660
+00:12:40,750 --> 00:12:40,760
+est plus au soutien technique, un qui
+ 
+
+661
+00:12:40,760 --> 00:12:42,150
+est plus au soutien technique, un qui
+est fait vraiment avoir différents
+
+662
+00:12:42,150 --> 00:12:42,160
+est fait vraiment avoir différents
+ 
+
+663
+00:12:42,160 --> 00:12:45,470
+est fait vraiment avoir différents
+agents mais différents euh groupe
+
+664
+00:12:45,470 --> 00:12:45,480
+agents mais différents euh groupe
+ 
+
+665
+00:12:45,480 --> 00:12:47,670
+agents mais différents euh groupe
+d'agents qui travaillent en parallèle
+
+666
+00:12:47,670 --> 00:12:47,680
+d'agents qui travaillent en parallèle
+ 
+
+667
+00:12:47,680 --> 00:12:49,310
+d'agents qui travaillent en parallèle
+puis avoir une orchestration qui est
+
+668
+00:12:49,310 --> 00:12:49,320
+puis avoir une orchestration qui est
+ 
+
+669
+00:12:49,320 --> 00:12:52,670
+puis avoir une orchestration qui est
+plus euh supérieure au-dessus de tout ça
+
+670
+00:12:52,670 --> 00:12:52,680
+plus euh supérieure au-dessus de tout ça
+ 
+
+671
+00:12:52,680 --> 00:12:55,110
+plus euh supérieure au-dessus de tout ça
+qui va orchestrer euh tous les agents
+
+672
+00:12:55,110 --> 00:12:55,120
+qui va orchestrer euh tous les agents
+ 
+
+673
+00:12:55,120 --> 00:12:58,069
+qui va orchestrer euh tous les agents
+pour que tout fonctionne bien. Niveau 9,
+
+674
+00:12:58,069 --> 00:12:58,079
+pour que tout fonctionne bien. Niveau 9,
+ 
+
+675
+00:12:58,079 --> 00:13:00,350
+pour que tout fonctionne bien. Niveau 9,
+organisation augmentée. Donc dans la
+
+676
+00:13:00,350 --> 00:13:00,360
+organisation augmentée. Donc dans la
+ 
+
+677
+00:13:00,360 --> 00:13:02,470
+organisation augmentée. Donc dans la
+culture de l'entreprise, chaque équipe a
+
+678
+00:13:02,470 --> 00:13:02,480
+culture de l'entreprise, chaque équipe a
+ 
+
+679
+00:13:02,480 --> 00:13:07,189
+culture de l'entreprise, chaque équipe a
+ses agents. savoir si on allait.
+
+680
+00:13:07,189 --> 00:13:07,199
+ses agents. savoir si on allait.
+ 
+
+681
+00:13:07,199 --> 00:13:11,629
+ses agents. savoir si on allait.
+OK, c'est ça. Donc euh ces ces agents
+
+682
+00:13:11,629 --> 00:13:11,639
+OK, c'est ça. Donc euh ces ces agents
+ 
+
+683
+00:13:11,639 --> 00:13:14,949
+OK, c'est ça. Donc euh ces ces agents
+donc il va avoir des
+
+684
+00:13:14,949 --> 00:13:14,959
+donc il va avoir des
+ 
+
+685
+00:13:14,959 --> 00:13:17,509
+donc il va avoir des
+l'équipe de ton entreprise va gérer des
+
+686
+00:13:17,509 --> 00:13:17,519
+l'équipe de ton entreprise va gérer des
+ 
+
+687
+00:13:17,519 --> 00:13:19,949
+l'équipe de ton entreprise va gérer des
+différents groupes et va travailler
+
+688
+00:13:19,949 --> 00:13:19,959
+différents groupes et va travailler
+ 
+
+689
+00:13:19,959 --> 00:13:21,310
+différents groupes et va travailler
+avec.
+
+690
+00:13:21,310 --> 00:13:21,320
+avec.
+ 
+
+691
+00:13:21,320 --> 00:13:22,790
+avec.
+Puis L comme partenaire stratégique donc
+
+692
+00:13:22,790 --> 00:13:22,800
+Puis L comme partenaire stratégique donc
+ 
+
+693
+00:13:22,800 --> 00:13:25,710
+Puis L comme partenaire stratégique donc
+L ne fait pas ne fait pas ne fait plus
+
+694
+00:13:25,710 --> 00:13:25,720
+L ne fait pas ne fait pas ne fait plus
+ 
+
+695
+00:13:25,720 --> 00:13:27,629
+L ne fait pas ne fait pas ne fait plus
+les que les tâches. Elle participe aux
+
+696
+00:13:27,629 --> 00:13:27,639
+les que les tâches. Elle participe aux
+ 
+
+697
+00:13:27,639 --> 00:13:30,310
+les que les tâches. Elle participe aux
+décisions. Donc là quand L est rendu
+
+698
+00:13:30,310 --> 00:13:30,320
+décisions. Donc là quand L est rendu
+ 
+
+699
+00:13:30,320 --> 00:13:32,030
+décisions. Donc là quand L est rendu
+qu'elle possède un cerveau d'entreprise
+
+700
+00:13:32,030 --> 00:13:32,040
+qu'elle possède un cerveau d'entreprise
+ 
+
+701
+00:13:32,040 --> 00:13:33,430
+qu'elle possède un cerveau d'entreprise
+qui est connecté partout à suit toutes
+
+702
+00:13:33,430 --> 00:13:33,440
+qui est connecté partout à suit toutes
+ 
+
+703
+00:13:33,440 --> 00:13:35,910
+qui est connecté partout à suit toutes
+les KPI devient une sorte de référence
+
+704
+00:13:35,910 --> 00:13:35,920
+les KPI devient une sorte de référence
+ 
+
+705
+00:13:35,920 --> 00:13:38,790
+les KPI devient une sorte de référence
+un second cerveau d'entreprise et on
+
+706
+00:13:38,790 --> 00:13:38,800
+un second cerveau d'entreprise et on
+ 
+
+707
+00:13:38,800 --> 00:13:40,629
+un second cerveau d'entreprise et on
+peut
+
+708
+00:13:40,629 --> 00:13:40,639
+peut
+ 
+
+709
+00:13:40,639 --> 00:13:42,430
+peut
+la elle va prendre elle peut
+
+710
+00:13:42,430 --> 00:13:42,440
+la elle va prendre elle peut
+ 
+
+711
+00:13:42,440 --> 00:13:43,629
+la elle va prendre elle peut
+potentiellement prendre des décisions
+
+712
+00:13:43,629 --> 00:13:43,639
+potentiellement prendre des décisions
+ 
+
+713
+00:13:43,639 --> 00:13:47,269
+potentiellement prendre des décisions
+pour l'entreprise et être vraiment euh
+
+714
+00:13:47,269 --> 00:13:47,279
+pour l'entreprise et être vraiment euh
+ 
+
+715
+00:13:47,279 --> 00:13:50,350
+pour l'entreprise et être vraiment euh
+une duplication de les cerveaux des euh
+
+716
+00:13:50,350 --> 00:13:50,360
+une duplication de les cerveaux des euh
+ 
+
+717
+00:13:50,360 --> 00:13:52,670
+une duplication de les cerveaux des euh
+des dirigeants du board fait que l' peut
+
+718
+00:13:52,670 --> 00:13:52,680
+des dirigeants du board fait que l' peut
+ 
+
+719
+00:13:52,680 --> 00:13:55,110
+des dirigeants du board fait que l' peut
+faire partie du board.
+
+720
+00:13:55,110 --> 00:13:55,120
+faire partie du board.
+ 
+
+721
+00:13:55,120 --> 00:13:57,470
+faire partie du board.
+Niveau 11, tu n'utilises plus l' te
+
+722
+00:13:57,470 --> 00:13:57,480
+Niveau 11, tu n'utilises plus l' te
+ 
+
+723
+00:13:57,480 --> 00:14:01,350
+Niveau 11, tu n'utilises plus l' te
+représente. Donc
+
+724
+00:14:01,350 --> 00:14:01,360
+représente. Donc
+ 
+
+725
+00:14:01,360 --> 00:14:02,430
+représente. Donc
+Lia va tellement connaître ton
+
+726
+00:14:02,430 --> 00:14:02,440
+Lia va tellement connaître ton
+ 
+
+727
+00:14:02,440 --> 00:14:03,629
+Lia va tellement connaître ton
+entreprise, ça va tellement être plogé
+
+728
+00:14:03,629 --> 00:14:03,639
+entreprise, ça va tellement être plogé
+ 
+
+729
+00:14:03,639 --> 00:14:05,550
+entreprise, ça va tellement être plogé
+partout qu'elle va être mieux que
+
+730
+00:14:05,550 --> 00:14:05,560
+partout qu'elle va être mieux que
+ 
+
+731
+00:14:05,560 --> 00:14:07,389
+partout qu'elle va être mieux que
+n'importe qui pour prendre des décisions
+
+732
+00:14:07,389 --> 00:14:07,399
+n'importe qui pour prendre des décisions
+ 
+
+733
+00:14:07,399 --> 00:14:09,710
+n'importe qui pour prendre des décisions
+pour l'entreprise. Après ça, ça va être
+
+734
+00:14:09,710 --> 00:14:09,720
+pour l'entreprise. Après ça, ça va être
+ 
+
+735
+00:14:09,720 --> 00:14:11,110
+pour l'entreprise. Après ça, ça va être
+la touche humaine, ça va être le
+
+736
+00:14:11,110 --> 00:14:11,120
+la touche humaine, ça va être le
+ 
+
+737
+00:14:11,120 --> 00:14:15,350
+la touche humaine, ça va être le
+jugement critique qui va euh dire les go
+
+738
+00:14:15,350 --> 00:14:15,360
+jugement critique qui va euh dire les go
+ 
+
+739
+00:14:15,360 --> 00:14:18,110
+jugement critique qui va euh dire les go
+pour vraiment bien déterminer mais l'
+
+740
+00:14:18,110 --> 00:14:18,120
+pour vraiment bien déterminer mais l'
+ 
+
+741
+00:14:18,120 --> 00:14:22,030
+pour vraiment bien déterminer mais l'
+pourrait bien représenter l'entreprise.
+
+742
+00:14:22,030 --> 00:14:22,040
+pourrait bien représenter l'entreprise.
+ 
+
+743
+00:14:22,040 --> 00:14:24,030
+pourrait bien représenter l'entreprise.
+Pour la plupart des utilisateurs I, le
+
+744
+00:14:24,030 --> 00:14:24,040
+Pour la plupart des utilisateurs I, le
+ 
+
+745
+00:14:24,040 --> 00:14:26,430
+Pour la plupart des utilisateurs I, le
+temps entre le niveau 5 et le 6, c'est
+
+746
+00:14:26,430 --> 00:14:26,440
+temps entre le niveau 5 et le 6, c'est
+ 
+
+747
+00:14:26,440 --> 00:14:29,430
+temps entre le niveau 5 et le 6, c'est
+infini. Il n'y arrive jamais. Pas par
+
+748
+00:14:29,430 --> 00:14:29,440
+infini. Il n'y arrive jamais. Pas par
+ 
+
+749
+00:14:29,440 --> 00:14:31,670
+infini. Il n'y arrive jamais. Pas par
+manque de talent, par manque de cadre
+
+750
+00:14:31,670 --> 00:14:31,680
+manque de talent, par manque de cadre
+ 
+
+751
+00:14:31,680 --> 00:14:34,790
+manque de talent, par manque de cadre
+pour penser le passage.
+
+752
+00:14:34,790 --> 00:14:34,800
+pour penser le passage.
+ 
+
+753
+00:14:34,800 --> 00:14:37,310
+pour penser le passage.
+Donc qui pense même pas que le passage
+
+754
+00:14:37,310 --> 00:14:37,320
+Donc qui pense même pas que le passage
+ 
+
+755
+00:14:37,320 --> 00:14:39,470
+Donc qui pense même pas que le passage
+est possible.
+
+756
+00:14:39,470 --> 00:14:39,480
+est possible.
+ 
+
+757
+00:14:39,480 --> 00:14:41,350
+est possible.
+Le vrai choix, soit tu restes dans ta
+
+758
+00:14:41,350 --> 00:14:41,360
+Le vrai choix, soit tu restes dans ta
+ 
+
+759
+00:14:41,360 --> 00:14:44,230
+Le vrai choix, soit tu restes dans ta
+zone, donc confort routin vitesse, euh
+
+760
+00:14:44,230 --> 00:14:44,240
+zone, donc confort routin vitesse, euh
+ 
+
+761
+00:14:44,240 --> 00:14:45,910
+zone, donc confort routin vitesse, euh
+tu utilises des outils plus vite, tu
+
+762
+00:14:45,910 --> 00:14:45,920
+tu utilises des outils plus vite, tu
+ 
+
+763
+00:14:45,920 --> 00:14:47,350
+tu utilises des outils plus vite, tu
+gagnes quelques heures par semaine, tu
+
+764
+00:14:47,350 --> 00:14:47,360
+gagnes quelques heures par semaine, tu
+ 
+
+765
+00:14:47,360 --> 00:14:49,990
+gagnes quelques heures par semaine, tu
+dépends encore de ta présence. L arrête
+
+766
+00:14:49,990 --> 00:14:50,000
+dépends encore de ta présence. L arrête
+ 
+
+767
+00:14:50,000 --> 00:14:52,550
+dépends encore de ta présence. L arrête
+quand tu t'arrêtes. Donc tout là, tu vas
+
+768
+00:14:52,550 --> 00:14:52,560
+quand tu t'arrêtes. Donc tout là, tu vas
+ 
+
+769
+00:14:52,560 --> 00:14:55,509
+quand tu t'arrêtes. Donc tout là, tu vas
+tout le temps être en mode il pas il
+
+770
+00:14:55,509 --> 00:14:55,519
+tout le temps être en mode il pas il
+ 
+
+771
+00:14:55,519 --> 00:14:57,749
+tout le temps être en mode il pas il
+manque de quoi mais dans le sens que il
+
+772
+00:14:57,749 --> 00:14:57,759
+manque de quoi mais dans le sens que il
+ 
+
+773
+00:14:57,759 --> 00:14:59,389
+manque de quoi mais dans le sens que il
+va avoir toujours un modèle qui va être
+
+774
+00:14:59,389 --> 00:14:59,399
+va avoir toujours un modèle qui va être
+ 
+
+775
+00:14:59,399 --> 00:15:01,069
+va avoir toujours un modèle qui va être
+plus efficace. Il va tout le temps avoir
+
+776
+00:15:01,069 --> 00:15:01,079
+plus efficace. Il va tout le temps avoir
+ 
+
+777
+00:15:01,079 --> 00:15:02,629
+plus efficace. Il va tout le temps avoir
+une IA plus à la mode puis tu vas tout
+
+778
+00:15:02,629 --> 00:15:02,639
+une IA plus à la mode puis tu vas tout
+ 
+
+779
+00:15:02,639 --> 00:15:05,269
+une IA plus à la mode puis tu vas tout
+le temps passer euh pour aller vers tu
+
+780
+00:15:05,269 --> 00:15:05,279
+le temps passer euh pour aller vers tu
+ 
+
+781
+00:15:05,279 --> 00:15:07,509
+le temps passer euh pour aller vers tu
+vas être attiré vers la robe rouge un
+
+782
+00:15:07,509 --> 00:15:07,519
+vas être attiré vers la robe rouge un
+ 
+
+783
+00:15:07,519 --> 00:15:11,790
+vas être attiré vers la robe rouge un
+peu pour justement optimiser le fait que
+
+784
+00:15:11,790 --> 00:15:11,800
+peu pour justement optimiser le fait que
+ 
+
+785
+00:15:11,800 --> 00:15:14,670
+peu pour justement optimiser le fait que
+tu es plus rapide. Là, tu vas te tu vas
+
+786
+00:15:14,670 --> 00:15:14,680
+tu es plus rapide. Là, tu vas te tu vas
+ 
+
+787
+00:15:14,680 --> 00:15:16,430
+tu es plus rapide. Là, tu vas te tu vas
+passer ton temps justement à continuer à
+
+788
+00:15:16,430 --> 00:15:16,440
+passer ton temps justement à continuer à
+ 
+
+789
+00:15:16,440 --> 00:15:17,829
+passer ton temps justement à continuer à
+faire du copiercollé mais peut-être
+
+790
+00:15:17,829 --> 00:15:17,839
+faire du copiercollé mais peut-être
+ 
+
+791
+00:15:17,839 --> 00:15:19,870
+faire du copiercollé mais peut-être
+faire du meilleur prompting. Mais au
+
+792
+00:15:19,870 --> 00:15:19,880
+faire du meilleur prompting. Mais au
+ 
+
+793
+00:15:19,880 --> 00:15:21,949
+faire du meilleur prompting. Mais au
+final, on s'en compte que c'est pas tes
+
+794
+00:15:21,949 --> 00:15:21,959
+final, on s'en compte que c'est pas tes
+ 
+
+795
+00:15:21,959 --> 00:15:23,590
+final, on s'en compte que c'est pas tes
+promes qui sont nécessaires pour être
+
+796
+00:15:23,590 --> 00:15:23,600
+promes qui sont nécessaires pour être
+ 
+
+797
+00:15:23,600 --> 00:15:25,430
+promes qui sont nécessaires pour être
+plus efficace.
+
+798
+00:15:25,430 --> 00:15:25,440
+plus efficace.
+ 
+
+799
+00:15:25,440 --> 00:15:26,949
+plus efficace.
+C'est l'architecture que tu vas faire,
+
+800
+00:15:26,949 --> 00:15:26,959
+C'est l'architecture que tu vas faire,
+ 
+
+801
+00:15:26,959 --> 00:15:28,749
+C'est l'architecture que tu vas faire,
+les fiches de processus que tu vas y
+
+802
+00:15:28,749 --> 00:15:28,759
+les fiches de processus que tu vas y
+ 
+
+803
+00:15:28,759 --> 00:15:31,309
+les fiches de processus que tu vas y
+donner. Puis franchir la ligne, c'est là
+
+804
+00:15:31,309 --> 00:15:31,319
+donner. Puis franchir la ligne, c'est là
+ 
+
+805
+00:15:31,319 --> 00:15:33,150
+donner. Puis franchir la ligne, c'est là
+que tu vas avoir des leviers du des
+
+806
+00:15:33,150 --> 00:15:33,160
+que tu vas avoir des leviers du des
+ 
+
+807
+00:15:33,160 --> 00:15:35,590
+que tu vas avoir des leviers du des
+systèmes, la liberté. Donc, tu consèmes
+
+808
+00:15:35,590 --> 00:15:35,600
+systèmes, la liberté. Donc, tu consèmes
+ 
+
+809
+00:15:35,600 --> 00:15:37,150
+systèmes, la liberté. Donc, tu consèmes
+qui travaillent pour toi. Chaque
+
+810
+00:15:37,150 --> 00:15:37,160
+qui travaillent pour toi. Chaque
+ 
+
+811
+00:15:37,160 --> 00:15:38,389
+qui travaillent pour toi. Chaque
+investi, c'est un levier qui est
+
+812
+00:15:38,389 --> 00:15:38,399
+investi, c'est un levier qui est
+ 
+
+813
+00:15:38,399 --> 00:15:40,910
+investi, c'est un levier qui est
+permanent. Donc tes fiches de processus,
+
+814
+00:15:40,910 --> 00:15:40,920
+permanent. Donc tes fiches de processus,
+ 
+
+815
+00:15:40,920 --> 00:15:42,870
+permanent. Donc tes fiches de processus,
+quand tu vas la faire une fois, ben tu
+
+816
+00:15:42,870 --> 00:15:42,880
+quand tu vas la faire une fois, ben tu
+ 
+
+817
+00:15:42,880 --> 00:15:44,590
+quand tu vas la faire une fois, ben tu
+vas la dupliquer pour toujours. Elle va
+
+818
+00:15:44,590 --> 00:15:44,600
+vas la dupliquer pour toujours. Elle va
+ 
+
+819
+00:15:44,600 --> 00:15:46,030
+vas la dupliquer pour toujours. Elle va
+toujours pouvoir se faire et elle va
+
+820
+00:15:46,030 --> 00:15:46,040
+toujours pouvoir se faire et elle va
+ 
+
+821
+00:15:46,040 --> 00:15:49,550
+toujours pouvoir se faire et elle va
+toujours être cohérente avec ce que tu
+
+822
+00:15:49,550 --> 00:15:49,560
+toujours être cohérente avec ce que tu
+ 
+
+823
+00:15:49,560 --> 00:15:51,030
+toujours être cohérente avec ce que tu
+fais en temps normal. Mais il faut que
+
+824
+00:15:51,030 --> 00:15:51,040
+fais en temps normal. Mais il faut que
+ 
+
+825
+00:15:51,040 --> 00:15:54,269
+fais en temps normal. Mais il faut que
+tu as des belles et des bonnes et euh
+
+826
+00:15:54,269 --> 00:15:54,279
+tu as des belles et des bonnes et euh
+ 
+
+827
+00:15:54,279 --> 00:15:56,309
+tu as des belles et des bonnes et euh
+des bonnes fiches process. Tes résultats
+
+828
+00:15:56,309 --> 00:15:56,319
+des bonnes fiches process. Tes résultats
+ 
+
+829
+00:15:56,319 --> 00:15:58,110
+des bonnes fiches process. Tes résultats
+ne dépendent plus de ta présence. Le
+
+830
+00:15:58,110 --> 00:15:58,120
+ne dépendent plus de ta présence. Le
+ 
+
+831
+00:15:58,120 --> 00:16:00,829
+ne dépendent plus de ta présence. Le
+système continue sans toi.
+
+832
+00:16:00,829 --> 00:16:00,839
+système continue sans toi.
+ 
+
+833
+00:16:00,839 --> 00:16:02,670
+système continue sans toi.
+Euh avant de fermer cette vidéo, trois
+
+834
+00:16:02,670 --> 00:16:02,680
+Euh avant de fermer cette vidéo, trois
+ 
+
+835
+00:16:02,680 --> 00:16:04,430
+Euh avant de fermer cette vidéo, trois
+questions honnêtes. À quel niveau tu es
+
+836
+00:16:04,430 --> 00:16:04,440
+questions honnêtes. À quel niveau tu es
+ 
+
+837
+00:16:04,440 --> 00:16:06,870
+questions honnêtes. À quel niveau tu es
+vraiment ?
+
+838
+00:16:06,870 --> 00:16:06,880
+vraiment ?
+ 
+
+839
+00:16:06,880 --> 00:16:08,269
+vraiment ?
+Qu'est-ce qui t'empêche de passer au
+
+840
+00:16:08,269 --> 00:16:08,279
+Qu'est-ce qui t'empêche de passer au
+ 
+
+841
+00:16:08,279 --> 00:16:10,189
+Qu'est-ce qui t'empêche de passer au
+niveau suivant sur ton temps, des
+
+842
+00:16:10,189 --> 00:16:10,199
+niveau suivant sur ton temps, des
+ 
+
+843
+00:16:10,199 --> 00:16:12,389
+niveau suivant sur ton temps, des
+compétences, clarté sur comment faire
+
+844
+00:16:12,389 --> 00:16:12,399
+compétences, clarté sur comment faire
+ 
+
+845
+00:16:12,399 --> 00:16:14,150
+compétences, clarté sur comment faire
+puis qu'est-ce que tu à chaque jour en
+
+846
+00:16:14,150 --> 00:16:14,160
+puis qu'est-ce que tu à chaque jour en
+ 
+
+847
+00:16:14,160 --> 00:16:16,269
+puis qu'est-ce que tu à chaque jour en
+restant là à ce niveau-là ? Si des
+
+848
+00:16:16,269 --> 00:16:16,279
+restant là à ce niveau-là ? Si des
+ 
+
+849
+00:16:16,279 --> 00:16:17,509
+restant là à ce niveau-là ? Si des
+heures, si ton énergie, les
+
+850
+00:16:17,509 --> 00:16:17,519
+heures, si ton énergie, les
+ 
+
+851
+00:16:17,519 --> 00:16:20,069
+heures, si ton énergie, les
+opportunités, mets un chiffre là-dessus.
+
+852
+00:16:20,069 --> 00:16:20,079
+opportunités, mets un chiffre là-dessus.
+ 
+
+853
+00:16:20,079 --> 00:16:21,990
+opportunités, mets un chiffre là-dessus.
+C'est quoi combien tu perds en temps, en
+
+854
+00:16:21,990 --> 00:16:22,000
+C'est quoi combien tu perds en temps, en
+ 
+
+855
+00:16:22,000 --> 00:16:27,470
+C'est quoi combien tu perds en temps, en
+argent ? C'est comment tu perds ?
+
+856
+00:16:27,470 --> 00:16:27,480
+
+ 
+
+857
+00:16:27,480 --> 00:16:29,629
+
+Donc la question c'est pas est-ce que tu
+
+858
+00:16:29,629 --> 00:16:29,639
+Donc la question c'est pas est-ce que tu
+ 
+
+859
+00:16:29,639 --> 00:16:32,150
+Donc la question c'est pas est-ce que tu
+utilises l'IA ? C'est à quel niveau tu
+
+860
+00:16:32,150 --> 00:16:32,160
+utilises l'IA ? C'est à quel niveau tu
+ 
+
+861
+00:16:32,160 --> 00:16:35,629
+utilises l'IA ? C'est à quel niveau tu
+veux t'arrêter.
+
+862
+00:16:35,629 --> 00:16:35,639
+
+ 
+
+863
+00:16:35,639 --> 00:16:38,189
+
+Donc
+
+864
+00:16:38,189 --> 00:16:38,199
+Donc
+ 
+
+865
+00:16:38,199 --> 00:16:39,710
+Donc
+c'est ça à quel niveau tu veux t'arrêter
+
+866
+00:16:39,710 --> 00:16:39,720
+c'est ça à quel niveau tu veux t'arrêter
+ 
+
+867
+00:16:39,720 --> 00:16:42,150
+c'est ça à quel niveau tu veux t'arrêter
+? C'est sûr qu'il y a pas tout le monde
+
+868
+00:16:42,150 --> 00:16:42,160
+? C'est sûr qu'il y a pas tout le monde
+ 
+
+869
+00:16:42,160 --> 00:16:45,110
+? C'est sûr qu'il y a pas tout le monde
+qui ont besoin de se rendre niveau 11,
+
+870
+00:16:45,110 --> 00:16:45,120
+qui ont besoin de se rendre niveau 11,
+ 
+
+871
+00:16:45,120 --> 00:16:47,030
+qui ont besoin de se rendre niveau 11,
+tu sais.
+
+872
+00:16:47,030 --> 00:16:47,040
+tu sais.
+ 
+
+873
+00:16:47,040 --> 00:16:48,870
+tu sais.
+C'est vraiment si tu as des projets, tu
+
+874
+00:16:48,870 --> 00:16:48,880
+C'est vraiment si tu as des projets, tu
+ 
+
+875
+00:16:48,880 --> 00:16:51,230
+C'est vraiment si tu as des projets, tu
+as de l'ambition, tu veux optimiser ton
+
+876
+00:16:51,230 --> 00:16:51,240
+as de l'ambition, tu veux optimiser ton
+ 
+
+877
+00:16:51,240 --> 00:16:55,150
+as de l'ambition, tu veux optimiser ton
+temps, ton énergie, tes investissements
+
+878
+00:16:55,150 --> 00:16:55,160
+temps, ton énergie, tes investissements
+ 
+
+879
+00:16:55,160 --> 00:16:57,470
+temps, ton énergie, tes investissements
+pour tes projets.
+
+880
+00:16:57,470 --> 00:16:57,480
+pour tes projets.
+ 
+
+881
+00:16:57,480 --> 00:16:59,509
+pour tes projets.
+Donc dans ce cas, l' est un excellent
+
+882
+00:16:59,509 --> 00:16:59,519
+Donc dans ce cas, l' est un excellent
+ 
+
+883
+00:16:59,519 --> 00:17:01,670
+Donc dans ce cas, l' est un excellent
+outil.
+
+884
+00:17:01,670 --> 00:17:01,680
+outil.
+ 
+
+885
+00:17:01,680 --> 00:17:04,710
+outil.
+Mais si tu es un salarié
+
+886
+00:17:04,710 --> 00:17:04,720
+Mais si tu es un salarié
+ 
+
+887
+00:17:04,720 --> 00:17:07,189
+Mais si tu es un salarié
+ou peu importe, ben c'est sûr que tu as
+
+888
+00:17:07,189 --> 00:17:07,199
+ou peu importe, ben c'est sûr que tu as
+ 
+
+889
+00:17:07,199 --> 00:17:08,429
+ou peu importe, ben c'est sûr que tu as
+des outils qui peuvent t'aider aussi
+
+890
+00:17:08,429 --> 00:17:08,439
+des outils qui peuvent t'aider aussi
+ 
+
+891
+00:17:08,439 --> 00:17:10,429
+des outils qui peuvent t'aider aussi
+pour avoir des des agents qui
+
+892
+00:17:10,429 --> 00:17:10,439
+pour avoir des des agents qui
+ 
+
+893
+00:17:10,439 --> 00:17:12,470
+pour avoir des des agents qui
+travaillent pour toi. Mais c'est sûr que
+
+894
+00:17:12,470 --> 00:17:12,480
+travaillent pour toi. Mais c'est sûr que
+ 
+
+895
+00:17:12,480 --> 00:17:13,870
+travaillent pour toi. Mais c'est sûr que
+ça ça s'adresse pas à tout le monde une
+
+896
+00:17:13,870 --> 00:17:13,880
+ça ça s'adresse pas à tout le monde une
+ 
+
+897
+00:17:13,880 --> 00:17:17,590
+ça ça s'adresse pas à tout le monde une
+vidéo comme ça des niveaux euh les
+
+898
+00:17:17,590 --> 00:17:17,600
+vidéo comme ça des niveaux euh les
+ 
+
+899
+00:17:17,600 --> 00:17:20,470
+vidéo comme ça des niveaux euh les
+différents niveaux. Mais c'est
+
+900
+00:17:20,470 --> 00:17:20,480
+différents niveaux. Mais c'est
+ 
+
+901
+00:17:20,480 --> 00:17:22,669
+différents niveaux. Mais c'est
+entrepreneur,
+
+902
+00:17:22,669 --> 00:17:22,679
+entrepreneur,
+ 
+
+903
+00:17:22,679 --> 00:17:24,669
+entrepreneur,
+au moins tu tu as un besoin de
+
+904
+00:17:24,669 --> 00:17:24,679
+au moins tu tu as un besoin de
+ 
+
+905
+00:17:24,679 --> 00:17:26,870
+au moins tu tu as un besoin de
+comprendre ça pour l'appliquer à tes
+
+906
+00:17:26,870 --> 00:17:26,880
+comprendre ça pour l'appliquer à tes
+ 
+
+907
+00:17:26,880 --> 00:17:30,350
+comprendre ça pour l'appliquer à tes
+business potentiellement pour former tes
+
+908
+00:17:30,350 --> 00:17:30,360
+business potentiellement pour former tes
+ 
+
+909
+00:17:30,360 --> 00:17:34,549
+business potentiellement pour former tes
+ton staff sur ces différents niveaux là.
+
+910
+00:17:34,549 --> 00:17:34,559
+ton staff sur ces différents niveaux là.
+ 
+
+911
+00:17:34,559 --> 00:17:36,909
+ton staff sur ces différents niveaux là.
+Donc sur ce,
+
+912
+00:17:36,909 --> 00:17:36,919
+Donc sur ce,
+ 
+
+913
+00:17:36,919 --> 00:17:38,390
+Donc sur ce,
+si cette vidéo te fait réfléchir,
+
+914
+00:17:38,390 --> 00:17:38,400
+si cette vidéo te fait réfléchir,
+ 
+
+915
+00:17:38,400 --> 00:17:40,430
+si cette vidéo te fait réfléchir,
+abonne-toi à cette vidéo puis à cette à
+
+916
+00:17:40,430 --> 00:17:40,440
+abonne-toi à cette vidéo puis à cette à
+ 
+
+917
+00:17:40,440 --> 00:17:46,960
+abonne-toi à cette vidéo puis à cette à
+ce compte puis en salut Bien.
+

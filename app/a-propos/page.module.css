@@ -1,0 +1,154 @@
+.hero {
+  position: relative;
+  overflow: hidden;
+  padding-block: var(--s-6) 0;
+}
+
+.heroInner {
+  position: relative;
+  display: grid;
+  /* photo 1 / texte 1.618 — section dorée inversée */
+  grid-template-columns: 1fr 1.618fr;
+  gap: var(--s-5);
+  align-items: end;
+}
+
+.photoWrap {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.photoDisc {
+  position: absolute;
+  bottom: -18%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 144%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 50% 40%,
+    var(--sand-deep) 0%,
+    transparent 70%
+  );
+}
+
+.photo {
+  position: relative;
+  width: min(100%, 380px);
+  height: auto;
+  filter: drop-shadow(0 34px 55px rgba(42, 33, 26, 0.2));
+}
+
+.heroText {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-3);
+  padding-block: var(--s-5);
+}
+
+@media (max-width: 860px) {
+  .heroInner {
+    grid-template-columns: 1fr;
+  }
+
+  .photo {
+    width: min(58vw, 280px);
+  }
+
+  .heroText {
+    padding-top: 0;
+  }
+}
+
+/* ---- Histoire : titre 1 / texte φ ---- */
+
+.story {
+  display: grid;
+  grid-template-columns: 1fr 1.618fr;
+  gap: var(--s-6);
+  align-items: start;
+}
+
+.story h2 {
+  max-width: 16ch;
+  position: sticky;
+  top: calc(55px + var(--s-4));
+}
+
+.storyText {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-4);
+  font-size: calc(var(--fs-body) * 1.236);
+  line-height: 1.618;
+  color: var(--ink-2);
+  max-width: 62ch;
+}
+
+@media (max-width: 860px) {
+  .story {
+    grid-template-columns: 1fr;
+    gap: var(--s-4);
+  }
+
+  .story h2 {
+    position: static;
+  }
+}
+
+/* ---- Valeurs ---- */
+
+.valeurs {
+  padding-block: var(--s-6);
+}
+
+.valGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--gutter);
+}
+
+.valCard {
+  background: var(--cream);
+  border-radius: var(--s-3);
+  padding: var(--s-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-2);
+  height: 100%;
+}
+
+.valCard p {
+  color: var(--ink-2);
+  line-height: 1.618;
+}
+
+.valNum {
+  font-size: var(--fs-meta);
+  font-weight: 800;
+  color: var(--accent);
+  letter-spacing: 0.09em;
+}
+
+@media (max-width: 860px) {
+  .valGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---- CTA ---- */
+
+.ctaBlock {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-4);
+  align-items: flex-start;
+}
+
+.ctaRow {
+  display: flex;
+  gap: var(--s-2);
+  flex-wrap: wrap;
+}
