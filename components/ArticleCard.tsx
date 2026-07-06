@@ -19,7 +19,7 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
       </div>
       <div className="card__body">
         <div style={{ display: "flex", gap: "var(--s-2)", flexWrap: "wrap" }}>
-          <span className="pill">{article.readingMinutes} min de lecture</span>
+          <span className="pill pill--mauve">{article.readingMinutes} min de lecture</span>
           <span className="pill">{formatDate(article.date)}</span>
         </div>
         <h3 className="t-titre">{article.title}</h3>

@@ -62,6 +62,70 @@
   }
 }
 
+.tagRow {
+  display: flex;
+  gap: var(--s-2);
+  flex-wrap: wrap;
+}
+
+/* ---- Parcours (timeline) ---- */
+
+.parcours h2 {
+  max-width: 20ch;
+}
+
+/* ---- Moments (galerie manga + réel) ---- */
+
+.moments {
+  padding-block: var(--s-6);
+  background: var(--sand-deep);
+}
+
+.momentsGrid {
+  margin-top: var(--s-5);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--gutter);
+}
+
+.momentCard {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-2);
+}
+
+.momentImg {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: var(--s-3);
+  box-shadow: 0 21px 55px rgba(42, 33, 26, 0.16);
+  transition: transform var(--t-med) var(--ease);
+}
+
+.momentCard:hover .momentImg {
+  transform: translateY(-5px) rotate(-0.6deg);
+}
+
+.momentCaption {
+  font-size: var(--fs-meta);
+  color: var(--ink-2);
+  font-weight: 550;
+}
+
+@media (max-width: 860px) {
+  .momentsGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .momentsGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* ---- Histoire : titre 1 / texte φ ---- */
 
 .story {

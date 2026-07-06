@@ -27,7 +27,7 @@ export default function Home() {
               <h1 className="t-god">
                 J&apos;apprends
                 <br />
-                en public<span className="t-accent">.</span>
+                en <span className="t-serif">public</span>.
               </h1>
             </Reveal>
             <Reveal delay={178}>

@@ -20,7 +20,7 @@ export default function VideoCard({ video }: { video: Video }) {
       </div>
       <div className="card__body">
         <div style={{ display: "flex", gap: "var(--s-2)", flexWrap: "wrap" }}>
-          <span className="pill">{video.duration}</span>
+          <span className="pill pill--pop">{video.duration}</span>
           <span className="pill">{formatDate(video.liveAt)}</span>
         </div>
         <h3 className="t-titre">{video.title}</h3>

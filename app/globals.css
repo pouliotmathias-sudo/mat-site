@@ -13,6 +13,22 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "Instrument Serif";
+  src: url("/fonts/InstrumentSerif-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Instrument Serif";
+  src: url("/fonts/InstrumentSerif-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
 :root {
   /* ---- Couleurs (fond vidéo YouTube : grège chaud + forme crème) ---- */
   --sand: #e3dad3;        /* fond de page — le grège du background vidéo */
@@ -24,6 +40,18 @@
   --accent: #96603c;      /* brun caramel — liens, CTA */
   --accent-deep: #7a4c2e;
   --line: rgba(42, 33, 26, 0.14);
+
+  /* ---- Couleur qui pop (inspirée des couleurs traditionnelles
+         japonaises — palette getzenquery) : une seule utilisée pour de
+         petits détails (tags, points de timeline, soulignés, glow au
+         survol) — jamais en masse, jamais en fond de section ---- */
+  --pop: #c6546b;         /* rose-corail profond (famille "beni") */
+  --pop-deep: #a83e53;
+  --pop-soft: #f3d9de;    /* teinte pâle pour fonds de badge/tag */
+  --pop-2: #8a5a86;       /* mauve — accent rare, secondaire (1-2 usages max/page) */
+
+  /* ---- Police serif d'accent (mots-clés dans les titres, citations) ---- */
+  --font-serif: "Instrument Serif", Georgia, serif;
 
   /* ---- φ ---- */
   --phi: 1.618;
@@ -419,4 +447,27 @@ button {
   font-size: var(--fs-meta);
   font-weight: 650;
   color: var(--ink-2);
+}
+
+/* Tag coloré — la "petite couleur qui pop" sur un détail précis (badge de
+   catégorie sur une carte), jamais en fond de section. Rotation de 4
+   teintes pour que les cartes d'une même grille varient un peu, comme les
+   badges multicolores vus chez Eliott Meunier. */
+.pill--pop {
+  background: var(--pop-soft);
+  color: var(--pop-deep);
+}
+
+.pill--mauve {
+  background: color-mix(in srgb, var(--pop-2) 16%, var(--cream));
+  color: var(--pop-2);
+}
+
+/* ============ Accent serif — un mot, jamais une phrase ============ */
+
+.t-serif {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 400;
+  color: var(--pop-deep);
 }

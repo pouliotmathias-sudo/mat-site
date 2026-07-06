@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import Reveal from "@/components/Reveal";
 import OrganicShape from "@/components/OrganicShape";
+import Timeline from "@/components/Timeline";
 import { site } from "@/lib/site";
 import styles from "./page.module.css";
 
@@ -64,8 +65,8 @@ export default function AProposPage() {
           <Reveal className={styles.photoWrap}>
             <div className={styles.photoDisc} aria-hidden />
             <Image
-              src="/photos/mathias-relax.png"
-              alt="Mat"
+              src="/photos/manga-ordi.png"
+              alt="Mat, en train de construire"
               width={480}
               height={600}
               priority
@@ -81,13 +82,20 @@ export default function AProposPage() {
               <h1 className="t-god">
                 Salut, moi
                 <br />
-                c&apos;est Mat<span className="t-accent">.</span>
+                c&apos;est <span className="t-serif">Mat</span>
               </h1>
             </Reveal>
             <Reveal delay={178}>
               <p className="t-lead">
                 23 ans. Entrepreneur. Basé à Québec, souvent ailleurs.
               </p>
+            </Reveal>
+            <Reveal delay={267}>
+              <div className={styles.tagRow}>
+                <span className="pill pill--pop">Entrepreneur</span>
+                <span className="pill pill--mauve">Créateur</span>
+                <span className="pill pill--pop">Voyageur solo</span>
+              </div>
             </Reveal>
           </div>
         </div>
@@ -130,6 +138,70 @@ export default function AProposPage() {
                 t&apos;es le genre de personne qui aime comprendre comment les
                 choses marchent pis bâtir sa vie à sa façon, tu vas te sentir
                 chez vous.
+              </p>
+            </Reveal>
+          </div>
+        </div>
+      </section>
+
+      {/* ============ PARCOURS ============ */}
+      <section className="section--tight">
+        <div className={`container ${styles.parcours}`}>
+          <Reveal>
+            <div className="eyebrow-row">
+              <span className="t-meta">Le parcours</span>
+            </div>
+            <h2 className="t-hero" style={{ marginBottom: "var(--s-6)" }}>
+              Du bar au <span className="t-serif">business</span>.
+            </h2>
+          </Reveal>
+          <Timeline />
+        </div>
+      </section>
+
+      {/* ============ MOMENTS (galerie) ============ */}
+      <section className={styles.moments}>
+        <div className="container">
+          <Reveal>
+            <div className="eyebrow-row">
+              <span className="t-meta">Quelques moments</span>
+            </div>
+          </Reveal>
+          <div className={styles.momentsGrid}>
+            <Reveal delay={0} className={styles.momentCard}>
+              <Image
+                src="/photos/vipassana.jpeg"
+                alt="Au centre de méditation Vipassana, août 2024"
+                width={600}
+                height={800}
+                className={styles.momentImg}
+              />
+              <p className={styles.momentCaption}>
+                Vipassana — 10 jours de silence, août 2024
+              </p>
+            </Reveal>
+            <Reveal delay={89} className={styles.momentCard}>
+              <Image
+                src="/photos/manga-networking.png"
+                alt="Soirée networking"
+                width={600}
+                height={800}
+                className={styles.momentImg}
+              />
+              <p className={styles.momentCaption}>
+                Réseauter, poser des questions, écouter
+              </p>
+            </Reveal>
+            <Reveal delay={178} className={styles.momentCard}>
+              <Image
+                src="/photos/mathias-conference.jpeg"
+                alt="Sur scène"
+                width={600}
+                height={800}
+                className={styles.momentImg}
+              />
+              <p className={styles.momentCaption}>
+                Partager ce que j&apos;apprends, en public
               </p>
             </Reveal>
           </div>
