@@ -2,7 +2,7 @@
 title: "Comment vraiment apprendre de tes erreurs : la méthode en 3 questions que personne t'a montrée"
 description: "« Apprends de tes échecs », tout le monde le dit — personne n'explique comment. Voici le mécanisme exact : l'impuissance apprise de Seligman, l'antifragilité de Taleb et les 3 questions à te poser après chaque échec."
 slug: apprendre-de-ses-erreurs-methode
-videoId: AVxFi7G15CI
+videoId: jQsDj3J2tZ0
 date: "2026-07-12"
 keywords:
   - apprendre de ses erreurs

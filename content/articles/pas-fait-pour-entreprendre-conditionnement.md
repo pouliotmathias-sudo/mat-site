@@ -2,7 +2,7 @@
 title: "« T'es pas fait pour entreprendre » : le conditionnement qui te coûte plus cher que n'importe quelle mauvaise décision"
 description: "Croire que t'es pas fait pour entreprendre, c'est un réflexe conditionné — pas une vérité sur qui tu es. Pavlov, Amy Cuddy et Sartre expliquent pourquoi, et comment le renverser avec le passage du « je » au « je suis »."
 slug: pas-fait-pour-entreprendre-conditionnement
-videoId: 5oMkg_d_ZIU
+videoId: 8PzGrk-wG34
 date: "2026-07-07"
 keywords:
   - pas fait pour entreprendre

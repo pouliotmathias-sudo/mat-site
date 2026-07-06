@@ -2,7 +2,7 @@
 title: "L'ego en business : pourquoi il tue plus d'entreprises que la concurrence"
 description: "L'ego visible (l'arrogance) et l'ego invisible (le doute excessif) protègent une image — jamais la réalité. Jung, Brené Brown et Peterson expliquent comment l'ego coule les business, et 3 exercices pour le désamorcer."
 slug: ego-en-business-tue-plus-que-concurrence
-videoId: u67XKY9sylQ
+videoId: m9IN8JO7DwQ
 date: "2026-07-22"
 keywords:
   - ego en business

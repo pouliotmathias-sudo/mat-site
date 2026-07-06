@@ -2,7 +2,7 @@
 title: "Comment vendre sans te sentir comme un vendeur de chars usagés"
 description: "Pourquoi tu détestes vendre pis comment changer ça : cortisol, vraie souffrance du client, tamis de Socrate pis un système qui rend la vente scalable."
 slug: comment-vendre-sans-te-sentir-comme
-videoId: zdiVdPIO31Q
+videoId: S8LVLYMVyW4
 date: "2026-08-01"
 keywords:
   - vendre sans être pushy
