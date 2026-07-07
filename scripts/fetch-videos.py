@@ -111,7 +111,11 @@ def main():
         # le front filtre par date au rendu).
         if is_short:
             continue
-        if st.get("privacyStatus") == "public":
+        if st.get("privacyStatus") in ("public", "unlisted"):
+            # unlisted (2026-07-07) : vidéo longue jouable immédiatement sur
+            # mat-site avant sa bascule publique planifiée (voir
+            # check_drive_videos.py, unlisted_then_flip) — publishedAt reste
+            # la date d'upload réelle, toujours dans le passé.
             live_at = s.get("publishedAt")
         elif st.get("publishAt"):
             live_at = st["publishAt"]

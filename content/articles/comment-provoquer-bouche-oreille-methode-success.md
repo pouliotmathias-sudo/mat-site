@@ -3,7 +3,7 @@ title: "Comment provoquer le bouche-à-oreille : la méthode SUCCESS expliquée"
 description: "Le bouche-à-oreille n'est pas un hasard, c'est une recette : la méthode SUCCESS, le piège du désalignement et les vraies mesures qui comptent."
 slug: comment-provoquer-bouche-oreille-methode-success
 videoId: aZbEJ2S5y0M
-date: "2026-08-11"
+date: "2026-07-07"
 keywords:
   - bouche à oreille
   - méthode success
