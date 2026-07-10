@@ -3,7 +3,7 @@ title: "Recruter sans se tromper : la matrice A/B/C/D Player expliquée"
 description: "77% des vendeurs échouent leur première année. La matrice A/B/C/D Player pour savoir qui garder, qui coacher et qui congédier, sans se tromper."
 slug: recruter-sans-tromper-matrice-b-c
 videoId: -7XyyL2R9kk
-date: "2026-07-08"
+date: "2026-08-26"
 keywords:
   - matrice abcd player
   - recrutement

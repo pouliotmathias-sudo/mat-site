@@ -3,7 +3,7 @@ title: "Comment déléguer sans perdre le contrôle (méthode COACH)"
 description: "Pourquoi tu restes le goulot d'étranglement de ton business même quand tu sais qu'il faut déléguer — et le système en 4 parties (Walton, Google, COACH) pour en sortir."
 slug: comment-deleguer-sans-perdre-controle-methode
 videoId: ZClc54-8Qqw
-date: "2026-07-08"
+date: "2026-08-31"
 keywords:
   - déléguer sans perdre le contrôle
   - méthode coach délégation

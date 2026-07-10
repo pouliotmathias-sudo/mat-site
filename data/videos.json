@@ -1,11 +1,83 @@
 [
  {
+  "id": "zf7ITbd93D8",
+  "title": "Comment j'automatise mon YouTube avec l'IA (Claude Code, zéro clic)",
+  "description": "Automatiser ton YouTube au complet avec l'intelligence artificielle, ce n'est pas de la science-fiction.",
+  "liveAt": "2026-09-10T12:00:00Z",
+  "duration": "6 min",
+  "thumbnail": "https://i9.ytimg.com/vi/zf7ITbd93D8/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLClHpomlIOkonR9sGD269rJx6JeMg"
+ },
+ {
+  "id": "FSajXp4hwjc",
+  "title": "Comment gérer une conversation difficile en leadership (3 outils)",
+  "description": "Tu repousses une conversation difficile en ce moment. Avec un employé, un associé, un client.",
+  "liveAt": "2026-09-05T12:00:00Z",
+  "duration": "13 min",
+  "thumbnail": "https://i9.ytimg.com/vi/FSajXp4hwjc/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLB5WuHR816wWMaLaIjFrbdOQDsaCA"
+ },
+ {
+  "id": "ZClc54-8Qqw",
+  "title": "Comment déléguer sans perdre le contrôle (méthode COACH)",
+  "description": "Déléguer, ce n'est pas se débarrasser des tâches plates.",
+  "liveAt": "2026-08-31T12:00:00Z",
+  "duration": "22 min",
+  "thumbnail": "https://i9.ytimg.com/vi/ZClc54-8Qqw/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLDGeQ51jhyQqME5d1UD6WoJT4qWHg"
+ },
+ {
+  "id": "-7XyyL2R9kk",
+  "title": "Recruter sans se tromper : la matrice A/B/C/D Player expliquée",
+  "description": "77% des vendeurs échouent durant leur première année. Pas par manque de talent, mais parce qu'ils sont dans le mauvais siège.",
+  "liveAt": "2026-08-26T12:00:00Z",
+  "duration": "14 min",
+  "thumbnail": "https://i9.ytimg.com/vi/-7XyyL2R9kk/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLC9cGGqavLyestSMdsxPWcghMLFUg"
+ },
+ {
+  "id": "_rrzh3hmDNI",
+  "title": "Pourquoi tes KPI ne servent à rien (règle du 80-20)",
+  "description": "Une entreprise a un jour mesuré 401 KPI différents. Résultat : zéro clarté sur son vrai problème.",
+  "liveAt": "2026-08-21T12:00:00Z",
+  "duration": "15 min",
+  "thumbnail": "https://i9.ytimg.com/vi/_rrzh3hmDNI/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLCoCk-ZG1WxuTc8AIaf-DaoJqqIXw"
+ },
+ {
+  "id": "qPH1ah0ph2M",
+  "title": "Buyer's Journey en 7 étapes : la plupart des entrepreneurs n'en pilotent que 2",
+  "description": "Ton client ne pense jamais à toi. Il pense à son problème — et tu as 90 secondes pour prouver que tu fais partie de la solution.",
+  "liveAt": "2026-08-16T12:00:00Z",
+  "duration": "15 min",
+  "thumbnail": "https://i9.ytimg.com/vi/qPH1ah0ph2M/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLByZChh8ysG5uNymW3Ef8D5hOz6VA"
+ },
+ {
+  "id": "aZbEJ2S5y0M",
+  "title": "Comment provoquer le bouche-à-oreille : la méthode SUCCESS expliquée",
+  "description": "Pourquoi personne ne parle de ton entreprise, même quand tes clients sont satisfaits ?",
+  "liveAt": "2026-08-11T12:00:00Z",
+  "duration": "16 min",
+  "thumbnail": "https://i9.ytimg.com/vi/aZbEJ2S5y0M/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLDGi5A5TZ5cdoPkwSdQjVskhu3W5g"
+ },
+ {
+  "id": "H-R1f2_4_ls",
+  "title": "La règle des 5 priorités de Warren Buffett expliquée",
+  "description": "Le focus n'est pas une question de discipline.",
+  "liveAt": "2026-08-06T12:00:00Z",
+  "duration": "17 min",
+  "thumbnail": "https://i9.ytimg.com/vi/H-R1f2_4_ls/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLB6NfssrBOpgU1Cb6mgwr-NP2rWRw"
+ },
+ {
+  "id": "S8LVLYMVyW4",
+  "title": "Comment vendre sans te sentir comme un vendeur de chars usagés",
+  "description": "Les meilleurs vendeurs ne vendent pas. Pas parce qu'ils manipulent mieux que les autres. Parce qu'ils créent les conditions pour que le client achète.",
+  "liveAt": "2026-08-01T12:00:00Z",
+  "duration": "20 min",
+  "thumbnail": "https://i9.ytimg.com/vi/S8LVLYMVyW4/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLC8hDcV3i73koUxNBMvFpWfOh8NpA"
+ },
+ {
   "id": "jvIAq_BLtoA",
   "title": "Comment créer une offre qui se vend toute seule (méthode IDEO + Hormozi)",
   "description": "Ton offre ne se vend pas ? Le problème n'est presque jamais ta technique de vente.",
   "liveAt": "2026-07-27T12:00:00Z",
   "duration": "15 min",
-  "thumbnail": "https://i9.ytimg.com/vi/jvIAq_BLtoA/maxresdefault.jpg?sqp=CNS0wdIG&rs=AOn4CLAfH9Na_4m5dXAx3mCwau6JvW7WIg"
+  "thumbnail": "https://i9.ytimg.com/vi/jvIAq_BLtoA/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLBr8byicjTFCALPEjq9NQIBOjja8w"
  },
  {
   "id": "m9IN8JO7DwQ",
@@ -13,7 +85,7 @@
   "description": "L'ego tue plus de business que la concurrence.",
   "liveAt": "2026-07-22T12:00:00Z",
   "duration": "24 min",
-  "thumbnail": "https://i9.ytimg.com/vi/m9IN8JO7DwQ/maxresdefault.jpg?sqp=CNS0wdIG&rs=AOn4CLCOXoMf1q6mKzJ86TNG3m5Go5k7GA"
+  "thumbnail": "https://i9.ytimg.com/vi/m9IN8JO7DwQ/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLD-eBN_PngGf-pETJ2SB4_xhOWE3g"
  },
  {
   "id": "jQsDj3J2tZ0",
@@ -21,55 +93,7 @@
   "description": "L'échec n'existe pas. Il existe juste mal compris.",
   "liveAt": "2026-07-12T12:00:00Z",
   "duration": "19 min",
-  "thumbnail": "https://i9.ytimg.com/vi/jQsDj3J2tZ0/maxresdefault.jpg?sqp=CNS0wdIG&rs=AOn4CLBZt6eNga9in2DwZv8KYfrenrzhqg"
- },
- {
-  "id": "zf7ITbd93D8",
-  "title": "Comment j'automatise mon YouTube avec l'IA (Claude Code, zéro clic)",
-  "description": "Automatiser ton YouTube au complet avec l'intelligence artificielle, ce n'est pas de la science-fiction.",
-  "liveAt": "2026-07-10T02:31:16Z",
-  "duration": "6 min",
-  "thumbnail": "https://i.ytimg.com/vi/zf7ITbd93D8/hqdefault.jpg"
- },
- {
-  "id": "FSajXp4hwjc",
-  "title": "Comment gérer une conversation difficile en leadership (3 outils)",
-  "description": "Tu repousses une conversation difficile en ce moment. Avec un employé, un associé, un client.",
-  "liveAt": "2026-07-09T10:25:25Z",
-  "duration": "13 min",
-  "thumbnail": "https://i.ytimg.com/vi/FSajXp4hwjc/maxresdefault.jpg"
- },
- {
-  "id": "ZClc54-8Qqw",
-  "title": "Comment déléguer sans perdre le contrôle (méthode COACH)",
-  "description": "Déléguer, ce n'est pas se débarrasser des tâches plates.",
-  "liveAt": "2026-07-09T02:36:47Z",
-  "duration": "22 min",
-  "thumbnail": "https://i.ytimg.com/vi/ZClc54-8Qqw/maxresdefault.jpg"
- },
- {
-  "id": "-7XyyL2R9kk",
-  "title": "Recruter sans se tromper : la matrice A/B/C/D Player expliquée",
-  "description": "77% des vendeurs échouent durant leur première année. Pas par manque de talent, mais parce qu'ils sont dans le mauvais siège.",
-  "liveAt": "2026-07-08T18:18:47Z",
-  "duration": "14 min",
-  "thumbnail": "https://i.ytimg.com/vi/-7XyyL2R9kk/maxresdefault.jpg"
- },
- {
-  "id": "_rrzh3hmDNI",
-  "title": "Pourquoi tes KPI ne servent à rien (règle du 80-20)",
-  "description": "Une entreprise a un jour mesuré 401 KPI différents. Résultat : zéro clarté sur son vrai problème.",
-  "liveAt": "2026-07-08T16:59:29Z",
-  "duration": "15 min",
-  "thumbnail": "https://i.ytimg.com/vi/_rrzh3hmDNI/maxresdefault.jpg"
- },
- {
-  "id": "qPH1ah0ph2M",
-  "title": "Buyer's Journey en 7 étapes : la plupart des entrepreneurs n'en pilotent que 2",
-  "description": "Ton client ne pense jamais à toi. Il pense à son problème — et tu as 90 secondes pour prouver que tu fais partie de la solution.",
-  "liveAt": "2026-07-08T03:17:46Z",
-  "duration": "15 min",
-  "thumbnail": "https://i.ytimg.com/vi/qPH1ah0ph2M/maxresdefault.jpg"
+  "thumbnail": "https://i9.ytimg.com/vi/jQsDj3J2tZ0/maxresdefault.jpg?sqp=CKC6wtIG&rs=AOn4CLDmaw74pMRI_2PbUjku5-SwzLT92Q"
  },
  {
   "id": "8PzGrk-wG34",
@@ -86,30 +110,6 @@
   "liveAt": "2026-07-07T12:00:13Z",
   "duration": "17 min",
   "thumbnail": "https://i.ytimg.com/vi/8PzGrk-wG34/maxresdefault.jpg"
- },
- {
-  "id": "aZbEJ2S5y0M",
-  "title": "Comment provoquer le bouche-à-oreille : la méthode SUCCESS expliquée",
-  "description": "Pourquoi personne ne parle de ton entreprise, même quand tes clients sont satisfaits ?",
-  "liveAt": "2026-07-06T18:42:46Z",
-  "duration": "16 min",
-  "thumbnail": "https://i.ytimg.com/vi/aZbEJ2S5y0M/maxresdefault.jpg"
- },
- {
-  "id": "S8LVLYMVyW4",
-  "title": "Comment vendre sans te sentir comme un vendeur de chars usagés",
-  "description": "Les meilleurs vendeurs ne vendent pas. Pas parce qu'ils manipulent mieux que les autres. Parce qu'ils créent les conditions pour que le client achète.",
-  "liveAt": "2026-07-06T15:33:34Z",
-  "duration": "20 min",
-  "thumbnail": "https://i.ytimg.com/vi/S8LVLYMVyW4/maxresdefault.jpg"
- },
- {
-  "id": "H-R1f2_4_ls",
-  "title": "La règle des 5 priorités de Warren Buffett expliquée",
-  "description": "Le focus n'est pas une question de discipline.",
-  "liveAt": "2026-07-06T15:32:35Z",
-  "duration": "17 min",
-  "thumbnail": "https://i.ytimg.com/vi/H-R1f2_4_ls/maxresdefault.jpg"
  },
  {
   "id": "3qdD3KzQc0Y",

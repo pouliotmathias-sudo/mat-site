@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Reveal from "@/components/Reveal";
 import VideoCard from "@/components/VideoCard";
-import { getVideos } from "@/lib/videos";
+import { getVideos, getUpcomingVideos } from "@/lib/videos";
 import { site } from "@/lib/site";
 import styles from "./page.module.css";
 
@@ -14,6 +14,7 @@ export const metadata: Metadata = {
 
 export default function VideosPage() {
   const videos = getVideos();
+  const upcoming = getUpcomingVideos();
 
   return (
     <section className="section--tight">
@@ -32,6 +33,23 @@ export default function VideosPage() {
             </p>
           </div>
         </Reveal>
+
+        {upcoming.length > 0 && (
+          <Reveal>
+            <h2 className="t-titre" style={{ marginBottom: "var(--s-3)" }}>
+              À venir
+            </h2>
+          </Reveal>
+        )}
+        {upcoming.length > 0 && (
+          <div className={styles.grid} style={{ marginBottom: "var(--s-6)" }}>
+            {upcoming.map((v, i) => (
+              <Reveal key={v.id} delay={(i % 3) * 89}>
+                <VideoCard video={v} upcoming />
+              </Reveal>
+            ))}
+          </div>
+        )}
 
         <div className={styles.grid}>
           {videos.map((v, i) => (

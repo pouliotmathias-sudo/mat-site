@@ -3,7 +3,7 @@ title: "Pourquoi tes KPI ne servent à rien (règle du 80-20)"
 description: "Une entreprise a mesuré 401 KPI et compris zéro. Voici pourquoi trop mesurer nuit à tes décisions, et comment trouver les 3 chiffres qui comptent vraiment."
 slug: pourquoi-kpi-ne-servent-rien-regle
 videoId: _rrzh3hmDNI
-date: "2026-07-08"
+date: "2026-08-21"
 keywords:
   - kpi
   - règle 80-20

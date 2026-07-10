@@ -3,7 +3,7 @@ title: "La règle des 5 priorités de Warren Buffett expliquée"
 description: "Pourquoi 70% de ton énergie disparaît dans le tourbillon des urgences avant même que tu choisisses tes vraies priorités — et comment Buffett réglait ça avec 5 objectifs."
 slug: regle-5-priorites-warren-buffett-expliquee
 videoId: H-R1f2_4_ls
-date: "2026-07-07"
+date: "2026-08-06"
 keywords:
   - warren buffett priorités
   - tourbillon urgences

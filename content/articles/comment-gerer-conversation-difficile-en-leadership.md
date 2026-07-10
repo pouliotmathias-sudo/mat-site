@@ -3,7 +3,7 @@ title: "Comment gérer une conversation difficile en leadership (3 outils)"
 description: "3 outils concrets pour tenir une conversation difficile en leadership sans que ça dérape, et le moment rare où tu dois plutôt être direct."
 slug: comment-gerer-conversation-difficile-en-leadership
 videoId: FSajXp4hwjc
-date: "2026-07-09"
+date: "2026-09-05"
 keywords:
   - conversation difficile leadership
   - gestion d'équipe

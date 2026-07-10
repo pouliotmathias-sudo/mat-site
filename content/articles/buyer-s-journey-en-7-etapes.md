@@ -3,7 +3,7 @@ title: "Buyer's Journey en 7 étapes : la plupart des entrepreneurs n'en piloten
 description: "Le buyer's journey compte 7 étapes, la plupart des entrepreneurs n'en pilotent que 2. Voici comment reprendre le contrôle sur les 5 autres, avant même de vendre."
 slug: buyer-s-journey-en-7-etapes
 videoId: qPH1ah0ph2M
-date: "2026-07-07"
+date: "2026-08-16"
 keywords:
   - buyer's journey
   - parcours client

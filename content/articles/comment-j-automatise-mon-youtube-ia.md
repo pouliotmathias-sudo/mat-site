@@ -3,7 +3,7 @@ title: "Comment j'automatise mon YouTube avec l'IA (Claude Code, zéro clic)"
 description: "Comment j'ai automatisé tout mon YouTube avec Claude Code, zéro clic — et pourquoi décomposer tes processus sera la compétence clé de 2026."
 slug: comment-j-automatise-mon-youtube-ia
 videoId: zf7ITbd93D8
-date: "2026-07-09"
+date: "2026-09-10"
 keywords:
   - automatisation ia
   - claude code
