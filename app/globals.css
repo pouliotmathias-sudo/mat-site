@@ -1,64 +1,61 @@
 /* ============================================================
-   MAT — Design System
-   Fondations : nombre d'or (φ = 1.618) partout —
-   typographie, espacements, proportions de mise en page.
-   Grille : Müller-Brockmann, 12 colonnes.
-   Palette : tirée du fond des vidéos YouTube (grège + crème).
+   MATHIAS POULIOT — Design System (v3, 2026-09-11)
+   Site perso, en noir, aligné sur la charte de The ALGORITM
+   (algoritm-brain/00-systeme/DESIGN.md) sans en devenir un site
+   de marque : la Trame sombre donne le relief, le bleu signe,
+   Nunito parle, la police ALGORITM n'écrit que le nom.
+   Fondations inchangées : nombre d'or (φ), espacements Fibonacci,
+   grille 12 colonnes.
    ============================================================ */
 
 @font-face {
-  font-family: "Satoshi";
-  src: url("/fonts/Satoshi-Variable.woff2") format("woff2");
-  font-weight: 300 900;
+  font-family: "Nunito";
+  src: url("/fonts/Nunito-Variable.woff2") format("woff2");
+  font-weight: 200 1000;
   font-display: swap;
 }
 
+/* Police de la marque — capitales seulement, aucune capitale accentuée :
+   réservée au nom « MATHIAS POULIOT » (jamais sous 21 px, jamais en gras) */
 @font-face {
-  font-family: "Instrument Serif";
-  src: url("/fonts/InstrumentSerif-Regular.ttf") format("truetype");
+  font-family: "ALGORITM";
+  src: url("/fonts/ALGORITM-Regular.woff2") format("woff2");
   font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Instrument Serif";
-  src: url("/fonts/InstrumentSerif-Italic.ttf") format("truetype");
-  font-weight: 400;
-  font-style: italic;
   font-display: swap;
 }
 
 :root {
-  /* ---- Couleurs (fond vidéo YouTube : grège chaud + forme crème) ---- */
-  --sand: #e3dad3;        /* fond de page — le grège du background vidéo */
-  --sand-deep: #d8cdc4;   /* grège appuyé pour les zones de contraste doux */
-  --cream: #f7f2ec;       /* la forme organique blanche-crème */
-  --ink: #2a211a;         /* brun-noir chaud, jamais un noir pur */
-  --ink-2: rgba(42, 33, 26, 0.64);
-  --ink-3: rgba(42, 33, 26, 0.4);
-  --accent: #96603c;      /* brun caramel — liens, CTA */
-  --accent-deep: #7a4c2e;
-  --line: rgba(42, 33, 26, 0.14);
+  color-scheme: dark;
 
-  /* ---- Couleur qui pop (inspirée des couleurs traditionnelles
-         japonaises — palette getzenquery) : une seule utilisée pour de
-         petits détails (tags, points de timeline, soulignés, glow au
-         survol) — jamais en masse, jamais en fond de section ---- */
-  --pop: #c6546b;         /* rose-corail profond (famille "beni") */
-  --pop-deep: #a83e53;
-  --pop-soft: #f3d9de;    /* teinte pâle pour fonds de badge/tag */
-  --pop-2: #8a5a86;       /* mauve — accent rare, secondaire (1-2 usages max/page) */
+  /* ---- Couleurs : noir pur, blanc, une touche de bleu ---- */
+  --bg: #000000;
+  --surface: #0d0d0d;      /* cartes, champs */
+  --surface-2: #141414;    /* sumi — disque photo, blocs de code */
+  --fg: #ffffff;
+  --fg-2: rgba(255, 255, 255, 0.72);  /* texte courant secondaire — 10:1 */
+  --fg-3: rgba(255, 255, 255, 0.56);  /* méta, légendes — 6:1 */
+  --line: rgba(255, 255, 255, 0.12);
+  --line-strong: rgba(255, 255, 255, 0.28);
 
-  /* ---- Police serif d'accent (mots-clés dans les titres, citations) ---- */
-  --font-serif: "Instrument Serif", Georgia, serif;
+  --blue: #0662f8;         /* action : boutons, filets, sélection */
+  --blue-hover: #1e50a2;   /* ruri */
+  --blue-text: #6fa3ff;    /* bleu lisible sur noir (texte, liens) — 7:1 */
+  --amber: #fea903;        /* signal : focus clavier, « nouveau » */
+  --orange: #fb6b03;       /* énergie : erreurs */
+
+  /* ---- Trame (algoritm-brain/00-systeme/marque/motif-trame) ---- */
+  --trame-blue: url("/brand/trame-dark-blue.svg");
+  --trame: url("/brand/trame-dark.svg");
+
+  /* ---- Polices ---- */
+  --font-body: "Nunito", ui-rounded, "Arial Rounded MT Bold", system-ui,
+    sans-serif;
+  --font-name: "ALGORITM", var(--font-body);
 
   /* ---- φ ---- */
   --phi: 1.618;
 
-  /* ---- Échelle typographique en nombre d'or (base 17px, ×φ à chaque palier)
-         god (hero) → 17 × φ⁴ ≈ 116px  |  héros → φ³ ≈ 72
-         bloc → φ² ≈ 44.5  |  titre → φ ≈ 27.5 ---- */
+  /* ---- Échelle typographique en nombre d'or (base 17px) ---- */
   --fs-god: clamp(2.986rem, 8.6vw, 7.28rem);
   --fs-hero: clamp(2.35rem, 5.4vw, 4.5rem);
   --fs-bloc: clamp(1.7rem, 3.3vw, 2.781rem);
@@ -66,7 +63,7 @@
   --fs-body: 1.0625rem;   /* 17px */
   --fs-meta: 0.8125rem;   /* 13px — Fibonacci */
 
-  /* ---- Espacements Fibonacci (approximations entières de φ) ---- */
+  /* ---- Espacements Fibonacci ---- */
   --s-1: 8px;
   --s-2: 13px;
   --s-3: 21px;
@@ -76,15 +73,19 @@
   --s-7: 144px;
   --s-8: 233px;
 
-  /* ---- Grille Müller-Brockmann ---- */
+  --radius: 13px;
+  --radius-sm: 8px;
+
+  /* ---- Grille ---- */
   --container: 1200px;
   --gutter: var(--s-3);
 
-  /* ---- Mouvement (durées en ratio φ : 382 → 618 → 1000ms) ---- */
-  --ease: cubic-bezier(0.22, 0.61, 0.21, 1);
-  --t-fast: 382ms;
-  --t-med: 618ms;
-  --t-slow: 1000ms;
+  /* ---- Mouvement (tokens ALGORITM) ---- */
+  --ease: cubic-bezier(0.65, 0.05, 0.36, 1);
+  --ease-over: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --t-fast: 200ms;
+  --t-med: 320ms;
+  --t-slow: 620ms;
 }
 
 * {
@@ -95,14 +96,15 @@
 
 html {
   scroll-behavior: smooth;
+  background: var(--bg);
 }
 
 body {
-  background: var(--sand);
-  color: var(--ink);
-  font-family: "Satoshi", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
   font-size: var(--fs-body);
+  font-weight: 600;
   line-height: var(--phi);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -110,8 +112,8 @@ body {
 }
 
 ::selection {
-  background: var(--accent);
-  color: var(--cream);
+  background: var(--blue);
+  color: var(--fg);
 }
 
 a {
@@ -126,9 +128,16 @@ img {
 
 button {
   font: inherit;
+  color: inherit;
   cursor: pointer;
   border: none;
   background: none;
+}
+
+:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 3px;
+  border-radius: 4px;
 }
 
 /* ============ Conteneur & grille ============ */
@@ -139,13 +148,18 @@ button {
   padding-inline: var(--s-4);
 }
 
+@media (max-width: 640px) {
+  .container {
+    padding-inline: var(--s-3);
+  }
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: var(--gutter);
 }
 
-/* Sections dorées : 61.8 % / 38.2 % */
 .golden-split {
   display: grid;
   grid-template-columns: 1.618fr 1fr;
@@ -164,79 +178,107 @@ button {
   }
 }
 
+/* ============ Trame — relief des surfaces sombres ============
+   Hero et sections d'ouverture seulement ; jamais sous du texte courant
+   ni sous un formulaire (DESIGN.md §11b). */
+
+.bg-trame-blue {
+  background: var(--bg) var(--trame-blue) left top / 900px 900px repeat;
+}
+
+.bg-trame {
+  background: var(--bg) var(--trame) center / 900px 900px repeat;
+}
+
 /* ============ Typographie ============ */
+
+.t-name {
+  font-family: var(--font-name);
+  font-weight: 400;
+  font-size: var(--fs-god);
+  line-height: 1;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
 
 .t-god {
   font-size: var(--fs-god);
   font-weight: 900;
-  line-height: 0.96;
-  letter-spacing: -0.03em;
+  line-height: 0.98;
+  letter-spacing: -0.025em;
 }
 
 .t-hero {
   font-size: var(--fs-hero);
   font-weight: 850;
-  line-height: 1.02;
-  letter-spacing: -0.025em;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
 }
 
 .t-bloc {
   font-size: var(--fs-bloc);
   font-weight: 800;
-  line-height: 1.08;
-  letter-spacing: -0.02em;
+  line-height: 1.12;
+  letter-spacing: -0.01em;
 }
 
 .t-titre {
   font-size: var(--fs-titre);
-  font-weight: 700;
+  font-weight: 800;
   line-height: 1.236;
-  letter-spacing: -0.01em;
 }
 
 .t-meta {
   font-size: var(--fs-meta);
-  font-weight: 600;
-  letter-spacing: 0.09em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--ink-3);
+  color: var(--fg-3);
 }
 
 .t-lead {
   font-size: calc(var(--fs-body) * 1.236);
-  line-height: 1.618;
-  color: var(--ink-2);
-  font-weight: 480;
+  line-height: 1.55;
+  color: var(--fg-2);
+  font-weight: 600;
 }
 
 .t-accent {
-  color: var(--accent);
+  color: var(--blue);
+}
+
+/* Un mot mis en avant dans un titre — souligné bleu, jamais une phrase */
+.t-mark {
+  background-image: linear-gradient(var(--blue), var(--blue));
+  background-size: 100% 0.09em;
+  background-position: 0 92%;
+  background-repeat: no-repeat;
+  padding-bottom: 0.04em;
 }
 
 /* ============ Liens animés ============ */
 
 .link-u {
   position: relative;
-  color: var(--accent-deep);
-  font-weight: 650;
+  color: var(--fg);
+  font-weight: 800;
 }
 
 .link-u::after {
   content: "";
   position: absolute;
   left: 0;
-  bottom: -2px;
+  bottom: -3px;
   width: 100%;
-  height: 1.5px;
-  background: currentColor;
-  transform: scaleX(0);
-  transform-origin: right;
-  transition: transform var(--t-fast) var(--ease);
+  height: 2px;
+  background: var(--blue);
+  transform: scaleX(0.3);
+  transform-origin: left;
+  transition: transform var(--t-med) var(--ease);
 }
 
 .link-u:hover::after {
   transform: scaleX(1);
-  transform-origin: left;
 }
 
 /* ============ Boutons ============ */
@@ -245,38 +287,45 @@ button {
   display: inline-flex;
   align-items: center;
   gap: var(--s-2);
-  padding: var(--s-2) var(--s-4);
-  background: var(--ink);
-  color: var(--cream);
+  min-height: 55px;
+  padding: 0 var(--s-4);
+  background: var(--blue);
+  color: var(--fg);
   border-radius: 999px;
-  font-weight: 700;
+  font-weight: 800;
   font-size: var(--fs-body);
   transition: transform var(--t-fast) var(--ease),
     background var(--t-fast) var(--ease), box-shadow var(--t-fast) var(--ease);
 }
 
 .btn:hover {
-  background: var(--accent-deep);
-  color: var(--cream);
-  transform: translateY(-2px);
-  box-shadow: 0 13px 34px rgba(42, 33, 26, 0.18);
+  background: var(--blue-hover);
+}
+
+.btn:active {
+  transform: scale(0.97);
+}
+
+.btn:disabled {
+  opacity: 0.56;
+  cursor: progress;
 }
 
 .btn--ghost {
   background: transparent;
-  color: var(--ink);
-  box-shadow: inset 0 0 0 1.5px var(--line);
+  color: var(--fg);
+  box-shadow: inset 0 0 0 1.5px var(--line-strong);
 }
 
 .btn--ghost:hover {
-  background: var(--cream);
-  color: var(--ink);
-  box-shadow: inset 0 0 0 1.5px var(--ink);
+  background: var(--fg);
+  color: var(--bg);
+  box-shadow: inset 0 0 0 1.5px var(--fg);
 }
 
 .btn .arr {
   display: inline-block;
-  transition: transform var(--t-fast) var(--ease);
+  transition: transform var(--t-med) var(--ease-over);
 }
 
 .btn:hover .arr {
@@ -286,23 +335,27 @@ button {
 /* ============ Cartes ============ */
 
 .card {
-  background: var(--cream);
-  border-radius: var(--s-3);
+  display: block;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
   overflow: hidden;
+  height: 100%;
   transition: transform var(--t-med) var(--ease),
-    box-shadow var(--t-med) var(--ease);
+    border-color var(--t-med) var(--ease);
 }
 
 .card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 21px 55px rgba(42, 33, 26, 0.14);
+  transform: translateY(-4px);
+  border-color: var(--line-strong);
 }
 
 .card__thumb {
   position: relative;
   aspect-ratio: 16 / 9;
   overflow: hidden;
-  background: var(--sand-deep);
+  background: var(--surface-2);
+  border-bottom: 1px solid var(--line);
 }
 
 .card__thumb img {
@@ -317,7 +370,7 @@ button {
 }
 
 .card__thumb--upcoming img {
-  filter: grayscale(0.85) brightness(0.75);
+  filter: grayscale(0.85) brightness(0.6);
 }
 
 .card:hover .card__thumb--upcoming img {
@@ -331,13 +384,19 @@ button {
   gap: var(--s-2);
 }
 
+.card__desc {
+  color: var(--fg-2);
+  line-height: 1.5;
+  font-size: 0.95rem;
+}
+
 /* ============ Révélation au scroll ============ */
 
 .reveal {
   opacity: 0;
   transform: translateY(34px);
-  transition: opacity var(--t-med) var(--ease),
-    transform var(--t-med) var(--ease);
+  transition: opacity var(--t-slow) var(--ease),
+    transform var(--t-slow) var(--ease);
 }
 
 .reveal.is-in {
@@ -354,6 +413,11 @@ button {
   html {
     scroll-behavior: auto;
   }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0ms !important;
+  }
 }
 
 /* ============ Prose (articles) ============ */
@@ -368,51 +432,83 @@ button {
 
 .prose h2 {
   font-size: var(--fs-bloc);
-  font-weight: 800;
-  line-height: 1.08;
-  letter-spacing: -0.02em;
+  font-weight: 850;
+  line-height: 1.12;
+  letter-spacing: -0.01em;
   margin-top: var(--s-5);
 }
 
 .prose h3 {
   font-size: var(--fs-titre);
-  font-weight: 700;
+  font-weight: 800;
   margin-top: var(--s-4);
 }
 
 .prose p {
-  color: var(--ink-2);
+  color: var(--fg-2);
 }
 
 .prose strong {
-  color: var(--ink);
-  font-weight: 700;
+  color: var(--fg);
+  font-weight: 850;
 }
 
 .prose a {
-  color: var(--accent-deep);
-  font-weight: 650;
+  color: var(--fg);
+  font-weight: 800;
   text-decoration: underline;
-  text-decoration-thickness: 1.5px;
-  text-underline-offset: 3px;
+  text-decoration-color: var(--blue);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+.prose a:hover {
+  color: var(--blue-text);
 }
 
 .prose ul,
 .prose ol {
   padding-left: var(--s-4);
-  color: var(--ink-2);
+  color: var(--fg-2);
   display: flex;
   flex-direction: column;
   gap: var(--s-1);
 }
 
+.prose li::marker {
+  color: var(--blue);
+}
+
 .prose blockquote {
-  border-left: 3px solid var(--accent);
+  border-left: 3px solid var(--blue);
   padding-left: var(--s-3);
   font-size: calc(var(--fs-body) * 1.236);
-  font-weight: 550;
-  color: var(--ink);
+  font-weight: 700;
+  color: var(--fg);
   line-height: 1.5;
+}
+
+.prose code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.85em;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.1em 0.4em;
+}
+
+.prose pre {
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  padding: var(--s-3);
+  overflow-x: auto;
+}
+
+.prose pre code {
+  background: none;
+  border: 0;
+  padding: 0;
 }
 
 .prose hr {
@@ -420,6 +516,25 @@ button {
   height: 1px;
   background: var(--line);
   margin-block: var(--s-5);
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  display: block;
+  overflow-x: auto;
+}
+
+.prose th,
+.prose td {
+  border-bottom: 1px solid var(--line);
+  padding: var(--s-1) var(--s-2);
+  text-align: left;
+  color: var(--fg-2);
+}
+
+.prose th {
+  color: var(--fg);
 }
 
 /* ============ Divers ============ */
@@ -430,6 +545,13 @@ button {
 
 .section--tight {
   padding-block: var(--s-6);
+}
+
+/* Bandeau d'ouverture des pages intérieures (vidéos, articles) */
+.page-head {
+  padding-block: var(--s-6) var(--s-5);
+  border-bottom: 1px solid var(--line);
+  margin-bottom: var(--s-5);
 }
 
 .eyebrow-row {
@@ -443,39 +565,30 @@ button {
   content: "";
   width: var(--s-4);
   height: 2px;
-  background: var(--accent);
+  background: var(--blue);
   flex-shrink: 0;
 }
 
 .pill {
   display: inline-block;
-  padding: 4px var(--s-2);
+  padding: 3px var(--s-2);
   border-radius: 999px;
-  background: var(--sand);
+  background: rgba(255, 255, 255, 0.08);
   font-size: var(--fs-meta);
-  font-weight: 650;
-  color: var(--ink-2);
+  font-weight: 700;
+  color: var(--fg-2);
 }
 
-/* Tag coloré — la "petite couleur qui pop" sur un détail précis (badge de
-   catégorie sur une carte), jamais en fond de section. Rotation de 4
-   teintes pour que les cartes d'une même grille varient un peu, comme les
-   badges multicolores vus chez Eliott Meunier. */
-.pill--pop {
-  background: var(--pop-soft);
-  color: var(--pop-deep);
+/* Pastille d'accent — bord bleu, une par carte au plus */
+.pill--accent {
+  background: transparent;
+  box-shadow: inset 0 0 0 1px var(--blue);
+  color: var(--fg);
 }
 
-.pill--mauve {
-  background: color-mix(in srgb, var(--pop-2) 16%, var(--cream));
-  color: var(--pop-2);
-}
-
-/* ============ Accent serif — un mot, jamais une phrase ============ */
-
-.t-serif {
-  font-family: var(--font-serif);
-  font-style: italic;
-  font-weight: 400;
-  color: var(--pop-deep);
+/* Pastille « nouveau / à venir » — ambre, rare */
+.pill--signal {
+  background: transparent;
+  box-shadow: inset 0 0 0 1px var(--amber);
+  color: var(--amber);
 }

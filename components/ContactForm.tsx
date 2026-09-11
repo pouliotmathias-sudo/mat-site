@@ -28,7 +28,7 @@ export default function ContactForm() {
 
     setStatus("sending");
     data.append("access_key", site.web3formsKey);
-    data.append("from_name", "Site Mat — formulaire de contact");
+    data.append("from_name", "mathiaspouliot.com — formulaire de contact");
 
     try {
       const res = await fetch("https://api.web3forms.com/submit", {
@@ -51,9 +51,9 @@ export default function ContactForm() {
     return (
       <div className={styles.done} role="status">
         <p className="t-bloc">Reçu ✓</p>
-        <p style={{ color: "var(--ink-2)" }}>
-          Ton message est parti. Je te reviens habituellement en dedans de
-          48&nbsp;h.
+        <p style={{ color: "var(--fg-2)" }}>
+          Votre message est parti. Je vous réponds habituellement en dedans
+          de 48&nbsp;h.
         </p>
         <button className="btn btn--ghost" onClick={() => setStatus("idle")}>
           Envoyer un autre message
@@ -77,7 +77,7 @@ export default function ContactForm() {
       <div className={styles.row}>
         <label className={styles.field}>
           <span className="t-meta">Nom *</span>
-          <input name="name" type="text" required placeholder="Ton nom" />
+          <input name="name" type="text" required placeholder="Votre nom" />
         </label>
         <label className={styles.field}>
           <span className="t-meta">Téléphone</span>
@@ -94,12 +94,12 @@ export default function ContactForm() {
         <span className="t-meta">Raison *</span>
         <select name="raison" required defaultValue="">
           <option value="" disabled>
-            Choisis une raison…
+            Choisissez une raison…
           </option>
           <option>Question sur une vidéo</option>
           <option>Collaboration / partenariat</option>
-          <option>Invitation (podcast, événement…)</option>
-          <option>Juste jaser</option>
+          <option>Invitation (balado, conférence, événement…)</option>
+          <option>Simplement échanger</option>
           <option>Autre</option>
         </select>
       </label>
@@ -120,7 +120,7 @@ export default function ContactForm() {
           name="message"
           required
           rows={6}
-          placeholder="Écris ton message ici…"
+          placeholder="Votre message…"
         />
       </label>
 
@@ -131,7 +131,7 @@ export default function ContactForm() {
 
       {status === "error" && (
         <p className={styles.error} role="alert">
-          Oups — l&apos;envoi a échoué. Réessaie dans une minute, ou écris-moi
+          L&apos;envoi a échoué. Réessayez dans une minute, ou écrivez-moi
           directement sur LinkedIn.
         </p>
       )}

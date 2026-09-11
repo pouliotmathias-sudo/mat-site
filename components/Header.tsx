@@ -19,8 +19,13 @@ export default function Header() {
   return (
     <header className={styles.header}>
       <div className={`container ${styles.inner}`}>
-        <Link href="/" className={styles.logo} onClick={() => setOpen(false)}>
-          Mat<span className={styles.dot}>.</span>
+        <Link
+          href="/"
+          className={styles.logo}
+          onClick={() => setOpen(false)}
+          aria-label="Mathias Pouliot — accueil"
+        >
+          Mathias Pouliot
         </Link>
 
         <nav

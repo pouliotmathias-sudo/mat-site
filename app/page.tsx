@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
 import Reveal from "@/components/Reveal";
-import OrganicShape from "@/components/OrganicShape";
 import VideoCard from "@/components/VideoCard";
 import ArticleCard from "@/components/ArticleCard";
 import { getVideos } from "@/lib/videos";
@@ -16,40 +15,41 @@ export default function Home() {
   return (
     <>
       {/* ================= HERO ================= */}
-      <section className={styles.hero}>
-        <OrganicShape />
+      <section className={`bg-trame-blue ${styles.hero}`}>
         <div className={`container ${styles.heroInner}`}>
           <div className={styles.heroText}>
             <Reveal>
-              <p className="t-meta">IA · Automatisation · Business · Vie</p>
+              <div className="eyebrow-row">
+                <span className="t-meta">Entrepreneur · {site.city}</span>
+              </div>
             </Reveal>
             <Reveal delay={89}>
-              <h1 className="t-god">
-                J&apos;apprends
+              <h1 className={`t-name ${styles.heroName}`}>
+                Mathias
                 <br />
-                en <span className="t-serif">public</span>.
+                Pouliot
               </h1>
             </Reveal>
             <Reveal delay={178}>
-              <p className={`t-lead ${styles.heroLead}`}>
-                Moi c&apos;est Mat. 23 ans, entrepreneur au Québec. J&apos;explore,
-                je voyage, j&apos;expérimente — pis je documente tout ce que
-                j&apos;apprends sur l&apos;IA, les systèmes et le business, une
-                vidéo à la fois.
+              <p className={styles.heroClaim}>
+                Je construis des systèmes qui redonnent du temps aux
+                dirigeants. Et je documente le chemin, en public.
               </p>
             </Reveal>
             <Reveal delay={267}>
+              <p className={`t-lead ${styles.heroLead}`}>
+                Fondateur de The ALGORITM, étudiant au MBA à l&apos;Université
+                Laval, formé en enseignement. Ici, je partage mes vidéos, mes
+                articles et ce que j&apos;apprends en bâtissant une entreprise.
+              </p>
+            </Reveal>
+            <Reveal delay={356}>
               <div className={styles.heroCtas}>
-                <a
-                  className="btn"
-                  href={site.youtube}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Regarder sur YouTube <span className="arr">→</span>
-                </a>
-                <Link className="btn btn--ghost" href="/articles">
-                  Lire les articles
+                <Link className="btn" href="/a-propos">
+                  Mon parcours <span className="arr">→</span>
+                </Link>
+                <Link className="btn btn--ghost" href="/videos">
+                  Voir les vidéos
                 </Link>
               </div>
             </Reveal>
@@ -59,12 +59,77 @@ export default function Home() {
             <div className={styles.heroPhotoDisc} aria-hidden />
             <Image
               src="/photos/mathias-sourire.png"
-              alt="Mat — créateur de la chaîne"
+              alt="Mathias Pouliot"
               width={520}
-              height={640}
+              height={693}
               priority
               className={styles.heroPhoto}
             />
+          </Reveal>
+        </div>
+      </section>
+
+      {/* ================= THE ALGORITM =================
+          Le seul endroit du site où le logo ALGORITM apparaît. */}
+      <section className="section--tight">
+        <div className="container">
+          <Reveal>
+            <article className={styles.algo} aria-labelledby="algo-titre">
+              <div className={styles.algoHead}>
+                <div className="eyebrow-row">
+                  <span className="t-meta">Ce que je bâtis</span>
+                </div>
+                <a
+                  href={site.algoritm.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.algoLogo}
+                >
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src="/brand/algoritm-lockup-white.svg"
+                    alt="The ALGORITM — the-algoritm.io"
+                    width={190}
+                    height={89}
+                  />
+                </a>
+              </div>
+
+              <div className={styles.algoBody}>
+                <h2 id="algo-titre" className="t-bloc">
+                  {site.algoritm.promesse}
+                </h2>
+                <p className="t-lead">
+                  The ALGORITM est mon entreprise : un studio d&apos;automatisation
+                  IA. On conçoit et on opère les automatisations qui font tourner
+                  une PME, pour que son dirigeant ne soit plus le goulot de
+                  l&apos;opérationnel.
+                </p>
+                <p className={styles.algoNote}>
+                  Pour commencer : l&apos;audit offert. Un appel de 30 minutes,
+                  et vous repartez avec votre bottleneck n° 1 et une estimation
+                  des heures qu&apos;il vous coûte.
+                </p>
+                <div className={styles.heroCtas}>
+                  <a
+                    className="btn"
+                    href={site.algoritm.audit}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Réserver l&apos;audit offert <span className="arr">→</span>
+                  </a>
+                  <a
+                    className="btn btn--ghost"
+                    href={site.algoritm.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Visiter the-algoritm.io
+                  </a>
+                </div>
+              </div>
+            </article>
           </Reveal>
         </div>
       </section>
@@ -76,7 +141,7 @@ export default function Home() {
             <div className={styles.rowHead}>
               <div>
                 <div className="eyebrow-row">
-                  <span className="t-meta">La chaîne</span>
+                  <span className="t-meta">Le journal vidéo</span>
                 </div>
                 <h2 className="t-hero">Dernières vidéos</h2>
               </div>
@@ -122,21 +187,28 @@ export default function Home() {
       </section>
 
       {/* ================= MANIFESTE ================= */}
-      <section className={styles.manifesto}>
-        <OrganicShape flip opacity={0.55} />
+      <section className={`bg-trame ${styles.manifesto}`}>
         <div className={`container ${styles.manifestoInner}`}>
           <Reveal>
-            <p className="t-meta">Pourquoi cette chaîne</p>
+            <div className="eyebrow-row">
+              <span className="t-meta">Pourquoi je documente tout</span>
+            </div>
           </Reveal>
           <Reveal delay={89}>
             <p className={styles.manifestoText}>
-              Je crois qu&apos;on apprend plus vite en construisant pour vrai
-              qu&apos;en consommant du contenu. Chaque vidéo, c&apos;est une
-              expérience que j&apos;ai réellement menée — les résultats, les
-              erreurs, pis ce que j&apos;en retire.
+              On apprend plus vite en construisant pour vrai qu&apos;en
+              consommant du contenu. Chaque vidéo part d&apos;une expérience que
+              j&apos;ai réellement menée : les résultats, les erreurs et ce que
+              j&apos;en retire.
             </p>
           </Reveal>
           <Reveal delay={178}>
+            <p className={`t-lead ${styles.manifestoSub}`}>
+              Même règle pour The ALGORITM : je fais d&apos;abord tourner chez
+              moi les systèmes que je bâtis pour les autres.
+            </p>
+          </Reveal>
+          <Reveal delay={267}>
             <Link href="/a-propos" className="btn">
               Mon histoire <span className="arr">→</span>
             </Link>

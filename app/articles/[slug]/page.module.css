@@ -24,10 +24,10 @@
 .videoWrap {
   position: relative;
   aspect-ratio: 16 / 9;
-  border-radius: var(--s-3);
+  border-radius: var(--radius);
   overflow: hidden;
-  background: var(--ink);
-  box-shadow: 0 34px 89px rgba(42, 33, 26, 0.22);
+  background: var(--surface-2);
+  border: 1px solid var(--line);
   margin-bottom: var(--s-6);
 }
 
@@ -50,8 +50,9 @@
 .cta {
   position: sticky;
   top: calc(55px + var(--s-4));
-  background: var(--cream);
-  border-radius: var(--s-3);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
   padding: var(--s-4);
   display: flex;
   flex-direction: column;
