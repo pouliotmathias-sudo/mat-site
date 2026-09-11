@@ -3,7 +3,7 @@
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: var(--s-6);
+  gap: var(--s-5);
   padding-left: var(--s-6);
 }
 
@@ -13,12 +13,8 @@
   left: calc(var(--s-2) - 1px);
   top: 6px;
   bottom: 6px;
-  width: 2px;
-  background: linear-gradient(
-    to bottom,
-    var(--line) 0%,
-    var(--line) 100%
-  );
+  width: 1px;
+  background: var(--line-strong);
 }
 
 .item {
@@ -31,31 +27,35 @@
 .dot {
   position: absolute;
   left: calc(var(--s-6) * -1 + var(--s-2) - 7px);
-  top: 6px;
-  width: 15px;
-  height: 15px;
+  top: 5px;
+  width: 13px;
+  height: 13px;
   border-radius: 50%;
-  background: var(--ink);
-  box-shadow: 0 0 0 5px var(--sand);
+  background: var(--bg);
+  box-shadow: inset 0 0 0 2px var(--fg), 0 0 0 5px var(--bg);
 }
 
-.dotPop {
-  background: var(--pop);
-}
-
-.dotMauve {
-  background: var(--pop-2);
+.dotKey {
+  background: var(--blue);
+  box-shadow: inset 0 0 0 2px var(--blue), 0 0 0 5px var(--bg);
 }
 
 .body {
   display: flex;
   flex-direction: column;
   gap: var(--s-1);
-  max-width: 52ch;
+  max-width: 56ch;
+}
+
+.date {
+  display: flex;
+  align-items: center;
+  gap: var(--s-2);
+  flex-wrap: wrap;
 }
 
 .text {
-  color: var(--ink-2);
+  color: var(--fg-2);
   line-height: 1.618;
 }
 
@@ -65,6 +65,6 @@
   }
 
   .dot {
-    left: calc(var(--s-5) * -1 + var(--s-1) - 7px);
+    left: calc(var(--s-5) * -1 + var(--s-2) - 7px);
   }
 }

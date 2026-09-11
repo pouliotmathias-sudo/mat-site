@@ -120,7 +120,7 @@ export default async function ArticlePage({
 
           <aside className={styles.cta}>
             <p className="t-titre">Cet article vient d&apos;une vidéo.</p>
-            <p style={{ color: "var(--ink-2)" }}>
+            <p style={{ color: "var(--fg-2)" }}>
               La version complète, avec les exemples à l&apos;écran, est sur la
               chaîne.
             </p>

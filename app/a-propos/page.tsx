@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import Reveal from "@/components/Reveal";
-import OrganicShape from "@/components/OrganicShape";
 import Timeline from "@/components/Timeline";
 import { site } from "@/lib/site";
 import styles from "./page.module.css";
@@ -10,7 +9,7 @@ import styles from "./page.module.css";
 export const metadata: Metadata = {
   title: "À propos",
   description:
-    "Qui est Mat ? Un entrepreneur de 23 ans, basé au Québec, qui explore, voyage et expérimente — et qui partage tout ce qu'il apprend sur l'IA, l'automatisation et le business.",
+    "Qui est Mathias Pouliot ? Entrepreneur québécois, fondateur de The ALGORITM, étudiant au MBA à l'Université Laval et formé en enseignement : le parcours, du bar au business.",
   alternates: { canonical: "/a-propos" },
 };
 
@@ -18,7 +17,7 @@ const valeurs = [
   {
     titre: "Expérimenter d'abord",
     texte:
-      "Je ne parle jamais d'une idée que j'ai pas testée moi-même. Chaque vidéo part d'une expérience réelle — avec ses résultats pis ses échecs.",
+      "Je ne parle jamais d'une idée que je n'ai pas testée moi-même. Chaque vidéo part d'une expérience réelle, avec ses résultats et ses échecs.",
   },
   {
     titre: "Apprendre en public",
@@ -28,7 +27,7 @@ const valeurs = [
   {
     titre: "Les systèmes avant la motivation",
     texte:
-      "La motivation est passagère. Un bon système, une bonne habitude, un bon processus — c'est ça qui tient sur des années.",
+      "La motivation est passagère. Un bon système, une bonne habitude, un bon processus : c'est ça qui tient sur des années.",
   },
 ];
 
@@ -37,18 +36,34 @@ export default function AProposPage() {
     "@context": "https://schema.org",
     "@type": "Person",
     name: site.author,
-    alternateName: "Mat",
     url: site.url,
-    sameAs: [site.youtube, site.linkedin, site.instagram],
-    jobTitle: "Entrepreneur et créateur de contenu",
+    image: `${site.url}/photos/mathias-sourire.png`,
+    sameAs: [
+      site.linkedin,
+      site.youtube,
+      site.youtubeJournal,
+      site.instagram,
+    ],
+    jobTitle: "Fondateur",
+    worksFor: {
+      "@type": "Organization",
+      name: site.algoritm.name,
+      url: site.algoritm.url,
+    },
+    alumniOf: { "@type": "CollegeOrUniversity", name: "Université Laval" },
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: "Lévis",
+      addressRegion: "QC",
+      addressCountry: "CA",
+    },
     description: site.description,
     knowsAbout: [
+      "Automatisation des processus",
       "Intelligence artificielle",
-      "Automatisation",
+      "Gestion de PME",
       "Entrepreneuriat",
-      "Systèmes de productivité",
     ],
-    nationality: "Canadienne",
   };
 
   return (
@@ -59,16 +74,14 @@ export default function AProposPage() {
       />
 
       {/* ============ HERO ============ */}
-      <section className={styles.hero}>
-        <OrganicShape flip />
+      <section className={`bg-trame-blue ${styles.hero}`}>
         <div className={`container ${styles.heroInner}`}>
           <Reveal className={styles.photoWrap}>
-            <div className={styles.photoDisc} aria-hidden />
             <Image
               src="/photos/manga-ordi.png"
-              alt="Mat, en train de construire"
+              alt="Mathias, en train de construire"
               width={480}
-              height={600}
+              height={641}
               priority
               className={styles.photo}
             />
@@ -76,25 +89,29 @@ export default function AProposPage() {
 
           <div className={styles.heroText}>
             <Reveal>
-              <p className="t-meta">À propos</p>
+              <div className="eyebrow-row">
+                <span className="t-meta">À propos</span>
+              </div>
             </Reveal>
             <Reveal delay={89}>
               <h1 className="t-god">
                 Salut, moi
                 <br />
-                c&apos;est <span className="t-serif">Mat</span>
+                c&apos;est <span className="t-mark">Mathias</span>.
               </h1>
             </Reveal>
             <Reveal delay={178}>
               <p className="t-lead">
-                23 ans. Entrepreneur. Basé à Québec, souvent ailleurs.
+                Fondateur de The ALGORITM. Étudiant au MBA. Basé à Lévis,
+                souvent ailleurs.
               </p>
             </Reveal>
             <Reveal delay={267}>
               <div className={styles.tagRow}>
-                <span className="pill pill--pop">Entrepreneur</span>
-                <span className="pill pill--mauve">Créateur</span>
-                <span className="pill pill--pop">Voyageur solo</span>
+                <span className="pill pill--accent">Fondateur</span>
+                <span className="pill">MBA en cours</span>
+                <span className="pill">Formé en enseignement</span>
+                <span className="pill">Voyageur solo</span>
               </div>
             </Reveal>
           </div>
@@ -106,38 +123,46 @@ export default function AProposPage() {
         <div className={`container ${styles.story}`}>
           <Reveal>
             <h2 className="t-hero">
-              J&apos;explore, j&apos;expérimente, pis je documente tout.
+              J&apos;explore, je construis, et je documente tout.
             </h2>
           </Reveal>
           <div className={styles.storyText}>
             <Reveal delay={89}>
               <p>
-                Je suis un gars ordinaire qui a décidé de prendre sa vie comme
-                un terrain d&apos;expérimentation. Le business, l&apos;IA, les
-                systèmes de productivité, les voyages en backpack, les
-                habitudes — tout passe au banc d&apos;essai. Ce qui marche, je
-                le garde. Ce qui marche pas, j&apos;en parle quand même, parce
-                que c&apos;est souvent là que se cache la vraie leçon.
+                J&apos;ai pris ma vie comme un terrain d&apos;expérimentation. Le
+                business, l&apos;IA, les systèmes, les voyages en solo, les
+                habitudes : tout passe au banc d&apos;essai. Ce qui marche, je le
+                garde. Ce qui ne marche pas, j&apos;en parle quand même, parce que
+                c&apos;est souvent là que se cache la vraie leçon.
               </p>
             </Reveal>
             <Reveal delay={178}>
               <p>
-                Ma passion, c&apos;est les nouvelles technologies —
-                l&apos;intelligence artificielle, l&apos;automatisation, les
-                processus qui te redonnent ton temps. Je passe mes journées à
-                construire des systèmes qui travaillent pendant que je dors,
-                pis mes vidéos montrent exactement comment je fais, étape par
-                étape, sans rien cacher.
+                Je viens de l&apos;enseignement : quatre ans de bacc et plus de
+                50 écoles comme suppléant. Former des gens à de nouvelles façons
+                de faire, c&apos;est mon métier d&apos;origine. Ensuite, dans une
+                startup québécoise en IA, j&apos;ai prospecté des PME et activé
+                des partenaires, et j&apos;ai automatisé ma propre prospection
+                en chemin.
               </p>
             </Reveal>
             <Reveal delay={267}>
               <p>
-                La chaîne, c&apos;est mon journal de bord public. Pas de recette
-                miracle, pas de promesses de millions — juste ce que
-                j&apos;apprends pour vrai, au moment où je l&apos;apprends. Si
-                t&apos;es le genre de personne qui aime comprendre comment les
-                choses marchent pis bâtir sa vie à sa façon, tu vas te sentir
-                chez vous.
+                Aujourd&apos;hui, je bâtis{" "}
+                <a
+                  className="link-u"
+                  href={site.algoritm.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  The ALGORITM
+                </a>
+                , un studio d&apos;automatisation IA pour les dirigeants de TPE
+                et PME, et je fais un MBA en entrepreneuriat et gestion de PME à
+                l&apos;Université Laval. Ce site, c&apos;est le reste : mon
+                journal de bord public, sans recette miracle ni promesse de
+                millions. Juste ce que j&apos;apprends pour vrai, au moment où je
+                l&apos;apprends.
               </p>
             </Reveal>
           </div>
@@ -152,7 +177,7 @@ export default function AProposPage() {
               <span className="t-meta">Le parcours</span>
             </div>
             <h2 className="t-hero" style={{ marginBottom: "var(--s-6)" }}>
-              Du bar au <span className="t-serif">business</span>.
+              Du bar au <span className="t-mark">business</span>.
             </h2>
           </Reveal>
           <Timeline />
@@ -183,7 +208,7 @@ export default function AProposPage() {
             <Reveal delay={89} className={styles.momentCard}>
               <Image
                 src="/photos/manga-networking.png"
-                alt="Soirée networking"
+                alt="Soirée de réseautage"
                 width={600}
                 height={800}
                 className={styles.momentImg}
@@ -195,7 +220,7 @@ export default function AProposPage() {
             <Reveal delay={178} className={styles.momentCard}>
               <Image
                 src="/photos/mathias-conference.jpeg"
-                alt="Sur scène"
+                alt="Mathias sur scène"
                 width={600}
                 height={800}
                 className={styles.momentImg}
@@ -231,25 +256,25 @@ export default function AProposPage() {
       <section className="section--tight">
         <div className={`container ${styles.ctaBlock}`}>
           <Reveal>
-            <h2 className="t-hero">On se suit ?</h2>
+            <h2 className="t-hero">Restons en contact.</h2>
           </Reveal>
           <Reveal delay={89}>
             <div className={styles.ctaRow}>
               <a
                 className="btn"
-                href={site.youtube}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                YouTube <span className="arr">→</span>
-              </a>
-              <a
-                className="btn btn--ghost"
                 href={site.linkedin}
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                LinkedIn
+                LinkedIn <span className="arr">→</span>
+              </a>
+              <a
+                className="btn btn--ghost"
+                href={site.youtube}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                YouTube
               </a>
               <a
                 className="btn btn--ghost"

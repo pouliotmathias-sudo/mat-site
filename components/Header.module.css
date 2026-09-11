@@ -2,8 +2,9 @@
   position: sticky;
   top: 0;
   z-index: 50;
-  background: color-mix(in srgb, var(--sand) 82%, transparent);
+  background: color-mix(in srgb, var(--bg) 82%, transparent);
   backdrop-filter: blur(13px);
+  -webkit-backdrop-filter: blur(13px);
   border-bottom: 1px solid var(--line);
 }
 
@@ -11,20 +12,20 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* hauteur du header : 55px (Fibonacci) + padding */
+  gap: var(--s-3);
   min-height: 55px;
   padding-block: var(--s-2);
 }
 
+/* Le nom, écrit au feutre — police ALGORITM, jamais sous 21 px */
 .logo {
-  font-size: 1.719rem; /* palier φ */
-  font-weight: 900;
-  letter-spacing: -0.03em;
+  font-family: var(--font-name);
+  font-size: 1.45rem;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
   line-height: 1;
-}
-
-.dot {
-  color: var(--accent);
+  white-space: nowrap;
 }
 
 .nav {
@@ -34,9 +35,9 @@
 }
 
 .navLink {
-  font-weight: 650;
+  font-weight: 700;
   font-size: var(--fs-body);
-  color: var(--ink-2);
+  color: var(--fg-2);
   position: relative;
   transition: color var(--t-fast) var(--ease);
 }
@@ -48,15 +49,15 @@
   bottom: -4px;
   width: 100%;
   height: 2px;
-  background: var(--accent);
+  background: var(--blue);
   transform: scaleX(0);
   transform-origin: right;
-  transition: transform var(--t-fast) var(--ease);
+  transition: transform var(--t-med) var(--ease);
 }
 
 .navLink:hover,
 .active {
-  color: var(--ink);
+  color: var(--fg);
 }
 
 .navLink:hover::after,
@@ -70,13 +71,14 @@
   flex-direction: column;
   gap: 6px;
   padding: var(--s-2);
+  margin-right: calc(var(--s-2) * -1);
 }
 
 .bar {
   width: 26px;
   height: 2px;
-  background: var(--ink);
-  transition: transform var(--t-fast) var(--ease);
+  background: var(--fg);
+  transition: transform var(--t-med) var(--ease);
 }
 
 .barTop {
@@ -98,7 +100,7 @@
     flex-direction: column;
     align-items: flex-start;
     gap: 0;
-    background: var(--cream);
+    background: var(--bg);
     border-bottom: 1px solid var(--line);
     padding: var(--s-3) var(--s-4) var(--s-4);
     transform: translateY(-8px);

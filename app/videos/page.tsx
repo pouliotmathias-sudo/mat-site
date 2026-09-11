@@ -8,7 +8,7 @@ import styles from "./page.module.css";
 export const metadata: Metadata = {
   title: "Toutes les vidéos",
   description:
-    "Toutes les vidéos de la chaîne Mat : IA, automatisation, business, systèmes et développement personnel — apprises sur le terrain, partagées sans filtre.",
+    "Toutes les vidéos longues de Mathias Pouliot : IA, automatisation, business, systèmes et développement personnel, apprises sur le terrain et partagées sans filtre.",
   alternates: { canonical: "/videos" },
 };
 
@@ -17,48 +17,70 @@ export default function VideosPage() {
   const upcoming = getUpcomingVideos();
 
   return (
-    <section className="section--tight">
-      <div className="container">
-        <Reveal>
-          <div className={styles.head}>
-            <div className="eyebrow-row">
-              <span className="t-meta">
-                {videos.length} vidéos · {site.youtubeHandle}
-              </span>
-            </div>
-            <h1 className="t-god">Les vidéos</h1>
-            <p className={`t-lead ${styles.lead}`}>
-              Tout ce que je publie sur la chaîne, du plus récent au plus
-              ancien. Chaque vidéo ouvre directement sur YouTube.
-            </p>
-          </div>
-        </Reveal>
-
-        {upcoming.length > 0 && (
+    <>
+      <section className={`bg-trame-blue ${styles.band}`}>
+        <div className="container">
           <Reveal>
-            <h2 className="t-titre" style={{ marginBottom: "var(--s-3)" }}>
-              À venir
-            </h2>
+            <div className={styles.head}>
+              <div className="eyebrow-row">
+                <span className="t-meta">
+                  {videos.length} vidéos ·{" "}
+                  <a
+                    href={site.youtubeJournal}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {site.youtubeJournalHandle}
+                  </a>
+                </span>
+              </div>
+              <h1 className="t-god">Les vidéos</h1>
+              <p className={`t-lead ${styles.lead}`}>
+                Mon journal vidéo, du plus récent au plus ancien. Chaque vidéo
+                ouvre directement sur YouTube. Le contenu The ALGORITM est sur{" "}
+                <a
+                  className="link-u"
+                  href={site.youtube}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  ma chaîne principale
+                </a>
+                .
+              </p>
+            </div>
           </Reveal>
-        )}
-        {upcoming.length > 0 && (
-          <div className={styles.grid} style={{ marginBottom: "var(--s-6)" }}>
-            {upcoming.map((v, i) => (
+        </div>
+      </section>
+
+      <section className="section--tight">
+        <div className="container">
+          {upcoming.length > 0 && (
+            <Reveal>
+              <h2 className="t-titre" style={{ marginBottom: "var(--s-3)" }}>
+                À venir
+              </h2>
+            </Reveal>
+          )}
+          {upcoming.length > 0 && (
+            <div className={styles.grid} style={{ marginBottom: "var(--s-6)" }}>
+              {upcoming.map((v, i) => (
+                <Reveal key={v.id} delay={(i % 3) * 89}>
+                  <VideoCard video={v} upcoming />
+                </Reveal>
+              ))}
+            </div>
+          )}
+
+          <div className={styles.grid}>
+            {videos.map((v, i) => (
               <Reveal key={v.id} delay={(i % 3) * 89}>
-                <VideoCard video={v} upcoming />
+                <VideoCard video={v} />
               </Reveal>
             ))}
           </div>
-        )}
-
-        <div className={styles.grid}>
-          {videos.map((v, i) => (
-            <Reveal key={v.id} delay={(i % 3) * 89}>
-              <VideoCard video={v} />
-            </Reveal>
-          ))}
         </div>
-      </div>
-    </section>
+      </section>
+    </>
   );
 }

@@ -28,14 +28,14 @@ export default function VideoCard({
         <div style={{ display: "flex", gap: "var(--s-2)", flexWrap: "wrap" }}>
           {upcoming ? (
             <>
-              <span className="pill">Non disponible encore</span>
-              <span className="pill pill--pop">
+              <span className="pill pill--signal">À venir</span>
+              <span className="pill">
                 Sortie prévue : {formatDate(video.liveAt)}
               </span>
             </>
           ) : (
             <>
-              <span className="pill pill--pop">{video.duration}</span>
+              <span className="pill pill--accent">{video.duration}</span>
               <span className="pill">{formatDate(video.liveAt)}</span>
             </>
           )}

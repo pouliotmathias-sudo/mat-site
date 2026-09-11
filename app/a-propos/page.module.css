@@ -1,7 +1,8 @@
 .hero {
   position: relative;
   overflow: hidden;
-  padding-block: var(--s-6) 0;
+  padding-block: var(--s-6);
+  border-bottom: 1px solid var(--line);
 }
 
 .heroInner {
@@ -10,7 +11,7 @@
   /* photo 1 / texte 1.618 — section dorée inversée */
   grid-template-columns: 1fr 1.618fr;
   gap: var(--s-5);
-  align-items: end;
+  align-items: center;
 }
 
 .photoWrap {
@@ -19,33 +20,20 @@
   justify-content: center;
 }
 
-.photoDisc {
-  position: absolute;
-  bottom: -18%;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 144%;
-  aspect-ratio: 1;
-  border-radius: 50%;
-  background: radial-gradient(
-    circle at 50% 40%,
-    var(--sand-deep) 0%,
-    transparent 70%
-  );
-}
-
 .photo {
   position: relative;
   width: min(100%, 380px);
   height: auto;
-  filter: drop-shadow(0 34px 55px rgba(42, 33, 26, 0.2));
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--line-strong);
 }
 
 .heroText {
   display: flex;
   flex-direction: column;
   gap: var(--s-3);
-  padding-block: var(--s-5);
 }
 
 @media (max-width: 860px) {
@@ -53,18 +41,18 @@
     grid-template-columns: 1fr;
   }
 
-  .photo {
-    width: min(58vw, 280px);
+  .photoWrap {
+    justify-content: flex-start;
   }
 
-  .heroText {
-    padding-top: 0;
+  .photo {
+    width: min(58vw, 280px);
   }
 }
 
 .tagRow {
   display: flex;
-  gap: var(--s-2);
+  gap: var(--s-1);
   flex-wrap: wrap;
 }
 
@@ -74,15 +62,16 @@
   max-width: 20ch;
 }
 
-/* ---- Moments (galerie manga + réel) ---- */
+/* ---- Moments (galerie) ---- */
 
 .moments {
   padding-block: var(--s-6);
-  background: var(--sand-deep);
+  border-block: 1px solid var(--line);
+  background: var(--surface);
 }
 
 .momentsGrid {
-  margin-top: var(--s-5);
+  margin-top: var(--s-4);
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: var(--gutter);
@@ -99,19 +88,19 @@
   height: auto;
   aspect-ratio: 3 / 4;
   object-fit: cover;
-  border-radius: var(--s-3);
-  box-shadow: 0 21px 55px rgba(42, 33, 26, 0.16);
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
   transition: transform var(--t-med) var(--ease);
 }
 
 .momentCard:hover .momentImg {
-  transform: translateY(-5px) rotate(-0.6deg);
+  transform: translateY(-4px);
 }
 
 .momentCaption {
   font-size: var(--fs-meta);
-  color: var(--ink-2);
-  font-weight: 550;
+  color: var(--fg-2);
+  font-weight: 700;
 }
 
 @media (max-width: 860px) {
@@ -147,7 +136,7 @@
   gap: var(--s-4);
   font-size: calc(var(--fs-body) * 1.236);
   line-height: 1.618;
-  color: var(--ink-2);
+  color: var(--fg-2);
   max-width: 62ch;
 }
 
@@ -175,8 +164,9 @@
 }
 
 .valCard {
-  background: var(--cream);
-  border-radius: var(--s-3);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
   padding: var(--s-4);
   display: flex;
   flex-direction: column;
@@ -185,15 +175,21 @@
 }
 
 .valCard p {
-  color: var(--ink-2);
+  color: var(--fg-2);
   line-height: 1.618;
 }
 
+/* Chiffre clé en police ALGORITM (DESIGN.md §7 « number ») — jamais
+   colorée : l'accent est le filet bleu dessous */
 .valNum {
-  font-size: var(--fs-meta);
-  font-weight: 800;
-  color: var(--accent);
-  letter-spacing: 0.09em;
+  font-family: var(--font-name);
+  font-size: 1.618rem;
+  letter-spacing: 0.06em;
+  line-height: 1;
+  color: var(--fg);
+  padding-bottom: var(--s-1);
+  border-bottom: 2px solid var(--blue);
+  width: fit-content;
 }
 
 @media (max-width: 860px) {

@@ -1,21 +1,33 @@
-# Mat — site personnel (matlearned)
+# mathiaspouliot.com — site personnel de Mathias Pouliot
 
-Site Next.js du personal branding YouTube de Mat : vidéos de la chaîne
-[@matlearned](https://www.youtube.com/@matlearned), articles SEO tirés des
-transcripts, page à propos et formulaire de contact.
+Site Next.js du personal branding de Mathias Pouliot, entrepreneur et
+fondateur de [The ALGORITM](https://the-algoritm.io) : vidéos de la chaîne
+[@mathias_pouliot](https://www.youtube.com/@mathias_pouliot), articles SEO
+tirés des transcripts, page à propos et formulaire de contact.
 
-## Design
+C'est le site **perso** du fondateur, pas le site de l'entreprise : le logo
+ALGORITM n'apparaît qu'à un seul endroit (le bloc « Ce que je bâtis » de
+l'accueil).
 
-- **Nombre d'or partout** : échelle typographique ×1.618 (god → héros →
-  bloc → titre), espacements Fibonacci (8/13/21/34/55/89/144/233 px),
-  sections en proportion 1.618:1, durées d'animation 382/618/1000 ms.
-- **Grille Müller-Brockmann** 12 colonnes, conteneur 1200 px.
-- **Palette** tirée du fond des vidéos YouTube : grège `#e3dad3`, crème
-  `#f7f2ec`, brun-noir `#2a211a`, caramel `#96603c`.
-- **Police** : Satoshi (Fontshare), variable, self-hosted dans
-  `public/fonts/`.
-- La forme organique du background vidéo est reprise en SVG
-  (`components/OrganicShape.tsx`).
+## Design (v3, 2026-09-11 — refonte en noir)
+
+- **Charte** : alignée sur celle de The ALGORITM
+  (`algoritm-brain/00-systeme/DESIGN.md`), en version sombre — noir pur,
+  blanc, bleu `#0662F8` par touches, ambre pour le focus clavier.
+- **Trame sombre** (`public/brand/trame-dark-blue.svg`, tuile 900 px) en fond
+  des hero et des bandeaux d'ouverture seulement ; jamais sous du texte
+  courant ni sous un formulaire.
+- **Polices** : Nunito (variable, texte) ; police ALGORITM réservée au nom
+  « MATHIAS POULIOT » et aux numéros — capitales, jamais colorée, jamais
+  sous 21 px, aucune capitale accentuée.
+- **Nombre d'or** conservé : échelle ×1.618, espacements Fibonacci, sections
+  1.618:1, grille 12 colonnes, conteneur 1200 px.
+- **Assets** (polices, trame, logo, `og.png`, favicon) régénérés depuis le kit
+  de marque par `python scripts/generer-assets-marque.py`.
+- **Promesse ALGORITM** : seule la formulation officielle (`lib/site.ts`),
+  aucun prix, aucun nom de programme, aucun chiffre de résultat.
+- **Voix** : « je » + vouvoiement du lecteur sur les pages du site (les
+  articles générés gardent leur ton d'origine).
 
 ## Commandes
 

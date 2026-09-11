@@ -8,9 +8,7 @@ export default function Footer() {
       <div className="container">
         <div className={styles.top}>
           <div>
-            <p className={styles.logo}>
-              Mat<span className={styles.dot}>.</span>
-            </p>
+            <p className={styles.logo}>Mathias Pouliot</p>
             <p className={styles.tagline}>{site.tagline}</p>
           </div>
 
@@ -24,11 +22,11 @@ export default function Footer() {
             </div>
             <div className={styles.col}>
               <p className="t-meta">Suivre</p>
-              <a href={site.youtube} target="_blank" rel="noopener noreferrer">
-                YouTube
-              </a>
               <a href={site.linkedin} target="_blank" rel="noopener noreferrer">
                 LinkedIn
+              </a>
+              <a href={site.youtube} target="_blank" rel="noopener noreferrer">
+                YouTube
               </a>
               <a
                 href={site.instagram}
@@ -37,13 +35,22 @@ export default function Footer() {
               >
                 Instagram
               </a>
+              <a
+                href={site.algoritm.url}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                the-algoritm.io
+              </a>
             </div>
           </nav>
         </div>
 
         <div className={styles.bottom}>
-          <p>© {new Date().getFullYear()} Mat — Tous droits réservés</p>
-          <p>Québec, Canada</p>
+          <p>
+            © {new Date().getFullYear()} {site.name} — Tous droits réservés
+          </p>
+          <p>{site.city}</p>
         </div>
       </div>
     </footer>
